@@ -1,0 +1,1474 @@
+{
+  "document_id": "119855336",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений ОСОБА_9  в судовому засіданні свою вину у вчиненні вказаного злочину визнав в повному обсязі",
+          "paragraph_id": 31,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Так, майно, яким заволоділи обвинувачені, було для них чужим, адже не перебувало в їх власності чи законному володінні, ОСОБА_9 і ОСОБА_10 не мали на нього жодного права, цим майном вони заволоділи у спосіб, який заборонений законом. Це означає, що заволодіння майном відбулось протиправно.",
+          "paragraph_id": 173,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Викрадення майна здійснювалось обвинуваченими в присутності потерпілої ОСОБА_8 , яка їх бачила та усвідомлювала протиправний характер їх дій. За цією ознакою воно є відкритим та визначається як грабіж.",
+          "paragraph_id": 174,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Про наявність в діях ОСОБА_9 і ОСОБА_10 такої кваліфікуючої ознаки як «проникнення у житло» свідчить, те, що вчиняючи грабіж, поєднаний з проникненням, обвинувачені усвідомлювали протиправність входження (потрапляння) до житлового приміщення потерпілої та перебування в ньому під час вчинення злочину.",
+          "paragraph_id": 175,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Як слідує з матеріалів кримінального провадження, а також з показань обвинуваченого ОСОБА_9 , він разом з ОСОБА_10 в день вчинення грабежу, зустрічалися для того, щоб пройтись по вулиці повз будинку потерпілої, оцінити обстановку, обговорити та визначитися з подальшими діями.",
+          "paragraph_id": 178,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Отже, умисел на викрадення чужого майна у ОСОБА_9 і ОСОБА_10 виник ще до проникнення у житло, тому їх дії також мають кваліфікуючу ознаку «за попередньою змовою групою осіб».",
+          "paragraph_id": 179,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Так, відповідно до указу Президента України «Про введення воєнного стану в Україні» від 24.02.2022 року № 64/2022 у зв`язку з військовою агресією російської федерації в Україні введено воєнний стан з 05 год. 30 хв. 24.02.2022 року строком на 30 діб. У подальшому строк дії воєнного стану в державі неодноразово продовжувався, і діяв станом на 03.06.2023 року (продовжений Указом Президента України від 1 травня 2023 року № 254/2023, з 05 години 30 хвилин 20 травня 2023 року строком на 90 діб).",
+          "paragraph_id": 181,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Крім того, як встановлено судом, обвинувачений ОСОБА_10 раніше судимий 16 червня 2017 року Хустським районним судом Закарпатської області за ч. 4 ст. 187, ч. 3 ст. 186 КК України до позбавлення волі на строк 8 років, який 18.11.2020 року звільнений у зв`язку з відбуттям строку покарання. Отже, ОСОБА_10 має не зняту та не погашену судимість, а тому його дії також мають кваліфікуючу ознаку «вчинення повторно».",
+          "paragraph_id": 183,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Проте, загальна сума завданої злочином шкоди, вказана в обвинувальному акті, не відповідає дійсній, оскільки під час її визначення не було враховано вартість 1 золотого перстню, яка складає 9600,00 грн., що є арифметичною помилкою.",
+          "paragraph_id": 185,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Матеріальна шкода",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "зовнішніх ознак ушкоджень у потерпілої не було (ні синців, ні почервоніння на обличчі).",
+          "paragraph_id": 157,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Оцінка доказів",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "остання ззовні не мала жодних тілесних ушкоджень.",
+          "paragraph_id": 158,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Оцінка доказів",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Як вбачається з матеріалів кримінального провадження, судово-медична експертиза або медичний огляд (освідування) на предмет наявності у неї тілесних ушкоджень за вищевказаних обставин не проводилися.",
+          "paragraph_id": 159,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Оцінка доказів",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "- розпискою ОСОБА_8 від 17.07.2023 року про отримання від ОСОБА_9 грошових коштів в сумі 500 доларів США та 7500 грн. в рахунок відшкодування шкоди (том 2 а.к.п. 179);",
+          "paragraph_id": 80,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Докази сторони обвинувачення",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Наведені вище докази, в їх сукупності, суд визнає належними та допустимими у розумінні діючого кримінального процесуального законодавства.",
+          "paragraph_id": 95,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Оцінка доказів",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Дані докази суд оцінює як такі, які жодним чином не підтверджують і не спростовують обставин, що підлягають доказуванню у цьому кримінальному проваджені, а тому є неналежними доказами у справі.",
+          "paragraph_id": 111,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Оцінка доказів",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Дані докази суд також оцінює як такі, що жодним чином не підтверджують і не спростовують обставин, що підлягають доказуванню у цьому кримінальному проваджені, а тому є неналежними доказами у справі.",
+          "paragraph_id": 116,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Оцінка доказів",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Суд, дослідивши докази, надані сторонами кримінального провадження, як прокурором на підтвердження вини обвинувачених ОСОБА_10 і ОСОБА_9 , так і сторони захисту, дійшов висновку, що дії обвинувачених ОСОБА_10 та ОСОБА_9 , які були інкриміновані за ч. 4 ст. 187 КК України не знайшли свого підтвердження в ході судового слідства.",
+          "paragraph_id": 131,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Користуючись своїм правом, визначеним ст. 337 КПК України, суд дійшов висновку про зміну правової кваліфікації кримінального правопорушення, вчиненого останніми, оскільки це покращує їх становище.",
+          "paragraph_id": 132,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Зібраними під час досудового розслідування та перевіреними в ході судового слідства доказами не підтверджено факту застосування ОСОБА_10 і ОСОБА_9 погроз насильства, небезпечного для життя потерпілої.",
+          "paragraph_id": 133,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Крім того, не встановлено факту викрадення майна потерпілої, а саме: мобільного телефону марки «Нокіа», моделі 1280, б/в, вартістю 740 грн., з сім карткою оператора мобільного зв`язку ПрАТ «Київстар», вартістю 70 грн., у зв`язку з чим суд визнає частину обвинувачення щодо викрадення ОСОБА_10 і ОСОБА_9 цього майна необґрунтованою.",
+          "paragraph_id": 134,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Оцінюючи покази потерпілої, надані в судовому засіданні, у поєднанні із іншими доказами, дослідженими в ході судового слідства, судом не встановлено застосування до неї погрози фізичної розправи із застосуванням ножа, оскільки ОСОБА_8 лише висловила припущення, що один з обвинувачених пішов в напрямку кухні за ножом. В той же час, пояснення потерпілої не підтверджують ознак, характерних для розбою, оскільки не відображають суб`єктивного сприйняття потерпілою погрози насильства, небезпечного для її життя чи здоров`я.",
+          "paragraph_id": 160,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Оцінка доказів",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Не знайшла свого підтвердження і та обставина, що потерпілій ОСОБА_8 , було завдано удару в область голови,",
+          "paragraph_id": 157,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Оцінка доказів",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "За таких обставин, суд, проаналізувавши та оцінивши всі докази в їх сукупності, за своїм внутрішнім переконанням, яке ґрунтується на всебічному, повному й неупередженому дослідженні всіх обставин кримінального провадження, керуючись законом, оцінюючи кожний доказ з точки зору належності, допустимості, достовірності, а сукупність зібраних доказів з точки зору достатності та взаємозв`язку, дійшов висновку, що винуватість ОСОБА_9 і ОСОБА_10 у вчиненні злочину, передбаченого ч. 4 ст. 186 КК України, доведена повністю.",
+          "paragraph_id": 188,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Висновки суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C11",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Дії ОСОБА_10 суд вважає за необхідне перекваліфікувати на ч. 4 ст. 186 КК України, як відкрите викрадення чужого майна (грабіж), вчинений повторно, за попередньою змовою групою осіб, поєднаний з проникненням у житло, вчинений в умовах воєнного стану.",
+          "paragraph_id": 190,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C12",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Дії ОСОБА_9 суд вважає за необхідне перекваліфікувати на ч. 4 ст. 186 КК України, як відкрите викрадення чужого майна (грабіж), за попередньою змовою групою осіб, поєднаний з проникненням у житло, вчинений в умовах воєнного стану.",
+          "paragraph_id": 191,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C13",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Згідно із ст. 12 КК України, вчинений ОСОБА_10 і ОСОБА_9 злочин є тяжким, оскільки передбачає покарання у виді позбавлення волі строком від семи до десяти років.",
+          "paragraph_id": 194,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C14",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставини, які згідно зі ст. 66 КК України пом`якшують покарання ОСОБА_10 , судом не встановлено.",
+          "paragraph_id": 195,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Обставини, що впливають на покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C15",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставиною, що обтяжує покарання ОСОБА_10 , у відповідності до ст. 67 КК України, суд визнає вчинення злочину щодо особи похилого віку, оскільки на момент вчинення злочину обвинувачений достеменно знав власницю будинку, до якого вони із ОСОБА_9 домовилися проникнути.",
+          "paragraph_id": 196,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Обставини, що впливають на покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C16",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "За встановлених обставин, суд вважає за необхідне призначити ОСОБА_10 покарання у виді позбавлення волі у межах санкції ч.4 ст.186 КК України.",
+          "paragraph_id": 199,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C17",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Обраний ОСОБА_10 запобіжний захід у вигляді тримання під вартою до набрання вироком суду законної сили слід залишити без змін.",
+          "paragraph_id": 201,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C18",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "До обставини, які згідно зі ст. 66 КК України пом`якшують покарання ОСОБА_9 , суд відносить щире каяття, активне сприяння розкриттю злочину, відшкодування спричиненої шкоди.",
+          "paragraph_id": 202,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Обставини, що впливають на покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C19",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставиною, що обтяжує покарання ОСОБА_9 , у відповідності до ст. 67 КК України, суд визнає вчинення злочину щодо особи похилого віку, оскільки на момент вчинення злочину обвинувачений достеменно знав власницю будинку, до якого вони із ОСОБА_10 домовилися проникнути.",
+          "paragraph_id": 203,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Обставини, що впливають на покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C20",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Разом із тим, на думку суду, всі ці обставини не є підставою для застосування до ОСОБА_9 положень ст.ст.69, 75 КК України.",
+          "paragraph_id": 205,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C21",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Суд вважає за необхідне призначити ОСОБА_9 покарання у виді позбавлення волі у мінімальних межах санкції ч.4 ст.186 КК України.",
+          "paragraph_id": 206,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C22",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "На підставі ч. 5 ст. 72 КК України необхідно зарахувати в строк призначеного ОСОБА_9 за даним вироком покарання строк попереднього ув`язнення обвинуваченого у межах даного кримінального провадження, із розрахунку один день попереднього ув`язнення за один день позбавлення волі за період з 6 червня 2023 року по 08 червня 2023 року включно.",
+          "paragraph_id": 209,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C23",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Із врахуванням того, що суд дійшов висновку про остаточне призначення обвинуваченому реальної міри покарання, з метою запобігти можливим ризикам ухилитися від суду та перешкодити виконанню вироку після набрання ним законної сили, суд вважає за доцільне змінити обвинуваченому ОСОБА_9 до вступу вироку в законну силу запобіжний захід із цілодобового домашнього арешту на тримання під вартою, взявши його під варту в залі суду.",
+          "paragraph_id": 210,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C24",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Судові витрати, понесені у межах даного кримінального провадження згідно долучених прокурором довідок, у загальній сумі 83878 грн. 45 коп., підлягають стягненню із обвинувачених.",
+          "paragraph_id": 211,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C25",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Долю речових доказів слід вирішити у відповідності до вимог ст. 100 КПК України.",
+          "paragraph_id": 212,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C26",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Разом з тим, 11 (одинадцять) купюр номіналом 1 (одна) тисяча гривень, з номерами: БЛ4330542, БМ 0165091, БЛ 4330541, АЄ 8933405, БЛ 43300539, БЛ 7285235, БЛ 5397806, БК 95000572, БК1388562, БК 1388560 та 2 (дві) купюри номіналом 500 (п`ятсот) гривень з номерами АЕ 6074283, ЕЖ 8700490, які були вилучені в ході обшуку від 06.06.2023 року, проведеного слідчим СВ Березівського РВП ГУНП в Одеській області лейтенантом поліції ОСОБА_25 , на території домоволодіння, розташованого за адресою: АДРЕСА_2 , слід повернути ОСОБА_22 , оскільки під час судового слідства не знайшло свого підтвердження, що ці грошові кошти були знаряддям вчинення кримінального правопорушення, зберегли на собі його сліди або містять інші відомості, які можуть бути використані як доказ факту чи обставин, що встановлюються під час кримінального провадження, в тому числі набуті кримінально протиправним шляхом або отримані внаслідок вчинення кримінального правопорушення.",
+          "paragraph_id": 213,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C27",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Підстави для застосування спеціальної конфіскації відсутні.",
+          "paragraph_id": 214,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C28",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Арешт, накладений ухвалами слідчих суддів Березівського районного суду Одеської області від 07 червня 2023 року (ЄУНСС: 494/972/23, НП: 1-кс/494/294/23), від 08 червня 2023 року (ЄУНСС: 494/972/23, НП: 1-кс/494/306/23), - скасувати.",
+          "paragraph_id": 225,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Заходи забезпечення кримінального провадження",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C29",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Отже, загальний розмір завданої злочином шкоди потерпілій ОСОБА_8 , як встановлено судом, становить 107 569 гривень.",
+          "paragraph_id": 186,
+          "start_char": 0,
+          "end_char": null
+        },
+        "section": "Матеріальна шкода",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Ніхто із них не мав у руці ножа.",
+          "paragraph_id": 155,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вчинений ОСОБА_10 і ОСОБА_9 злочин є тяжким, оскільки передбачає покарання у виді позбавлення волі строком від семи до десяти років.",
+          "paragraph_id": 194,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставини, які згідно зі ст. 66 КК України пом`якшують покарання ОСОБА_10 , судом не встановлено.",
+          "paragraph_id": 195,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставиною, що обтяжує покарання ОСОБА_10 , у відповідності до ст. 67 КК України, суд визнає вчинення злочину щодо особи похилого віку",
+          "paragraph_id": 196,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "суд враховує активну роль останнього у вчиненні злочину (був ініціатором)",
+          "paragraph_id": 198,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "До обставини, які згідно зі ст. 66 КК України пом`якшують покарання ОСОБА_9 , суд відносить щире каяття, активне сприяння розкриттю злочину, відшкодування спричиненої шкоди.",
+          "paragraph_id": 202,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставиною, що обтяжує покарання ОСОБА_9 , у відповідності до ст. 67 КК України, суд визнає вчинення злочину щодо особи похилого віку",
+          "paragraph_id": 203,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_9 перебуває у шлюбі, має на утриманні малолітню дитину ... за яким характеризується позитивно, на обліку у лікарів нарколога та психіатра не перебуває, раніше не притягувався до кримінальної відповідальності.",
+          "paragraph_id": 204,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "всі ці обставини не є підставою для застосування до ОСОБА_9 положень ст.ст.69, 75 КК України.",
+          "paragraph_id": 205,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "оскільки під час судового слідства не знайшло свого підтвердження, що ці грошові кошти були знаряддям вчинення кримінального правопорушення, зберегли на собі його сліди або містять інші відомості, які можуть бути використані як доказ",
+          "paragraph_id": 213,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Доля речових доказів",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Докази, якими б поза розумним сумнівом підтверджувалась винуватість ОСОБА_9 і ОСОБА_10 у заволодінні мобільним телефоном марки «Нокіа» з сім-карткою, який належить потерпілій, стороною обвинувачення суду не надані.",
+          "paragraph_id": 168,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів судом",
+        "support_status": null
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "він разом з ОСОБА_10 в день вчинення грабежу, зустрічалися для того, щоб пройтись по вулиці повз будинку потерпілої, оцінити обстановку, обговорити та визначитися з подальшими діями.",
+          "paragraph_id": 178,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого ОСОБА_9",
+        "support_status": null
+      },
+      {
+        "id": "P27",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "виявлено та вилучено: фрагмент відламаної зовнішньої лиштви вхідних дверей; дві частини двохциліндрового механізму врізного замку з вхідних дверей та ключ;",
+          "paragraph_id": 48,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Огляд місця події",
+        "support_status": null
+      },
+      {
+        "id": "P28",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в Україні введено воєнний стан з 05 год. 30 хв. 24.02.2022 року ... і діяв станом на 03.06.2023 року",
+          "paragraph_id": 181,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Загальновідомі обставини (воєнний стан)",
+        "support_status": null
+      },
+      {
+        "id": "P29",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_10 раніше судимий 16 червня 2017 року ... Отже, ОСОБА_10 має не зняту та не погашену судимість, а тому його дії також мають кваліфікуючу ознаку «вчинення повторно».",
+          "paragraph_id": 183,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого ОСОБА_10",
+        "support_status": null
+      },
+      {
+        "id": "P30",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений ОСОБА_9 в судовому засіданні заперечив викрадення у потерпілої мобільного телефону, а ні ним, а ні ОСОБА_10",
+          "paragraph_id": 167,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого ОСОБА_9",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Зізнання ОСОБА_9 у суді є вагомою підставою для висновку про доведеність його участі у відкритому заволодінні майном."
+      },
+      {
+        "id": "E02",
+        "source": "P03",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Факт відкритого заволодіння майном у присутності потерпілої підтверджує склад грабежу, інкримінований обом обвинуваченим."
+      },
+      {
+        "id": "E03",
+        "source": "P04",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Проникнення до житла є кваліфікуючою ознакою ч.4 ст.186 КК України і підтримує висновок про вчинення саме грабежу з проникненням."
+      },
+      {
+        "id": "E04",
+        "source": "P05",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Попереднє обговорення плану дій свідчить про узгодженість та попередню змову співвиконавців."
+      },
+      {
+        "id": "E05",
+        "source": "P06",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Наявність умислу ще до проникнення підтверджує ознаку «за попередньою змовою групою осіб»."
+      },
+      {
+        "id": "E06",
+        "source": "P07",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Доведеність дії воєнного стану на час події обґрунтовує кваліфікуючу ознаку злочину за ч.4 ст.186 КК України."
+      },
+      {
+        "id": "E07",
+        "source": "C05",
+        "target": "C11",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Суд прямо вказав на зміну правової кваліфікації на підставі ст.337 КПК України, що зумовило перекваліфікацію дій ОСОБА_10."
+      },
+      {
+        "id": "E08",
+        "source": "P08",
+        "target": "C11",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Незнята та непогашена судимість ОСОБА_10 підтверджує ознаку «вчинення повторно», зазначену у перекваліфікації."
+      },
+      {
+        "id": "E09",
+        "source": "C05",
+        "target": "C12",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Зміна правової кваліфікації на підставі ст.337 КПК України поширена судом і на дії ОСОБА_9."
+      },
+      {
+        "id": "E10",
+        "source": "C08",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Відсутність встановленої реальної погрози із застосуванням ножа свідчить про недоведеність погрози насильством, небезпечним для життя."
+      },
+      {
+        "id": "E11",
+        "source": "C06",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Недоведеність погрози насильством, небезпечним для життя, спростовує склад розбою за ч.4 ст.187 КК України."
+      },
+      {
+        "id": "E12",
+        "source": "C07",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Не встановлення факту викрадення телефону свідчить про часткову необґрунтованість обвинувачення за ч.4 ст.187, що підтримує висновок про відсутність підтвердження цієї кваліфікації."
+      },
+      {
+        "id": "E13",
+        "source": "P10",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Відсутність зовнішніх ушкоджень у потерпілої суперечить твердженню про завдання удару по голові."
+      },
+      {
+        "id": "E14",
+        "source": "P11",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Відеофіксація з огляду місця події засвідчила відсутність тілесних ушкоджень, що узгоджується з невстановленням факту удару."
+      },
+      {
+        "id": "E15",
+        "source": "P12",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Відсутність медичного огляду/експертизи не підтверджує наявність ушкоджень і не спростовує висновок про відсутність удару."
+      },
+      {
+        "id": "E16",
+        "source": "P09",
+        "target": "C29",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Суд прямо вказав на арифметичну помилку при обчисленні шкоди, що обґрунтовує скориговану суму."
+      },
+      {
+        "id": "E17",
+        "source": "P13",
+        "target": "C18",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Розписка про часткове відшкодування шкоди підтверджує наявність пом`якшуючої обставини щодо ОСОБА_9."
+      },
+      {
+        "id": "E18",
+        "source": "C13",
+        "target": "C16",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Класифікація злочину як тяжкого за ст.12 КК України враховується при визначенні виду та меж покарання."
+      },
+      {
+        "id": "E19",
+        "source": "C14",
+        "target": "C16",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Відсутність пом`якшуючих обставин щодо ОСОБА_10 впливає на суворість призначеного покарання."
+      },
+      {
+        "id": "E20",
+        "source": "C15",
+        "target": "C16",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Вчинення злочину щодо особи похилого віку є обтяжуючою обставиною і обґрунтовує реальне позбавлення волі."
+      },
+      {
+        "id": "E21",
+        "source": "C13",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Визнання злочину тяжким враховано при визначенні мінімальних меж покарання для ОСОБА_9."
+      },
+      {
+        "id": "E22",
+        "source": "C18",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Наявність щирого каяття, сприяння розкриттю та відшкодування шкоди зумовлює призначення покарання у мінімальних межах санкції."
+      },
+      {
+        "id": "E23",
+        "source": "C19",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Обтяжуюча обставина врахована судом у балансі при призначенні покарання."
+      },
+      {
+        "id": "E24",
+        "source": "C20",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Відмова у застосуванні ст.ст.69, 75 КК України обґрунтовує призначення реального строку у межах санкції."
+      },
+      {
+        "id": "E42",
+        "source": "P28",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.82,
+        "justification": "Ознака вчинення злочину в умовах воєнного стану охоплює і дії ОСОБА_9."
+      },
+      {
+        "id": "E25",
+        "source": "P11",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.74,
+        "justification": "Відсутність медичного огляду/експертизи не підтверджує заподіяння ушкоджень, небезпечних для життя або здоров'я."
+      },
+      {
+        "id": "E26",
+        "source": "C04",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Непідтвердження обвинувачення за розбій обґрунтовує необхідність перекваліфікації на грабіж."
+      },
+      {
+        "id": "E43",
+        "source": "C04",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Відсутність складу розбою щодо ОСОБА_9 обумовлює перекваліфікацію на грабіж."
+      },
+      {
+        "id": "E27",
+        "source": "P08",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Потерпіла знайшла телефон удома пізніше, що спростовує факт його викрадення."
+      },
+      {
+        "id": "E28",
+        "source": "P25",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Сторона обвинувачення не надала належних доказів заволодіння телефоном, що підтверджує висновок суду."
+      },
+      {
+        "id": "E29",
+        "source": "P30",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Заперечення ОСОБА_9 щодо викрадення телефону корелює з відсутністю доказів цього факту."
+      },
+      {
+        "id": "E30",
+        "source": "P15",
+        "target": "C14",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.82,
+        "justification": "Категорія тяжкості злочину враховується при визначенні міри покарання."
+      },
+      {
+        "id": "E31",
+        "source": "P16",
+        "target": "C14",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.82,
+        "justification": "Відсутність пом'якшуючих обставин сприяє призначенню реального покарання."
+      },
+      {
+        "id": "E32",
+        "source": "P17",
+        "target": "C14",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.82,
+        "justification": "Вчинення щодо особи похилого віку є обтяжуючою обставиною, що посилює суворість покарання."
+      },
+      {
+        "id": "E33",
+        "source": "P18",
+        "target": "C14",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.78,
+        "justification": "Активна роль і ініціація злочину з боку ОСОБА_10 обґрунтовують призначення позбавлення волі."
+      },
+      {
+        "id": "E34",
+        "source": "P19",
+        "target": "C15",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.82,
+        "justification": "Щире каяття, сприяння розкриттю та відшкодування враховані для призначення мінімального строку позбавлення волі."
+      },
+      {
+        "id": "E35",
+        "source": "P20",
+        "target": "C15",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.8,
+        "justification": "Вчинення щодо особи похилого віку є обтяжуючою обставиною, яку суд врахував при визначенні покарання."
+      },
+      {
+        "id": "E36",
+        "source": "P21",
+        "target": "C15",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.75,
+        "justification": "Позитивні дані про особу ОСОБА_9 враховано судом при індивідуалізації покарання."
+      },
+      {
+        "id": "E37",
+        "source": "P22",
+        "target": "C15",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.74,
+        "justification": "Суд окремо зазначив, що підстав для застосування ст.ст. 69, 75 КК України немає, що узгоджується з призначенням реального покарання."
+      },
+      {
+        "id": "E38",
+        "source": "P24",
+        "target": "C19",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Відсутність ознак речового доказу чи кримінального походження коштів обумовлює їх повернення власниці."
+      },
+      {
+        "id": "E39",
+        "source": "C20",
+        "target": "C01",
+        "relation": "ATTACK",
+        "support_structure": "UNKNOWN",
+        "confidence": 0.6,
+        "justification": "Заперечення ОСОБА_10 щодо своєї причетності суперечить висновку суду про доведеність його вини."
+      },
+      {
+        "id": "E40",
+        "source": "C01",
+        "target": "C14",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Призначення покарання можливе лише за умови доведеності вини."
+      },
+      {
+        "id": "E41",
+        "source": "C01",
+        "target": "C15",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Висновок про доведеність вини є підставою для призначення покарання ОСОБА_9."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "EVIDENCE",
+        "main_claim": "C01",
+        "components": [
+          "C01"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "EVIDENCE",
+        "main_claim": "C02",
+        "components": [
+          "C02"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "EVIDENCE",
+        "main_claim": "C03",
+        "components": [
+          "C03"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C04",
+        "components": [
+          "C04",
+          "C06",
+          "C07",
+          "C08"
+        ],
+        "edges": [
+          "E11",
+          "E12",
+          "E10"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C11",
+        "components": [
+          "C11",
+          "C05",
+          "P08"
+        ],
+        "edges": [
+          "E07",
+          "E08"
+        ]
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C12",
+        "components": [
+          "C12",
+          "C05"
+        ],
+        "edges": [
+          "E09"
+        ]
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "GUILT",
+        "main_claim": "C10",
+        "components": [
+          "P01",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "C10"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06"
+        ]
+      },
+      {
+        "argument_id": "A08",
+        "argument_type": "FACTUAL",
+        "main_claim": "C09",
+        "components": [
+          "P10",
+          "P11",
+          "P12",
+          "C09"
+        ],
+        "edges": [
+          "E13",
+          "E14",
+          "E15"
+        ]
+      },
+      {
+        "argument_id": "A09",
+        "argument_type": "FACTUAL",
+        "main_claim": "C29",
+        "components": [
+          "P09",
+          "C29"
+        ],
+        "edges": [
+          "E16"
+        ]
+      },
+      {
+        "argument_id": "A10",
+        "argument_type": "MITIGATING_CIRCUMSTANCES",
+        "main_claim": "C18",
+        "components": [
+          "P13",
+          "C18"
+        ],
+        "edges": [
+          "E17"
+        ]
+      },
+      {
+        "argument_id": "A11",
+        "argument_type": "AGGRAVATING_CIRCUMSTANCES",
+        "main_claim": "C15",
+        "components": [
+          "C15"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A12",
+        "argument_type": "AGGRAVATING_CIRCUMSTANCES",
+        "main_claim": "C19",
+        "components": [
+          "C19"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A13",
+        "argument_type": "SENTENCING",
+        "main_claim": "C16",
+        "components": [
+          "C13",
+          "C14",
+          "C15",
+          "C16"
+        ],
+        "edges": [
+          "E18",
+          "E19",
+          "E20"
+        ]
+      },
+      {
+        "argument_id": "A14",
+        "argument_type": "SENTENCING",
+        "main_claim": "C21",
+        "components": [
+          "C13",
+          "C18",
+          "C19",
+          "C20",
+          "C21"
+        ],
+        "edges": [
+          "E21",
+          "E22",
+          "E23",
+          "E24"
+        ]
+      },
+      {
+        "argument_id": "A15",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C17",
+        "components": [
+          "C17"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A16",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C23",
+        "components": [
+          "C23"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A17",
+        "argument_type": "SENTENCING",
+        "main_claim": "C22",
+        "components": [
+          "C22"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A18",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C24",
+        "components": [
+          "C24"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A19",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C25",
+        "components": [
+          "C25"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A20",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C26",
+        "components": [
+          "C26"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A21",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C27",
+        "components": [
+          "C27"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A22",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C28",
+        "components": [
+          "C28"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [],
+        "text": "\"04.06.2024 року\" у протоколі прийняття заяви (п. 46)",
+        "conflicts_with": "В інших частинах матеріалів події та заяви датовані 03-04.06.2023 року.",
+        "description": "Невідповідність року (2024 замість 2023) у даті протоколу прийняття заяви про кримінальне правопорушення. Ймовірна описка.",
+        "likely_error": true
+      },
+      {
+        "id": "I02",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [],
+        "text": "\"04.03.2023 року\" у показаннях свідка ОСОБА_15 (п. 36)",
+        "conflicts_with": "Загальний перебіг подій віднесено судом до ночі з 03 на 04.06.2023 року.",
+        "description": "Невідповідність місяця у даті події у свідченнях (березень замість червня). Ймовірна описка у даті.",
+        "likely_error": true
+      },
+      {
+        "id": "I03",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [],
+        "text": "\"ОСОБА_71\" у п. 162",
+        "conflicts_with": "В інших частинах рішення фігурує \"ОСОБА_10\" як співобвинувачений разом з ОСОБА_9.",
+        "description": "Ідентифікатор особи відрізняється від решти тексту, що свідчить про технічну помилку.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 29,
+      "number_of_claims": 29,
+      "number_of_support_edges": 42,
+      "number_of_attack_edges": 1,
+      "number_of_arguments": 22,
+      "root_claims": [
+        "C02",
+        "C03",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C16",
+        "C17",
+        "C21",
+        "C22",
+        "C23",
+        "C24",
+        "C25",
+        "C26",
+        "C27",
+        "C28",
+        "C29"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 35
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.88; review 6 flagged missing or hallucinated field(s)."
+  }
+}

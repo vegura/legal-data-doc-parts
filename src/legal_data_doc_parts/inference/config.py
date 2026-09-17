@@ -7,9 +7,9 @@ from pathlib import Path
 PACKAGE_DIR = Path(__file__).resolve().parent.parent
 
 PROJECT_ID = "lab-test-project-1-305710"
-DOCUMENT_TABLE = f"{PROJECT_ID}.court_data_2024.document_data"
+DOCUMENT_TABLE = f"{PROJECT_ID}.court_data_selected.document_data"
 
-BUCKET_NAME = "court_data_2024_structured"
+BUCKET_NAME = "court_data_selected_structured"
 BLOB_TEMPLATE = "document_text_parsing/info_version_9/{justice_kind}/{document_id}/{name}"
 INPUT_BLOB_NAME = "paragraphs.parquet"
 OUTPUT_BLOB_NAME = "classification.parquet"
@@ -17,7 +17,7 @@ OUTPUT_BLOB_NAME = "classification.parquet"
 # Best checkpoint of the 5-epoch run (validation macro-F1 0.9068). Neither training run
 # exported a final/ directory, so the checkpoint is the artefact.
 DEFAULT_MODEL_PATH = PACKAGE_DIR / "model" / "checkpoint-43407"
-DEFAULT_RUNS_DIR = PACKAGE_DIR / "runs"
+DEFAULT_RUNS_DIR = PACKAGE_DIR / "runs_selected"
 
 # Sections in document order. The running-max rule in sequential.py depends on the model's
 # label ids agreeing with this ordering; classifier.py asserts it at load time.
