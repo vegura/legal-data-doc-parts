@@ -1,0 +1,883 @@
+{
+  "document_id": "116432495",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "09.01.2024 року близько 10:00 год.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини (обвинувальний акт)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "перебуваючи на льодовому покритті ставка, який знаходиться поблизу вул.Лесі Українки в с. Дмитрівка, Машівської ТГ, Полтавського (Машівського) району, Полтавської області,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини (обвинувальний акт)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "на ґрунті раптово виниклих особистих неприязних відносин,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини (обвинувальний акт)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "умисно, з метою заподіяння тілесного ушкодження,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини (обвинувальний акт)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "стоячи обличчям до ОСОБА_5 ,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини (обвинувальний акт)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_4 кулаками правої руки наніс йому один удар в обличчя.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини (обвинувальний акт)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "згідно висновку судово-медичного експерта № 13 від 10.01.2024 року",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини (обвинувальний акт)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "отримав тілесне ушкодження у вигляді синця налівій щоці, яке кваліфікується, як легке тілесне ушкодження.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини (обвинувальний акт)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "За таких обставин, дії ОСОБА_4 правильно кваліфіковані за ч. 1 ст. 125 КК України, як умисне легке тілесне ушкодження.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "16.01.2024 між підозрюваним ОСОБА_4 та потерпілим ОСОБА_5 укладена угода про примирення, згідно з якою, у зв`язку з тим, що потерпілому не завдані матеріальні збитки, а тому на підозрюваного обов`язок відшкодування матеріальних збитків, не покладається.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про примирення та пом'якшуючі обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставинами, що пом`якшують покарання, визначено: щире каяття та активне сприяння розкриттю кримінального правопорушення.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про примирення та пом'якшуючі обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст. 468 КПК України у кримінальному провадженні може бути укладена угода про примирення між потерпілим та підозрюваним чи обвинуваченим.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави (КПК України)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно з ч. 3 ст. 469 КПК України угода про примирення між потерпілим та підозрюваним чи обвинуваченим може бути укладена у провадженні щодо кримінальних проступків, нетяжких злочинів та у кримінальному провадженні у формі приватного обвинувачення.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави (КПК України)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Кримінальне правопорушення, у скоєнні якого обвинувачується ОСОБА_6 , відноситься до кримінальних проступків у формі приватного обвинувачення, правова кваліфікація кримінального правопорушення правильна, існують достатні фактичні підстави для визнання винуватості обвинуваченого у вчиненні цього кримінального проступку, а отже умови угоди не суперечать вимогами Кримінального процесуального Кодексу та Кримінального Кодексу України.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Умови угоди відповідають інтересам суспільства, не порушують права, свободи чи інтереси сторін та інших осіб.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У судовому засіданні обвинувачений визнав винуватість у вчиненні кримінального проступку, передбаченого ч. 1 ст. 125 КК України, щиро кається та погоджується на призначення узгодженого покарання та затвердження угоди.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін щодо угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Потерпілий надав заяву з проханням провести судове засідання без його участі та угоду підтримав, просив її затвердити (а.с.41).",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін щодо угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Прокурор не заперечував проти затвердження угоди та призначення узгодженого сторонами покарання.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін щодо угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На виконання вимог ст. 474 КПК України судом з`ясовано обставини, які дають змогу впевнитися в тому, що обвинувачений усвідомлює свої права, передбачені ч. 5 п. 1 ст. 474 КПК України, цілком розуміє наслідки укладення і затвердження угоди, передбачені ч. 1 п. 1 ст. 473 КПК України та наслідки невиконання угоди, передбачені ст. 389-1 КК України, характер обвинувачення та вид покарання, яке буде до нього застосовано.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Потерпілий цілком розуміє наслідки укладення і затвердження угоди, передбачені ч. 1 п. 2 ст. 473 КПК України, про що зазначив в угоді про примирення.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Укладення угоди сторонами є добровільним, тобто не є наслідком застосування насильства, примусу, погроз або наслідком обіцянок чи дії будь-яких інших обставин, ніж ті, що передбачені в угоді, сторони примирилися, про що останні ствердили в судовому засіданні.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Узгоджене сторонами покарання відповідає загальним правилам призначення покарань, передбаченим КК України.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди / Покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На цій підставі, відповідно до ст. 65 КК України, сторони узгодили, що покарання підозрюваному повинно бути призначене у межах санкції ч. 1 ст. 125 КК України у виді штрафу в розмірі 30 неоподатковуваних мінімумів доходів громадян, тобто 510,00 грн, яке є необхідним та достатнім для виправлення обвинуваченого та попередження вчинення ним нових кримінальних правопорушень.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Узгоджене покарання та правові підстави (КК України)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "LB02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ст. 65 КК України",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави (КК України)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "З огляду на викладене, суд дійшов висновку про наявність підстав для затвердження угоди про примирення.",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновок щодо затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "LB01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. 373, 374, 475 КПК України, суд",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оперативна частина / Правові підстави (КПК України)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Потерпілий надав заяву з проханням провести судове засідання без його участі та угоду підтримав, просив її затвердити (а.с.41).",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін (п. 25)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Прокурор не заперечував проти затвердження угоди та призначення узгодженого сторонами покарання.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін (п. 26)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст. 468 КПК України у кримінальному провадженні може бути укладена угода про примирення між потерпілим та підозрюваним чи обвинуваченим.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави (КПК України) (п. 28)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно з ч. 3 ст. 469 КПК України угода про примирення між потерпілим та підозрюваним чи обвинуваченим може бути укладена у провадженні щодо кримінальних проступків, нетяжких злочинів та у кримінальному провадженні у формі приватного обвинувачення.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави (КПК України) (п. 29)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Потерпілий цілком розуміє наслідки укладення і затвердження угоди, передбачені ч. 1 п. 2 ст. 473 КПК України, про що зазначив в угоді про примирення.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди (п. 33)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Укладення угоди сторонами є добровільним, тобто не є наслідком застосування насильства, примусу, погроз або наслідком обіцянок чи дії будь-яких інших обставин, ніж ті, що передбачені в угоді, сторони примирилися, про що останні ствердили в судовому засіданні.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди (п. 34)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Узгоджене сторонами покарання відповідає загальним правилам призначення покарань, передбаченим КК України.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди (п. 35)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "З огляду на викладене, суд дійшов висновку про наявність підстав для затвердження угоди про примирення.",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновок суду щодо затвердження угоди (п. 36)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Запобіжні заходи не застосовувалися.",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Заключні положення (п. 37)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C11",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов не заявлений.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Заключні положення (п. 38)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C12",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Речові докази відсутні.",
+          "paragraph_id": 39,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Заключні положення (п. 39)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C13",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Судові витрати відсутні.",
+          "paragraph_id": 40,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Заключні положення (п. 40)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. 373, 374, 475 КПК України, суд",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оперативна частина / Правові підстави (КПК України) (п. 41)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Дата і час події є складовими фактичних обставин, на підставі яких здійснено правову кваліфікацію."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Точне місце події підтверджує опис обставин правопорушення, що враховується при кваліфікації."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Мотив конфлікту підкріплює умисний характер діяння, необхідний для кваліфікації за ст. 125 КК України."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Пряме зазначення умислу та мети заподіяння шкоди безпосередньо підтверджує елемент складу злочину."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Вказівка на взаємне розташування сторін конкретизує механізм спричинення ушкодження."
+      },
+      {
+        "id": "E06",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.97,
+        "justification": "Опис дії (удар кулаком) є основною фактичною підставою для кваліфікації умисного легкого тілесного ушкодження."
+      },
+      {
+        "id": "E07",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Посилання на висновок судово-медичного експерта підтверджує наявність тілесного ушкодження."
+      },
+      {
+        "id": "E08",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Опис характеру ушкодження (синець на щоці, легкий ступінь) відповідає кваліфікації за ч. 1 ст. 125 КК України."
+      },
+      {
+        "id": "E09",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Правильна кваліфікація діяння (ч. 1 ст. 125 КК України) є підставою для висновку про допустимість угоди у провадженні щодо проступку."
+      },
+      {
+        "id": "E10",
+        "source": "P11",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Норма ст. 468 КПК України встановлює можливість укладення угоди про примирення, що підкріплює висновок суду."
+      },
+      {
+        "id": "E11",
+        "source": "P12",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Ч. 3 ст. 469 КПК України конкретизує коло проваджень, у яких допускається угода, що підтримує зроблений висновок."
+      },
+      {
+        "id": "E12",
+        "source": "P09",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Факт укладення угоди та відсутності матеріальної шкоди є підставою для її затвердження."
+      },
+      {
+        "id": "E13",
+        "source": "P13",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Визнання вини та згода обвинуваченого на затвердження угоди свідчать про прийнятність її затвердження."
+      },
+      {
+        "id": "E14",
+        "source": "P14",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Підтримка угоди потерпілим і прохання її затвердити прямо сприяють висновку про наявність підстав для затвердження."
+      },
+      {
+        "id": "E15",
+        "source": "P15",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Відсутність заперечень прокурора узгоджується з необхідністю затвердження угоди."
+      },
+      {
+        "id": "E16",
+        "source": "P16",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "З`ясування судом усвідомлення прав та наслідків підтверджує дотримання вимог КПК для затвердження угоди."
+      },
+      {
+        "id": "E17",
+        "source": "P17",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Розуміння потерпілим наслідків угоди підтверджує її допустимість та обґрунтованість."
+      },
+      {
+        "id": "E18",
+        "source": "P18",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Добровільність укладення угоди є необхідною умовою для її затвердження."
+      },
+      {
+        "id": "E19",
+        "source": "C02",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Висновок про відповідність угоди вимогам закону логічно підводить до затвердження угоди судом."
+      },
+      {
+        "id": "E20",
+        "source": "C03",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Відповідність угоди інтересам суспільства та непорушення прав сторін є підставами для її затвердження."
+      },
+      {
+        "id": "E21",
+        "source": "C04",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Висновок про відповідність узгодженого покарання загальним правилам сприяє затвердженню угоди."
+      },
+      {
+        "id": "E22",
+        "source": "LB01",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Посилання на норми КПК України слугує правовою підставою для ухвалення рішення про затвердження угоди."
+      },
+      {
+        "id": "E23",
+        "source": "P19",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Конкретні умови узгодженого покарання підтверджують, що воно відповідає загальним правилам призначення покарання."
+      },
+      {
+        "id": "E24",
+        "source": "LB02",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Посилання на ст. 65 КК України як на загальну засаду призначення покарання підтримує висновок про відповідність узгодженого покарання закону."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C02",
+        "components": [
+          "P11",
+          "P12",
+          "C01",
+          "C02"
+        ],
+        "edges": [
+          "E09",
+          "E10",
+          "E11"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C05",
+        "components": [
+          "P09",
+          "P13",
+          "P14",
+          "P15",
+          "P16",
+          "P17",
+          "P18",
+          "C02",
+          "C03",
+          "C04",
+          "LB01",
+          "C05"
+        ],
+        "edges": [
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18",
+          "E19",
+          "E20",
+          "E21",
+          "E22"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "SENTENCING",
+        "main_claim": "C04",
+        "components": [
+          "P19",
+          "LB02",
+          "C04"
+        ],
+        "edges": [
+          "E23",
+          "E24"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C12",
+        "components": [
+          "C12"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C13",
+        "components": [
+          "C13"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "C02"
+        ],
+        "text": "Кримінальне правопорушення, у скоєнні якого обвинувачується ОСОБА_6 , ...",
+        "conflicts_with": "В інших частинах документа зазначено ОСОБА_4.",
+        "description": "У фрагменті п. 30 вказано іншого ідентифікатора особи (ОСОБА_6) замість ОСОБА_4, що є невідповідністю у тексті рішення.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 26,
+      "number_of_claims": 13,
+      "number_of_support_edges": 24,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 6,
+      "root_claims": [
+        "C05",
+        "C06",
+        "C07",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 2,
+      "items_added": 15
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.93; review 6 flagged missing or hallucinated field(s)."
+  }
+}

@@ -1,0 +1,953 @@
+{
+  "document_id": "116199866",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_4 будучи на той момент військовослужбовцем військової частини НОМЕР_1 у невстановлений час, але не пізніше 29.08.2023, у невстановленому місці, незаконно, шляхом привласнення знайденого, придбав бойову ручну наступальну осколкову гранату РГД-5 (у конструктивному поєднанні корпусу РГД-5 з підривачем УЗРГМ-2), пластичні вибухові речовини на основі гексогену, масами 105,0 г та 1289,5 г, бойову ручну осколкову гранату М67, 2 бойові уніфікованими підривачі дистанційної дії УЗРГМ-2, 3 бойові патрони калібру .50 BMG (12,7x99 мм).",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Усвідомлюючи, що зазначені предмети є боєприпасами, вибуховими пристроями та вибуховими речовинами, ОСОБА_4 , маючи умисел на зберігання боєприпасів, вибухових пристроїв та вибухових речовин, без передбаченого законом дозволу, залишив при собі вказані предмети, та здійснював їх носіння та зберігання.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В подальшому, ОСОБА_4 , продовжуючи свій злочинний умисел, направлений на носіння та зберігання бойових припасів, вибухових пристроїв та вибухових речовин, не маючи передбаченого законом дозволу, перевіз зазначені вибухові пристрої та вибухові речовини до місця свого мешкання, за адресою: АДРЕСА_1 , після чого, три бойових патрони калібру .50 BMG (12,7x99 мм), корпус бойової ручної наступальної осколкової гранати РГД-5 та бойовий уніфікований підривач дистанційної дії УЗРГМ-2, зберігав у шухляді серванту у одній з кімнат у приміщенні житлового будинку, за вказаною адресою, до моменту їх вилучення працівниками поліції в ході проведення санкціонованого обшуку, який було проведено 29 серпня 2023 року, а бойову ручну осколкову гранату М67, два бойових уніфікованих підривача дистанційної дії УЗРГМ-2 та пластичні вибухові речовини на основі гексогену, масами 105,0 г та 1289,5 г, придатні до вибухового перетворення, зберігав у ніші під сидінням лавки та під ванною у приміщенні будинку, який розташований за адресою: АДРЕСА_2 , до моменту їх вилучення працівниками поліції в ході проведення санкціонованого обшуку, який було проведено 29 серпня 2023 року.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У судовому засіданні ОСОБА_4 після роз`яснення йому судом суті обвинувачення, визнав свою вину в пред`явленому обвинуваченні та обставини, викладені в обвинувальному акті.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін / Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "З огляду на визнання обвинуваченим вини у вчиненні інкримінованого йому правопорушення, суд, відповідно до ч.3 ст.349 КПК України, визнав недоцільним дослідження доказів щодо тих обставин, які ніким не оспорюються, обмежившись допитом обвинуваченого, дослідженням матеріалів, які стосуються судових витрат, речових доказів і тих, що характеризують особу обвинуваченого.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Учасники судового провадження проти зазначеного не заперечували.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення суду",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "встановлено добровільність їх позицій,",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення суду",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "роз`яснено, що вони позбавляються права оскаржити ці обставини у апеляційному порядку.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення суду",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений ОСОБА_4 під час допиту показав, що вказані боєприпаси, вибухові пристроїв та вибухові речовини він здобув під час виконання ним бойових завдань під час проходження військової служби.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Патрони хотів залишити собі як сувеніри і згадку про його участь у війні, а гранати і вибухівку планував використати для риболовства.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Гранати зберігав окремо від підривників.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Одну гранату і патрони вдома а другу з вибухівкою в с. Тернівка у будинку який йому належить однак в якому він не проживає.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Саме неподалік с. Тернівка є водойма де він планував рибалити за допомогою згаданих речовин і пристроїв.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Розуміє, що вчинив незаконно.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Каявся у вчиненому, просив суворо не карати.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Дослідивши та оцінивши наявні докази у їх сукупності, суд дійшов висновку про доведеність вини ОСОБА_4 у незаконному придбанні, зберіганні і носінні бойових припасів, бойових пристроїв та вибухових речовин без передбаченого законом дозволу.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки суду щодо вини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Дії ОСОБА_4 суд кваліфікує за ч.1 ст.263 КК України.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставинами, що пом`якшують покарання ОСОБА_4 відповідно до п.1 ч.1 ст.66 КК України є його щире каяття, відповідно до ч.2 ст.66 КК України, участь у відсічі збройної агресії росії, отримання поранень під час виконання бойового завдання, наявність почесного нагрудного знака \"Сталевий хрест\".",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують та обтяжують покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставин, які відповідно до ст.67 КК України, обтяжують покарання обвинуваченого судом не встановлено.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують та обтяжують покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "його щире каяття",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують та обтяжують покарання",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "участь у відсічі збройної агресії росії",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують та обтяжують покарання",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "отримання поранень під час виконання бойового завдання",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують та обтяжують покарання",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "наявність почесного нагрудного знака \"Сталевий хрест\"",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують та обтяжують покарання",
+        "support_status": null
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд, у відповідності до вимог закону України про кримінальну відповідальність вважає необхідним призначити ОСОБА_4 покарання у виді передбаченому ч.1 ст.263 КК України – позбавлення волі мінімального строку – 3 роки.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При визначенні міри покарання судом враховано ступінь тяжкості вчиненого кримінального правопорушення, яке є тяжким злочином,",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "думку сторін,",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "який раніше в силу ст.89 КК України, не судимий,",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "на обліках у лікарів нарколога і психіатра не перебуває (відомості на протилежне відсутні),",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "має постійне місце проживання,",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "має на утриманні неповнолітню дитину,",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "наявність кількох обставин, що пом`якшують покарання і відсутність таких, які його обтяжують,",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Водночас, суд також дійшов висновку про можливість виправлення ОСОБА_4 без відбування покарання,",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки щодо випробування",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "вважає за можливе, відповідно до ст.75 КК України, звільнити його від відбування покарання з випробуванням, встановивши іспитовий строк на середній строк - 2 роки, із покладенням обов`язків передбачених ст.76 КК України.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки щодо випробування",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов у кримінальному проваджені не заявлявся.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P27",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст.124 КПК України у разі ухвалення обвинувального вироку суд стягує з обвинуваченого на користь держави документально підтверджені витрати на залучення експерта.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "P28",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Довідками Запорізького НДЕКЦ підтверджується розмір витрат на проведення експертиз у сумі 2390,00 грн, 1434,00 грн, 1912,00 і 4780,00 грн, що складає загальну суму 10516,00 грн,",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "отже відповідна сума підлягає стягненню з обвинуваченого на користь держави.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C11",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання про долю речових доказів суд вирішує відповідно до ст.100 КПК України.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C12",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Заходи забезпечення кримінального провадження у цьому провадженні не застосовувалися.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Заходи забезпечення кримінального провадження",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P29",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст.ст.373 - 376, 393, 395, 532 КПК України, суд",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави вироку",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Визнання вини обвинуваченим стало підставою для обмеження обсягу дослідження доказів за ч.3 ст.349 КПК України."
+      },
+      {
+        "id": "E02",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Відсутність заперечень учасників провадження підтверджує можливість недослідження неоспорюваних обставин."
+      },
+      {
+        "id": "E03",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Встановлення добровільності позицій сторін підкріплює процесуальне рішення суду обмежити дослідження доказів."
+      },
+      {
+        "id": "E04",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Роз’яснення про позбавлення права оскарження цих обставин свідчить про усвідомленість згоди сторін на такий порядок дослідження доказів."
+      },
+      {
+        "id": "E05",
+        "source": "P01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Опис незаконного придбання боєприпасів та вибухових речовин є фактичною підставою для висновку про доведеність вини."
+      },
+      {
+        "id": "E06",
+        "source": "P02",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Факт зберігання та носіння без дозволу безпосередньо підтверджує склад інкримінованого діяння."
+      },
+      {
+        "id": "E07",
+        "source": "P03",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Виклад перевезення і місць зберігання предметів, а також їх вилучення, підтверджує наявність об’єктивної сторони правопорушення."
+      },
+      {
+        "id": "E08",
+        "source": "P04",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Визнання вини обвинуваченим слугує додатковим підтвердженням доведеності вини."
+      },
+      {
+        "id": "E09",
+        "source": "C02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Висновок про доведеність вини за фактичними обставинами логічно підкріплює правову кваліфікацію за ч.1 ст.263 КК України."
+      },
+      {
+        "id": "E10",
+        "source": "P15",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Зазначене щире каяття прямо вказане судом як пом’якшуюча обставина."
+      },
+      {
+        "id": "E11",
+        "source": "P16",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Участь у відсічі збройної агресії визначена судом як окрема пом’якшуюча обставина."
+      },
+      {
+        "id": "E12",
+        "source": "P17",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Отримання поранень під час виконання бойового завдання зазначено серед пом’якшуючих обставин."
+      },
+      {
+        "id": "E13",
+        "source": "P18",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Наявність почесного нагрудного знака «Сталевий хрест» врахована судом як пом’якшуюча обставина."
+      },
+      {
+        "id": "E14",
+        "source": "P20",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Ступінь тяжкості правопорушення (тяжкий злочин) врахована судом при визначенні розміру покарання."
+      },
+      {
+        "id": "E15",
+        "source": "P21",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Суд врахував позиції сторін як одну з підстав для обрання міри покарання."
+      },
+      {
+        "id": "E16",
+        "source": "P22",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Несудимість за ст.89 КК України є характеристикою особи, врахованою при призначенні мінімального строку."
+      },
+      {
+        "id": "E17",
+        "source": "P23",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Відсутність обліку у нарколога і психіатра позитивно характеризує особу і впливає на вибір покарання."
+      },
+      {
+        "id": "E18",
+        "source": "P24",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Наявність постійного місця проживання врахована судом як обставина, що впливає на призначення покарання."
+      },
+      {
+        "id": "E19",
+        "source": "P25",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Наявність на утриманні неповнолітньої дитини врахована судом при визначенні міри покарання."
+      },
+      {
+        "id": "E20",
+        "source": "P26",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Суд прямо вказав на наявність кількох пом’якшуючих і відсутність обтяжуючих обставин як підставу мінімального строку."
+      },
+      {
+        "id": "E21",
+        "source": "C04",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Встановлені пом’якшуючі обставини логічно обґрунтовують призначення мінімального строку позбавлення волі."
+      },
+      {
+        "id": "E22",
+        "source": "C05",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Відсутність обтяжуючих обставин сприяє призначенню більш м’якого покарання."
+      },
+      {
+        "id": "E23",
+        "source": "C07",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Висновок про можливість виправлення без відбування покарання є передумовою застосування ст.75 КК України."
+      },
+      {
+        "id": "E24",
+        "source": "C04",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Наявність значущих пом’якшуючих обставин обґрунтовує висновок про можливість виправлення без ізоляції від суспільства."
+      },
+      {
+        "id": "E25",
+        "source": "P27",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.86,
+        "justification": "Норма ст.124 КПК України встановлює обов’язок стягнення витрат у випадку обвинувального вироку."
+      },
+      {
+        "id": "E26",
+        "source": "P28",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.9,
+        "justification": "Документально підтверджено розмір витрат та їх загальну суму, що підлягає стягненню."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C01",
+        "components": [
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "GUILT",
+        "main_claim": "C02",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "C02"
+        ],
+        "edges": [
+          "E05",
+          "E06",
+          "E07",
+          "E08"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C03",
+        "components": [
+          "C02",
+          "C03"
+        ],
+        "edges": [
+          "E09"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "MITIGATING_CIRCUMSTANCES",
+        "main_claim": "C04",
+        "components": [
+          "P15",
+          "P16",
+          "P17",
+          "P18",
+          "C04"
+        ],
+        "edges": [
+          "E10",
+          "E11",
+          "E12",
+          "E13"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "AGGRAVATING_CIRCUMSTANCES",
+        "main_claim": "C05",
+        "components": [
+          "C05"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "SENTENCING",
+        "main_claim": "C06",
+        "components": [
+          "P20",
+          "P21",
+          "P22",
+          "P23",
+          "P24",
+          "P25",
+          "P26",
+          "C04",
+          "C05",
+          "C06"
+        ],
+        "edges": [
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18",
+          "E19",
+          "E20",
+          "E21",
+          "E22"
+        ]
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "PROBATION",
+        "main_claim": "C08",
+        "components": [
+          "C04",
+          "C07",
+          "C08"
+        ],
+        "edges": [
+          "E23",
+          "E24"
+        ]
+      },
+      {
+        "argument_id": "A08",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C09",
+        "components": [
+          "C09"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A09",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C10",
+        "components": [
+          "P27",
+          "P28",
+          "C10"
+        ],
+        "edges": [
+          "E25",
+          "E26"
+        ]
+      },
+      {
+        "argument_id": "A10",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C11",
+        "components": [
+          "C11"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A11",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C12",
+        "components": [
+          "C12"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 28,
+      "number_of_claims": 12,
+      "number_of_support_edges": 26,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 11,
+      "root_claims": [
+        "C01",
+        "C03",
+        "C06",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 0
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.97; review 1 flagged missing or hallucinated field(s)."
+  }
+}

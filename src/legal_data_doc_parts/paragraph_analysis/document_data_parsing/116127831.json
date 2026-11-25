@@ -1,0 +1,749 @@
+{
+  "document_id": "116127831",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В період часу з 23 год. 09 грудня по 12 год. 10 грудня 2023 року,  ОСОБА_3 перебував разом із своєю знайомою  ОСОБА_6 в готельному номері № 5 готелю «Домашній», що знаходиться за адресою: пров. Політехнічний, 4 в м. Житомир, де в ході розпиття алкогольних напоїв, остання повідомила, що при собі в сумці, поміж іншого, має грошові кошти.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В подальшому, 10 грудня 2023 року приблизно о 07 год., пребуваючи у вищевказаному готельному номері, у ОСОБА_3 виник злочинний умисел, направлений на таємне викрадення чужого майнав умовах воєнного стану, а саме, грошових коштів, що належать ОСОБА_6 .",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Реалізуючи свій злочинний умисел, направлений на таємне викрадення чужого майна в умовах воєнного стану, ОСОБА_3 , керуючись корисливим мотивом, скориставшись тим, що ОСОБА_6 пішла до вбиральні, підійшов до письмового столу на якому знаходилась вищевказана сумка та, шляхом вільного доступу, таємно викрав чуже майно, а саме: грошові кошти купюрами по 100 Євро у кількості 16 шт. та купюрами по 50 Євро у кількості 24 шт. у загальній сумі 2800 Євро, що станом на 10.12.2023 відповідно до офіційного курсу Національного банку України становить 110572 грн. (1 Євро - 39,49 грн.), грошові крошти купюрами по 100 доларів США у кількості 2 шт. у загальній сумі 200 доларів США, що станом на 10.12.2023 відповідно до офіційного курсу Національного банку України становить 7334 грн. (1 долар США - 36,67 грн.) та грошові кошти купюрами 1000 гривень у кількості 1 шт., та купюрами по 500 гривень у кількості 6 шт. у загальній сумі 4000 гривень та сховав вказане майно під свій одяг.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В подальшому ОСОБА_3 , утримуючи викрадене майно при собі, місце скоєння кримінального правопорушення залишив та розпорядився викраденим майном на власний розсуд, чим завдав ОСОБА_6 майнової шкоди на загальну суму 121 906 гривень.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вчиненому у умовах воєнного стану.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Дії ОСОБА_7  правильно кваліфіковані за ст. 185 ч.4 КК України, які виразились у таємному, викраденні чужого майна (крадіжка), вчиненому у умовах воєнного стану.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "29.12.2023 року прокурор Житомирської окружної прокуратури ОСОБА_4 та обвинувачений ОСОБА_3 , з участю захисника ОСОБА_5 , на підставі ст. ст. 469,472,473 КПК України уклали угоду про визнання винуватості, відповідно до якої ОСОБА_3 повністю визнав свою вину у визначеному діянні, активно сприяв розкриттю злочину, відшкодував заподіяну шкоді. Крім того, сторони погоджуються на призначення покарання ОСОБА_3 за ст. 185 ч.4 КК України 5 років позбавлення волі, із застосуванням ст. 75 КК України та звільнивши його від відбування призначеного покарання з випробуванням із встановленням іспитового строку, тривалість якого визначає суд та покладенням обов`язків, визначених ст. 76 КК України, перелік яких встановлює суд.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про визнання винуватості",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Захисник в судовому засіданні угоду, укладену між прокурором та його підзахисним підтримала, просить її затвердити.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P08a",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Потерпіла ОСОБА_6 в судове засідання не з`явилася, просить проводити підготовче судове засідання у її відсутність.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P08b",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Письмово підтвердила свою добровільну згоду на укладення угоди між прокурором та обвинуваченим про визнання винуватості.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P08c",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Будь-який претензій матеріального та морального характеру до обвинуваченого немає.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P08d",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Суд, за погодженням з учасниками судового провадження, розглядає справу у відсутність потерпілої.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Прокурор в судовому засіданні зазначив, що укладена угода про визнання винуватості відповідає нормам КПК та може бути затверджена судом.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно п.1 ч.3 ст.314 КПК України, при прийнятті рішення у підготовчому судовому засіданні, суд має право, зокрема затвердити угоду.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми права",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до вимог ст. 468 КПК України у кримінальному провадженні може бути укладена угода між прокурором та підозрюваним чи обвинуваченим про визнання винуватості.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми права",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до вимог ч.4 ст.469 КПК України угода про визнання винуватості між прокурором та обвинуваченим може бути укладена у провадженні щодо кримінальних проступків, нетяжких злочинів, тяжких злочинів, внаслідок яких шкода завдана лише державним чи суспільним інтересам. Укладення угоди у кримінальному провадженні, у яких беруть участь потерпілий, не допускається, крім випадків надання потерпілим письмової згоди прокурору на укладення ними угоди.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми права",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Так суду надано письмову згоду потерпілої ОСОБА_6 на укладення угоди про визнання винуватості у даному кримінальному провадженні. При цьому, потерпіла засвідчив, що надання письмової згоди є добровільним, усвідомленим кроком та не є наслідком вчинення будь-яких протиправних дій щодо неї.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми права застосовані до обставин",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Судом встановлено, що обвинувачений ОСОБА_3 обвинувачується у вчиненні кримінального правопорушення, передбаченого ст.185 ч.4 КК України, який згідно ч.5 ст.12 КК України відноситься до тяжкого злочину.",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При цьому, судом з`ясовано, що обвинувачений ОСОБА_3 цілком розуміє права визначені п.1-4 ч.4 ст. 474КПК України, наслідки укладення та затвердження даної угоди, передбачені ч.2 ст.473 КПК України, характер обвинувачення, вид покарання, а також інші заходи, які будуть застосовані до нього у разі затвердження угоди судом.",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Перевірка добровільності та усвідомленості",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Суд переконався, що укладення угоди сторонами є добровільним, тобто не є наслідком застосування насильства, примусу, погроз або наслідком обіцянок чи дій будь-яких інших обставин, що передбачені в угоді.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Перевірка добровільності та усвідомленості",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Також судом з`ясовано, що потерпіла ОСОБА_6 цілком розуміє наслідки затвердження угоди, передбачені п.2 ч.1 ст.473 КПК України.",
+          "paragraph_id": 39,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Перевірка добровільності та усвідомленості",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Суд приходить до висновку, що дана угода відповідає вимогам КПК України та може бути затверджена і на ній може бути ухвалений вирок, оскільки умови угоди не суперечать його вимогам, правова кваліфікація кримінального правопорушення вірна, умови угоди не порушують права, свободи та інтереси сторін, укладення угоди було добровільним, очевидна можливість виконанням обвинуваченим взятих на себе зобов`язань, встановлено фактичні підстави для визнання винуватості.",
+          "paragraph_id": 40,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Процесуальні витрати у провадженні відсутні.",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші процесуальні питання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання про речові докази, суд вирішує, в порядку ст. 100 КПК України.",
+          "paragraph_id": 42,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші процесуальні питання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Відсутні підстави для обрання запобіжного заходу.",
+          "paragraph_id": 43,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші процесуальні питання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Керуючись ст. ст. 314, 373, 374, 375, 475 КПК України, суд, -",
+          "paragraph_id": 44,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави ухвалення рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В судовому засіданні обвинувачена ОСОБА_3 свою вину визнав повністю та підтримав угоду, укладену між ним та прокурором про визнання винуватості.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до вимог ст. 468 КПК України у кримінальному провадженні може бути укладена угода між прокурором та підозрюваним чи обвинуваченим про визнання винуватості.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні підстави",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Обставини часу, місця та повідомлення про наявність грошей створюють передумови для подальшого вчинення крадіжки, що підтверджує правильність кваліфікації."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Наявність умислу на таємне викрадення майна в умовах воєнного стану безпосередньо підкріплює кваліфікацію за ч.4 ст.185 КК України."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Деталізований опис способу вчинення («шляхом вільного доступу») та переліку викрадених коштів засвідчує факт крадіжки під час воєнного стану."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Післязлочинна поведінка та завдана шкода підтверджують наслідки крадіжки, узгоджуючись з кваліфікацією діяння."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Вказівка на «в умовах воєнного стану» пояснює застосування кваліфікуючої ознаки ч.4 ст.185 КК України."
+      },
+      {
+        "id": "E10",
+        "source": "P06",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Укладення сторонами угоди з визначеними умовами покарання та посиланням на ст. 469, 472, 473 КПК України є підставою для її затвердження."
+      },
+      {
+        "id": "E11",
+        "source": "P07",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Позиція захисту про затвердження угоди підтримує висновок суду щодо можливості її затвердження."
+      },
+      {
+        "id": "E12",
+        "source": "P08a",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Згода потерпілої на розгляд у її відсутність забезпечує процесуальну можливість продовжувати розгляд та сприяє затвердженню угоди."
+      },
+      {
+        "id": "E13",
+        "source": "P08b",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Письмова згода потерпілої є необхідною умовою допустимості угоди за ч.4 ст.469 КПК України."
+      },
+      {
+        "id": "E14",
+        "source": "P08c",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Відсутність претензій з боку потерпілої свідчить про відсутність перешкод для затвердження угоди."
+      },
+      {
+        "id": "E15",
+        "source": "P08d",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.74,
+        "justification": "Суд, за погодженням сторін, розглядає справу без потерпілої, що узгоджується з процедурою затвердження угоди."
+      },
+      {
+        "id": "E16",
+        "source": "P09",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Позиція прокурора, що угода відповідає КПК та може бути затверджена, узгоджується з висновком суду."
+      },
+      {
+        "id": "E17",
+        "source": "P10",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Норма п.1 ч.3 ст.314 КПК України прямо наділяє суд правом затвердити угоду у підготовчому засіданні."
+      },
+      {
+        "id": "E18",
+        "source": "P11",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Ст.468 КПК України визначає можливість укладення угоди про визнання винуватості у кримінальному провадженні."
+      },
+      {
+        "id": "E19",
+        "source": "P12",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Ч.4 ст.469 КПК України встановлює умови допустимості угоди та необхідність письмової згоди потерпілої у разі її участі."
+      },
+      {
+        "id": "E20",
+        "source": "P13",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Надання письмової згоди потерпілої та підтвердження її добровільності виконують вимогу ч.4 ст.469 КПК України."
+      },
+      {
+        "id": "E21",
+        "source": "P14",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.77,
+        "justification": "Кваліфікація діяння як тяжкого злочину (ч.4 ст.185 КК) узгоджується з можливістю укладення угоди за КПК."
+      },
+      {
+        "id": "E22",
+        "source": "P15",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "З`ясування судом усвідомлення прав і наслідків обвинуваченим підтверджує дійсність і добровільність угоди."
+      },
+      {
+        "id": "E23",
+        "source": "P16",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Висновок суду про добровільність укладення угоди є ключовою умовою для її затвердження."
+      },
+      {
+        "id": "E24",
+        "source": "P17",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Розуміння потерпілою наслідків затвердження угоди підтверджує дотримання її прав."
+      },
+      {
+        "id": "E25",
+        "source": "P18",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Повне визнання вини обвинуваченим і підтримка угоди свідчать на користь її затвердження."
+      },
+      {
+        "id": "E06",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Позиція прокурора про відповідність угоди нормам КПК прямо підтримує висновок суду про можливість її затвердження."
+      },
+      {
+        "id": "E07",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Норма п.1 ч.3 ст.314 КПК визначає повноваження суду затверджувати угоди, що є правовою підставою для відповідного висновку."
+      },
+      {
+        "id": "E08",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Стаття 468 КПК передбачає можливість укладення угоди про визнання винуватості, що підтверджує її допустимість у цьому провадженні."
+      },
+      {
+        "id": "E09",
+        "source": "P09",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Ч.4 ст.469 КПК встановлює умови допустимості угоди, зокрема за наявності письмової згоди потерпілої, що тут виконано."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C02",
+        "components": [
+          "P06",
+          "P07",
+          "P08a",
+          "P08b",
+          "P08c",
+          "P08d",
+          "P09",
+          "P10",
+          "P11",
+          "P12",
+          "P13",
+          "P14",
+          "P15",
+          "P16",
+          "P17",
+          "P18",
+          "C02"
+        ],
+        "edges": [
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18",
+          "E19",
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C03",
+        "components": [
+          "C03"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C04",
+        "components": [
+          "C04"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C05",
+        "components": [
+          "C05"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "OTHER",
+        "main_claim": "C06",
+        "components": [
+          "C06"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "C01"
+        ],
+        "text": "Дії ОСОБА_7  правильно кваліфіковані за ст. 185 ч.4 КК України",
+        "conflicts_with": "В інших частинах документа фігурує ОСОБА_3 як обвинувачений.",
+        "description": "У наведеному фрагменті замість ОСОБА_3 вказано іншу особу (ОСОБА_7), що суперечить решті рішення.",
+        "likely_error": true
+      },
+      {
+        "id": "I02",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P18"
+        ],
+        "text": "В судовому засіданні обвинувачена ОСОБА_3 свою вину визнав повністю...",
+        "conflicts_with": "В інших частинах документа використовується чоловічий рід щодо ОСОБА_3.",
+        "description": "Невідповідність роду («обвинувачена» vs інші вказівки на обвинуваченого) свідчить про технічну помилку в тексті.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 22,
+      "number_of_claims": 6,
+      "number_of_support_edges": 25,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 6,
+      "root_claims": [
+        "C01",
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 5
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.96; review 2 flagged missing or hallucinated field(s)."
+  }
+}

@@ -1,0 +1,895 @@
+{
+  "document_id": "116257159",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В судовому засіданні обвинувачена свою вину у вчиненому визнала повністю та надала покази про те, що дійсно 16 серпня 2023 року близько 15 години 10 хвилин, перебуваючи в приміщенні магазину «EVA № 1812», що розташований по вул. Шевченка, 85А, в місті Хмельницькому, викрала парфуми «Versace Eau Frainche» об`ємом 100 мл., вартість яких не заперечує.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченої",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Протоколом огляду відеозапису від 29.08.2023 року з долученим відеозаписом, який здійснювався в магазині «Єва»  по вул. Шевченка, 85А у м. Хмельницькому  та яким зафіксовано, як невідома жінка, зовні схожа на ОСОБА_4 знаходиться у торговому залі магазину, бере у невідомої особи чоловічої статі прямокутний скляний предмет ззовні схожий на парфуми  та поміщає його у свою сумку. ОСОБА_4 підтвердила, що вказаний відеозапис відображає момент вчинення нею крадіжки.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені докази",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Протоколом слідчого експерименту від 24.10.2023 року за участю ОСОБА_4 , до якого долучено відеозапис слідчої дії, зафіксовано як ОСОБА_4 демонструє обстановку та обставини вчинення злочину, зокрема де вона знаходилася у приміщенні магазину «Єва» та як здійснювала крадіжку.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені докази",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Протоколом огляду сумки ОСОБА_4 від 29.08.2023 року, добровільно наданої нею.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені докази",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Протоколом огляду місця події  від 21.08.2023 року, яким зафіксовано місце вчинення злочину та місце розташування продукції в приміщені магазину «Єва»  по вул. Шевченка, 85А у м. Хмельницькому.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені докази",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Актом інвентаризації товарно-матеріальних цінностей №4958021 від 16.08.2023 року, згідно якого виявлено недостачу товару, а саме Versace Eae Fraiche туалетна вода чоловіча об`ємом 100 мл в кількості 1 штука.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені докази",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Наказом №10/160823 на проведення інвентаризації товару від 16.08.2023 року, а саме групи товарів №Елітної парфумерії» в магазині Ева/1812.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені докази",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Висновком експерта №СЕ/123-23/9027-ТВ від 28.08.2023 року, згідно якого ринкова вартість нової чоловічої туалетної води «Versace Eau Frainche» об`ємом 100 мл, в кількості 1 одиниця, станом на 16 серпня 2023 року, могла становити – 584,80 грн. (п`ятсот вісімдесят чотири гривні 80 копійок).",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені докази",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Довідкою керуючої магазином Єва №1812, згідно якої собівартість Versace Eae Fraiche туалетна вода чоловіча об`ємом 100 мл – 674,83 гривні.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені докази",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в країні діє військовий стан, який введений на всій території України Указом Президента України № 64/2022 від 24 лютого 2022 року «Про введення воєнного стану в Україні», який продовжено згідно з Указом Президента України «Про продовження строку дії воєнного стану в Україні» № 451/2023 від 26 липня 2023 року затвердженого Законом України № 3275-IX від 27 липня 2023 року,",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_4 будучи раніше судимою за скоєння кримінальних правопорушень проти власності, судимість за які не знята та не погашена у встановленому законом порядку, на шлях виправлення не стала та повторно вчинила новий майновий злочин.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "у відповідності до  Примітки 1 до ст. 185 КК України,",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачена на момент вчинення інкримінованого їй кримінального правопорушення досягла віку з якого настає кримінальна відповідальність, за повідомленням комунального некомерційного підприємства «Хмельницький обласний медичний центр психічного здоров`я» на обліку у лікаря психіатра та нарколога не значиться.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Здійснивши, у відповідності до ст. 337 КПК України,  судовий розгляд лише стосовно особи, якій висунуто обвинувачення, і лише  в межах висунутого обвинувачення відповідно до обвинувального акта, в ході якого всебічно, повно та неупереджено з`ясувавши встановлені під час кримінального провадження обставини, перевіривши їх доказами,  оцінивши ці докази з точки зору їх достовірності, належності, допустимості, а їх сукупність – з точки зору достатності та взаємозв`язку для прийняття процесуального рішення,",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст.ст. 368, 370, 374-376 КПК України, суд",
+          "paragraph_id": 45,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При обранні ОСОБА_4 виду та міри покарання враховується визначені ст. 65 КК України загальні засади призначення покарання, в тому числі ступінь тяжкості вчиненого злочину, особу винної, обставини, що пом`якшують та обтяжують покарання, а також положення ч. 2 ст. 50 КК України, згідно якої покарання має на меті не тільки кару, а й виправлення засуджених, запобігання вчиненню нових кримінальних правопорушень як засудженим, так і іншими особами.",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачена розкаялася у вчиненому та відшкодувала заподіянні збитки, однак раніше неодноразово судима та  скоїла тяжкий злочин через рік після звільнення з місць позбавлення волі.",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачена ОСОБА_4 тричі відбувала покарання у вигляді позбавлення волі, проте це  не призвело до позитивних змін в її особистості і не створило у неї  готовності до самокерованої, правослухняної поведінки у суспільстві, оскільки після звільнення з місця позбавлення волі вона знову вчинила злочин.",
+          "paragraph_id": 42,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "За таких обставин по справі, враховуючи досудову доповідь уповноваженого представника пробації про високий ризик вчинення ОСОБА_4 нового кримінального правопорушення,",
+          "paragraph_id": 43,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст. 34 КК України рецидивом кримінальних правопорушень визнається вчинення нового умисного кримінального правопорушення особою, яка має судимість за умисне кримінальне правопорушення.",
+          "paragraph_id": 39,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що обтяжують",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Як роз`яснив Пленум Верховного Суду України у постанові «Про практику застосування судами кримінального законодавства про повторність, сукупність і рецидив злочинів та їх правові наслідки» від 04.06.2010 року № 7 (п. 19) якщо рецидив злочинів утворює одночасно і їх повторність, яка передбачена у статті чи частині статті Особливої частини КК України як ознака злочину, що впливає на його кваліфікацію, то за змістом частини четвертої статті 67 КК України як повторність, так і рецидив злочинів суд не може ще раз враховувати при призначенні покарання як обставини, що обтяжують покарання.",
+          "paragraph_id": 40,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що обтяжують",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Однак, ОСОБА_4 скоїла умисний, передбачений ч.4 ст. 185 КК України злочин, маючи не погашену судимість за вчинення умисного злочину, передбаченого ч.3 ст. 358 КК України, який не утворює повторності з новим злочином.",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що обтяжують",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вартістю 584,80 грн,",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "у відповідності до ч. 2 ст. 124 КПК України",
+          "paragraph_id": 44,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вказаний розмір процесуальних витрат та факт їх понесення ніким із учасників судового розгляду не оспорюються.",
+          "paragraph_id": 44,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "суд, поза розумним сумнівом, приходить до висновку про доведеність винуватості  обвинуваченої в скоєнні інкримінованого їй злочину",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки суду щодо вини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "та  кваліфікує її  дії за ч.4 ст. 185 КК України як  таємне викрадення чужого майна (крадіжка), вчинене повторно, в умовах воєнного стану.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Вказаними умисними протиправними діями ОСОБА_4 заподіяла                   ТОВ «РУШ» майнової шкоди на суму 584 гривень 80 копійок.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки суду щодо шкоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставиною, що обтяжує покарання ОСОБА_4 суд визнає рецидив злочинів.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що обтяжують",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд, приходить до висновку, що виправлення обвинуваченої можливе лише в умовах ізоляції від  суспільства і їй слід призначити покарання у виді позбавлення волі.",
+          "paragraph_id": 43,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Документально підтверджені процесуальні витрати на залучення експерта в сумі 717 грн. 00 коп. у відповідності до ч. 2 ст. 124 КПК України підлягають стягненню з обвинуваченої на користь держави.",
+          "paragraph_id": 44,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Даючи саме таку правову оцінку діям обвинуваченої, суд, враховував, що обвинувачена раніше судима за статтями 185 та 190 КК України, тому, у відповідності до  Примітки 1 до ст. 185 КК України, у її діях наявна кваліфікуюча ознака «повторність» при вчиненні протиправного діяння.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Вказаними умисними протиправними діями ОСОБА_4 заподіяла                   ТОВ «РУШ» майнової шкоди на суму 584 гривень 80 копійок.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Пряме визнання вини обвинуваченою підтримує висновок суду про доведеність її винуватості."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Фіксація на відео дій, схожих на вчинення крадіжки, та підтвердження ОСОБА_4, що це момент її крадіжки, узгоджуються з висновком про доведеність вини."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Протокол слідчого експерименту відтворює обстановку та обставини злочину, що підтримує висновок про вчинення обвинуваченою крадіжки."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Наявність протоколу огляду сумки обвинуваченої як дослідженого доказу узгоджується з доведеністю факту крадіжки."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.73,
+        "justification": "Фіксація місця події та розташування продукції підтримує загальну версію подій, викладену у вироку."
+      },
+      {
+        "id": "E06",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Акт інвентаризації, яким виявлено недостачу конкретного товару, узгоджується з фактом протиправного заволодіння цим товаром."
+      },
+      {
+        "id": "E07",
+        "source": "P14",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Посилання на проведення розгляду у відповідності до ст. 337 КПК України відображає процесуальну основу, в межах якої суд дійшов висновку про доведеність вини."
+      },
+      {
+        "id": "E08",
+        "source": "P13",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.71,
+        "justification": "Повідомлення про відсутність обліку у психіатра та нарколога, а також досягнення віку кримінальної відповідальності узгоджується з можливістю притягнення до відповідальності за інкримінований злочин."
+      },
+      {
+        "id": "E09",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Доведеність вини є підставою для надання правової кваліфікації вчиненим діям."
+      },
+      {
+        "id": "E10",
+        "source": "P11",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Вказівка на попередні судимості за злочини проти власності підтримує висновок про наявність у діях обвинуваченої ознаки «повторність»."
+      },
+      {
+        "id": "E11",
+        "source": "P12",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Посилання на Примітку 1 до ст. 185 КК України слугує правовою підставою для висновку про «повторність»."
+      },
+      {
+        "id": "E12",
+        "source": "C08",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Наявність кваліфікуючої ознаки «повторність» підтримує кваліфікацію за ч.4 ст. 185 КК України."
+      },
+      {
+        "id": "E13",
+        "source": "P10",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Зазначення дії воєнного стану та відповідних указів Президента узгоджується з кваліфікуючою ознакою «в умовах воєнного стану» у складі злочину."
+      },
+      {
+        "id": "E14",
+        "source": "P06",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Виявлена актом інвентаризації недостача відповідного товару підтримує висновок про заподіяння майнової шкоди."
+      },
+      {
+        "id": "E15",
+        "source": "P08",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Експертний висновок про ринкову вартість 584,80 грн безпосередньо підтримує визначений судом розмір шкоди."
+      },
+      {
+        "id": "E16",
+        "source": "P23",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.74,
+        "justification": "Зазначена у фактичному описі вартість 584,80 грн узгоджується з висновком про розмір майнової шкоди."
+      },
+      {
+        "id": "E17",
+        "source": "P07",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Наказ про проведення інвентаризації підтримує встановлення недостачі та, відповідно, висновок про завдання шкоди."
+      },
+      {
+        "id": "E18",
+        "source": "P09",
+        "target": "C03",
+        "relation": "ATTACK",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Довідка керуючої містить іншу суму (674,83 грн), що суперечить визначеному у вироку розміру шкоди 584,80 грн."
+      },
+      {
+        "id": "E19",
+        "source": "P01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Фраза «вартість яких не заперечує» узгоджується з висновком суду щодо розміру завданої шкоди."
+      },
+      {
+        "id": "E20",
+        "source": "P15",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.68,
+        "justification": "Загальна процесуальна формула «Керуючись ст.ст. 368, 370, 374-376 КПК України…» підтримує прийняття підсумкового рішення щодо покарання."
+      },
+      {
+        "id": "E21",
+        "source": "P16",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Посилання на ст. 65 та ч. 2 ст. 50 КК України обґрунтовує підхід суду до вибору виду та міри покарання."
+      },
+      {
+        "id": "E22",
+        "source": "P17",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Поєднання каяття і відшкодування збитків із повторністю та тяжкістю злочину враховане судом при висновку про необхідність позбавлення волі."
+      },
+      {
+        "id": "E23",
+        "source": "P18",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Негативний кримінально-правовий прогноз (попередні строки позбавлення волі не призвели до змін) підтримує висновок про необхідність ізоляції."
+      },
+      {
+        "id": "E24",
+        "source": "P19",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Високий ризик повторного правопорушення, відображений у досудовій доповіді, підтримує призначення покарання у виді позбавлення волі."
+      },
+      {
+        "id": "E25",
+        "source": "C05",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Визнання рецидиву як обтяжуючої обставини посилює висновок про доцільність покарання у вигляді позбавлення волі."
+      },
+      {
+        "id": "E26",
+        "source": "P20",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Визначення рецидиву у ст. 34 КК України надає правове підґрунтя для висновку суду про рецидив."
+      },
+      {
+        "id": "E27",
+        "source": "P21",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Роз’яснення Пленуму ВСУ щодо співвідношення рецидиву і повторності підтримує можливість врахування рецидиву як обтяжуючої обставини у цій справі."
+      },
+      {
+        "id": "E28",
+        "source": "P22",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Наявність непогашеної судимості за умисний злочин за ч.3 ст. 358 КК України підтверджує рецидив при вчиненні нинішнього злочину."
+      },
+      {
+        "id": "E29",
+        "source": "P11",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.76,
+        "justification": "Відомості про попередні судимості обвинуваченої узгоджуються з висновком суду про рецидив злочинів."
+      },
+      {
+        "id": "E30",
+        "source": "P24",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Посилання на ч. 2 ст. 124 КПК України обґрунтовує стягнення процесуальних витрат."
+      },
+      {
+        "id": "E31",
+        "source": "P25",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Неоспорення розміру та факту процесуальних витрат учасниками розгляду підтримує їх стягнення."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P13",
+          "P14",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C02",
+        "components": [
+          "C01",
+          "P10",
+          "C08",
+          "P11",
+          "P12",
+          "C02"
+        ],
+        "edges": [
+          "E09",
+          "E10",
+          "E11",
+          "E12",
+          "E13"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "FACTUAL",
+        "main_claim": "C03",
+        "components": [
+          "P06",
+          "P08",
+          "P23",
+          "P07",
+          "P01",
+          "P09",
+          "C03"
+        ],
+        "edges": [
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E19",
+          "E18"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "AGGRAVATING_CIRCUMSTANCES",
+        "main_claim": "C05",
+        "components": [
+          "P20",
+          "P21",
+          "P22",
+          "P11",
+          "C05"
+        ],
+        "edges": [
+          "E26",
+          "E27",
+          "E28",
+          "E29"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "SENTENCING",
+        "main_claim": "C06",
+        "components": [
+          "P16",
+          "P17",
+          "P18",
+          "P19",
+          "P15",
+          "C05",
+          "C06"
+        ],
+        "edges": [
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E20"
+        ]
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C07",
+        "components": [
+          "P24",
+          "P25",
+          "C07"
+        ],
+        "edges": [
+          "E30",
+          "E31"
+        ]
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P09",
+          "C03",
+          "P08",
+          "P23"
+        ],
+        "text": "674,83 гривні",
+        "conflicts_with": "584,80 грн (зазначено у пп. 21, 22, 31 судового рішення)",
+        "description": "У довідці керуючої (п. 27) вказано іншу вартість товару, ніж у фактичному описі події, експертному висновку та визначеному судом розмірі шкоди.",
+        "likely_error": true
+      },
+      {
+        "id": "I02",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P06",
+          "P08"
+        ],
+        "text": "Versace Eae Fraiche",
+        "conflicts_with": "Versace Eau Frainche",
+        "description": "У різних частинах рішення назва товару подана з різною орфографією, що створює текстову неузгодженість у позначенні бренду/моделі парфумів.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 25,
+      "number_of_claims": 8,
+      "number_of_support_edges": 30,
+      "number_of_attack_edges": 1,
+      "number_of_arguments": 6,
+      "root_claims": [
+        "C02",
+        "C03",
+        "C04",
+        "C06",
+        "C07"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 1
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.94; review 5 flagged missing or hallucinated field(s)."
+  }
+}

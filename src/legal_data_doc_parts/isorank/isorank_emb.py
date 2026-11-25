@@ -116,6 +116,11 @@ def _validate_graph(
         "embedding",
         "node",
     )
+    section_node_embeddings = collect_embeddings(
+        graph.nodes(data=True),
+        "section_embedding",
+        "section node",
+    )
     return node_embeddings
 
 
@@ -180,6 +185,7 @@ def cross_graph_similarity(
     mask=None,
     device: str | torch.device = "cuda",
     unbias_step: bool = False,
+    use_section_embeddings: bool = False,
 ) -> torch.Tensor:
     """Estimate node correspondences between two attributed graphs.
 

@@ -1,0 +1,955 @@
+{
+  "document_id": "116310154",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_3 , 11.06.2023 о 13:00 год., перебуваючи поблизу домогосподарства за адресою: АДРЕСА_3 , діючи умисно, на ґрунті раптово виниклих неприязних відносин, наніс потерпілому ОСОБА_5 один удар кулаком руки по обличчю, після чого під час шарпанини на поверхні землі схопив останнього за великий (перший) палець лівої руки та намагався його викрутити, в подальшому, продовжуючи свої протиправні дії, схопив рукою за два зуби нижньої щелепи ОСОБА_5 та вивернув їх назовні, в результаті чого вирвав два передніх зуба.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Внаслідок зазначених дій, ОСОБА_3 заподіяв потерпілому тілесні ушкодження у вигляді синця повік правого ока, травматичної екстракції (видалення) двох нижніх других зубів, синця першого пальця лівої кисті, що за ступенем тяжкості відноситься до легких тілесних ушкоджень, що спричинило короткочасний розлад здоров`я.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В судовому  засіданні обвинуваченний  ОСОБА_3 , винним себе у пред`явленому йому обвинувачені визнав повністю, підтвердив фактичні обставини справи, щиро розкаявся у вчиненому.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Суд, з`ясувавши думку прокурора, потерпілого, його представника, обвинуваченого та його захисника, щодо визначення обсягу доказів, які підлягають дослідженню та порядок їх дослідження, визнав недоцільним досліджувати докази щодо тих  обставин, які ніким не оспорювались. При цьому суд з`ясував, чи правильно розуміють зазначені особи зміст цих обставин, чи немає сумніву в добровільності їх позицій, а також роз`яснив їм, що у такому випадку вони будуть позбавлені права оспорювати ці фактичні обставини справи в апеляційному суді.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні дії в судовому засіданні",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Ці дії ОСОБА_3 , які виразилися в умисному заподіянні легких тілесних ушкоджень, що спричинили короткочасний розлад здоров“я, суд кваліфікує  за  ч.2 ст. 125 КК України.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація (раніший висновок)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Оцінивши досліджені докази в їх сукупності,   суд вважає встановленим, що  ОСОБА_3 , 11.06.2023 року о 13 год. 00 хв., перебуваючи поблизу домогосподарства за адресою: АДРЕСА_3 , умисно наніс легкі тілесні ушкодження, що спричинили короткочасник розлад здоров“я  потерпілому ОСОБА_5 ,",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "тому ці його дії  суд, кваліфікує за ч.2 ст. 125  КК України.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст.50 КК України, покарання є заходом примусу, що застосовується від імені держави за вироком суду до особи, визнаної винною у вчиненні кримінального правопорушення, і полягає в передбаченому законом обмеженні прав і свобод засудженого.  Покарання має на меті не тільки кару, а й виправлення засуджених, а також запобігання вчиненню нових кримінальних правопорушень як засудженими, так і іншими особами. Покарання не має на меті завдати фізичних страждань або принизити людську гідність.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до вимог ст.65 КК України та п.3 постанови Пленуму Верховного Суду України від 24 жовтня 2003 року №7 \"Про практику призначення судами кримінального покарання\", суд, призначає покарання, яке є справедливим, необхідним і достатнім для виправлення та попередження скоєння нових кримінальних правопорушень, враховує ступінь тяжкості вчиненого кримінального правопорушення, особу винного та обставини, що пом`якшують і обтяжують покарання.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставини, що пом`якшують покарання обвинуваченого ОСОБА_3 , згідно зі ст. 66 КК України, є щире каяття у вчиненому.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставин, що обтяжують покарання ОСОБА_3 , відповідно до ст. 67 КК України не встановлено.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Санкція ч.2 ст.125 Кримінального кодексу України передбачає покарання у виді штрафу від п`ятдесяти до ста неоподатковуваних мінімумів доходів громадян або громадські роботи на строк від ста п`ятдесяти до двохсот сорока годин або виправні роботи на строк до одного року, або арешт на строк до шести місяців, або обмеженням волі на строк до двох років",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При вирішенні питання про призначення ОСОБА_3 ,   виду та розміру   покарання, суд в якості обставин, які істотно знижують ступінь тяжкості вчиненого   ним кримінального проступку відносить те, що обвинувачений на диспансерному нагляді у лікаря психіатра та нарколога не перебуває та  вперше притягується до кримінальної відповідальності.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "з урахуванням особи винного, який раніше до кримінальної відповідальності не притягувався, має на утриманні одну малолітню дитину, позитивну характеристику за місцем проживання,",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд вважає за необхідне, обрати обвинуваченому покарання, із передбачених санкцією ч. 2 ст. 125 КК України, у   виді штрафу.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "11.01.2024 року потерпілий ОСОБА_5 скерував на адресу суду заяву, в якій просив суд збільшити позовні вимоги в частині стягнення матеріальної шкоди до 39 000 грн.,   оскільки між ним та обвинуваченим було досягнуто домовленість, що останній зобов`язується відшкодувати матеріальну шкоду саме у вказаному розмірі та просив залишити без розгляду позовні вимоги в частині стягнення моральної шкоди.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов та відшкодування шкоди",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений-цивільний відповідач ОСОБА_3 в судовому засіданні визнав позовні вимоги в частині стягнення з нього на користь потерпілого 39 000 грн. матеріальної шкоди, що, також, підтверджується поданою ним заявою від 11.01.2024 року. Саме в межах цієї суми у них з потерпілим досягнута домовленість.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов та відшкодування шкоди",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч. 1 ст. 1166 ЦК України майнова шкода, завдана неправомірними рішеннями, діями чи бездіяльністю особистим немайновим правам фізичної або юридичної особи, а також шкода, завдана майну фізичної або юридичної особи, відшкодовується в повному обсязі особою, яка її завдала.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов та відшкодування шкоди",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "За змістом пункту 1 частини другої статті 22 ЦК України реальними збитками є втрати, яких особа зазнала у зв`язку зі знищенням або пошкодженням речі, а також витрати, які особа зробила або мусить зробити для відновлення свого порушеного права.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов та відшкодування шкоди",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У відповідності до п. 14 Постанови Пленуму Верховного Суду України від 31 березня 1989 р. № 3 \"Про практику застосування судами України законодавства про відшкодування матеріальної шкоди, заподіяної злочином, і стягнення безпідставно нажитого майна\" із послідуючими змінами і доповненнями, при розгляді позову мають бути наведені докази, якими підтверджується шкода, а також наведені розрахунки сум, що підлягають стягненню.",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов та відшкодування шкоди",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Встановлено, що 26.06.2023 ОСОБА_5 пройшов медичне обстеження у стоматологічній клініці “Dent Art Studio”, де йому було встановлено діагноз: включений дефект зубного ряду у фронтальній ділянці (IV клас за Kennedy). Рекомендовано: імплантація двох зубів з виготовленням металокерамічного моста.",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов та відшкодування шкоди",
+        "support_status": null
+      },
+      {
+        "id": "C20",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Дослідивши матеріали кримінальної справи та заслухавши покази учасників судового процесу  суд приходить до переконання, що цивільний  позов  ОСОБА_5 про відшкодування матеріальної шкоди завданої кримінальним правопорушенням підлягає до задоволення.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов та відшкодування шкоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C21",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Враховуючи викладене, суд приходить до висновку, про стягнення з ОСОБА_3 на користь ОСОБА_5 матеріальної шкоди  в розмірі 39000 грн. 00 коп.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов та відшкодування шкоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Також, позивач просив суд залишити без розгляду поданий ним цивільний позов до ОСОБА_3 в частині стягнення моральної шкоди.",
+          "paragraph_id": 39,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов (моральна шкода)",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно ч. 5 ст. 128 КПК України цивільний позов у кримінальному провадженні розглядається судом за правилами, встановленими цим Кодексом. Якщо процесуальні відносини, що виникли у зв`язку з цивільним позовом, цим Кодексом не врегульовані, до них застосовуються норми Цивільного процесуального кодексу України за умови, що вони не суперечать засадам кримінального судочинства.",
+          "paragraph_id": 40,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні норми (цивільний позов)",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до п.5 ч.1 ст.257 ЦПК України, суд постановляє ухвалу про залишення позову без розгляду, якщо позивач до початку розгляду справи по суті подав заяву про залишення позову без розгляду.",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні норми (цивільний позов)",
+        "support_status": null
+      },
+      {
+        "id": "C22",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Таким чином, суд прийшов до висновку що позовна заява в частині стягнення моральної шкоди підлягає залишенню без розгляду.",
+          "paragraph_id": 42,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов (моральна шкода)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C30",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Запобіжний захід - відсутній.",
+          "paragraph_id": 43,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші процесуальні питання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C31",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Речові докази — відсутні.",
+          "paragraph_id": 44,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C32",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Витрати на залучення експерта — відсутні.",
+          "paragraph_id": 45,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі викладеного та керуючись статтями 124, 349, 368,  373, 374, 615  КПК України,    суд-",
+          "paragraph_id": 47,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави прийняття рішення",
+        "support_status": null
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Дослідивши матеріали кримінальної справи та заслухавши покази учасників судового процесу  суд приходить до переконання, що цивільний  позов  ОСОБА_5 про відшкодування матеріальної шкоди завданої кримінальним правопорушенням підлягає до задоволення.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки щодо цивільного позову (матеріальна шкода)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Враховуючи викладене, суд приходить до висновку, про стягнення з ОСОБА_3 на користь ОСОБА_5 матеріальної шкоди  в розмірі 39000 грн. 00 коп.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Рішення щодо матеріальної шкоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до п.5 ч.1 ст.257 ЦПК України, суд постановляє ухвалу про залишення позову без розгляду, якщо позивач до початку розгляду справи по суті подав заяву про залишення позову без розгляду.",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні норми",
+        "support_status": null
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Таким чином, суд прийшов до висновку що позовна заява в частині стягнення моральної шкоди підлягає залишенню без розгляду.",
+          "paragraph_id": 42,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальне рішення щодо моральної шкоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Запобіжний захід - відсутній.",
+          "paragraph_id": 43,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Речові докази — відсутні.",
+          "paragraph_id": 44,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Витрати на залучення експерта — відсутні.",
+          "paragraph_id": 45,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Опис дій обвинуваченого містить фактичні обставини, які суд визнав встановленими у висновку."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Наслідки у вигляді легких тілесних ушкоджень підтверджують встановлені судом обставини щодо завдання шкоди потерпілому."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Визнання вини та підтвердження фактичних обставин обвинуваченим підкріплює встановлені судом факти."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Відмова від дослідження неоспорюваних обставин і роз`яснення прав свідчить про прийняття сторонами відповідних фактів, що підтримує їх встановлення судом."
+      },
+      {
+        "id": "E05",
+        "source": "C02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Встановлені факти про умисне завдання легких тілесних ушкоджень логічно ведуть до правової кваліфікації за ч.2 ст. 125 КК України."
+      },
+      {
+        "id": "E06",
+        "source": "C01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Раніше викладена кваліфікація узгоджується з остаточним висновком і підтримує його посиленням правової позиції суду."
+      },
+      {
+        "id": "E10",
+        "source": "P05",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Загальні цілі та природа покарання обґрунтовують вибір його виду у вироку."
+      },
+      {
+        "id": "E11",
+        "source": "P06",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Норми ст. 65 КК України та роз`яснення Пленуму визначають критерії, що враховуються судом при призначенні покарання, і підтримують висновок про штраф."
+      },
+      {
+        "id": "E12",
+        "source": "P07",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Щире каяття є пом`якшуючою обставиною, що сприяє призначенню більш м`якого покарання у виді штрафу."
+      },
+      {
+        "id": "E13",
+        "source": "P08",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Відсутність обтяжуючих обставин схиляє суд до менш суворого виду покарання."
+      },
+      {
+        "id": "E14",
+        "source": "P09",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Санкція статті передбачає можливість штрафу, що прямо дозволяє обрати його як вид покарання."
+      },
+      {
+        "id": "E15",
+        "source": "P10",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Пряме посилання суду на обставини, які істотно знижують ступінь тяжкості проступку, обґрунтовує м`якше покарання."
+      },
+      {
+        "id": "E16",
+        "source": "P11",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Дані про особу (відсутність судимості, наявність малолітньої дитини, позитивна характеристика) підтримують вибір штрафу."
+      },
+      {
+        "id": "E20",
+        "source": "P14",
+        "target": "C20",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Загальне правило відшкодування майнової шкоди (ст. 1166 ЦК) є правовою підставою для задоволення позову."
+      },
+      {
+        "id": "E21",
+        "source": "P15",
+        "target": "C20",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Визначення реальних збитків (ст. 22 ЦК) пояснює склад і характер матеріальної шкоди, що підлягає стягненню."
+      },
+      {
+        "id": "E22",
+        "source": "P16",
+        "target": "C20",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Роз`яснення Пленуму вимагає підтвердження шкоди та розрахунків, що підтримує висновок про можливість задоволення позову."
+      },
+      {
+        "id": "E23",
+        "source": "P17",
+        "target": "C20",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Медичне обстеження та рекомендації свідчать про необхідність лікування, що підтверджує наявність шкоди."
+      },
+      {
+        "id": "E24",
+        "source": "P02",
+        "target": "C20",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.81,
+        "justification": "Факт заподіяння тілесних ушкоджень пов`язує шкоду з кримінальним правопорушенням та обґрунтовує задоволення позову."
+      },
+      {
+        "id": "E25",
+        "source": "C20",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Висновок про підстави для задоволення позову логічно веде до конкретного рішення про стягнення суми."
+      },
+      {
+        "id": "E26",
+        "source": "P12",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Заява потерпілого про збільшення вимог та досягнуту домовленість прямо визначає суму 39 000 грн для стягнення."
+      },
+      {
+        "id": "E27",
+        "source": "P13",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Визнання відповідачем позову у сумі 39 000 грн та підтвердження домовленості забезпечує підстави для присудження саме цієї суми."
+      },
+      {
+        "id": "E40",
+        "source": "P18",
+        "target": "C22",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Просьба позивача про залишення вимоги без розгляду є фактичною підставою для відповідного процесуального рішення."
+      },
+      {
+        "id": "E41",
+        "source": "P19",
+        "target": "C22",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Норма КПК визначає порядок розгляду цивільного позову у кримінальному провадженні, що забезпечує застосування ЦПК."
+      },
+      {
+        "id": "E42",
+        "source": "P20",
+        "target": "C22",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Пряма норма ЦПК передбачає залишення позову без розгляду за заявою позивача, що обґрунтовує висновок суду."
+      },
+      {
+        "id": "E50",
+        "source": "P21",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Загальне посилання суду на статті КПК як на процесуальну підставу підтверджує належність процедури ухвалення вироку, що включає правову кваліфікацію."
+      },
+      {
+        "id": "E51",
+        "source": "P21",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Норми КПК, якими керується суд при постановленні вироку, охоплюють і призначення покарання."
+      },
+      {
+        "id": "E52",
+        "source": "P21",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Загальні процесуальні норми КПК слугують підставою для ухвалення рішень у вироку, в тому числі щодо цивільного стягнення."
+      },
+      {
+        "id": "E53",
+        "source": "P21",
+        "target": "C22",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Процесуальна формула «керуючись статтями… КПК» підтверджує законність прийняття процесуального рішення щодо позову про моральну шкоду."
+      },
+      {
+        "id": "E07",
+        "source": "P06",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Норми ст.65 КК та роз'яснення Пленуму визначають критерії індивідуалізації покарання, які суд застосував при виборі штрафу."
+      },
+      {
+        "id": "E08",
+        "source": "P07",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Щире каяття є пом'якшуючою обставиною, що схиляє до більш м'якого покарання у виді штрафу."
+      },
+      {
+        "id": "E09",
+        "source": "P08",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Відсутність обтяжуючих обставин підтримує висновок про можливість призначення штрафу."
+      },
+      {
+        "id": "E17",
+        "source": "P15",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Визнання позову відповідачем підтверджує обґрунтованість вимог про відшкодування матеріальної шкоди."
+      },
+      {
+        "id": "E18",
+        "source": "C04",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Висновок про обґрунтованість позову логічно веде до рішення про стягнення конкретної суми."
+      },
+      {
+        "id": "E19",
+        "source": "P13",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Заява позивача про збільшення матеріальних вимог до 39 000 грн визначає розмір відшкодування."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C03",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "C01",
+          "C02",
+          "C03"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "SENTENCING",
+        "main_claim": "C10",
+        "components": [
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P11",
+          "C10"
+        ],
+        "edges": [
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C21",
+        "components": [
+          "P12",
+          "P13",
+          "P14",
+          "P15",
+          "P16",
+          "P17",
+          "P02",
+          "C20",
+          "C21"
+        ],
+        "edges": [
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26",
+          "E27"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C22",
+        "components": [
+          "P18",
+          "P19",
+          "P20",
+          "C22"
+        ],
+        "edges": [
+          "E40",
+          "E41",
+          "E42"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C03",
+        "components": [
+          "P21",
+          "C03",
+          "C10",
+          "C21",
+          "C22"
+        ],
+        "edges": [
+          "E50",
+          "E51",
+          "E52",
+          "E53"
+        ]
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 22,
+      "number_of_claims": 16,
+      "number_of_support_edges": 34,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 5,
+      "root_claims": [
+        "C03",
+        "C05",
+        "C06",
+        "C07",
+        "C08",
+        "C09",
+        "C10",
+        "C21",
+        "C22",
+        "C30",
+        "C31",
+        "C32"
+      ],
+      "unsupported_claims": [
+        "C07",
+        "C08",
+        "C09"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 13
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.93; review 12 flagged missing or hallucinated field(s)."
+  }
+}

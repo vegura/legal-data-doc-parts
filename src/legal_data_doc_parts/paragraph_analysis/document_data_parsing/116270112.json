@@ -1,0 +1,101 @@
+{
+  "document_id": "116270112",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч. 15 ст. 615 КПК України, в умовах дії воєнного стану після складання та підписання повного тексту вироку суд має право обмежитися проголошенням його резолютивної частини з обов`язковим врученням учасникам судового провадження повного тексту вироку в день його проголошення.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст.ст. 100, 314, 373, 374, 376, 468,469, 472, 473, 475 КПК України, суд,-",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст.ст. 100, 314, 373, 374, 376, 468,469, 472, 473, 475 КПК України, суд,-",
+          "paragraph_id": 17,
+          "start_char": 0,
+          "end_char": 83
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "В С Т А Н О В И В:",
+          "paragraph_id": 15,
+          "start_char": 0,
+          "end_char": 18
+        },
+        "section": "Заголовок розділу",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Відповідно до ч. 15 ст. 615 КПК України, в умовах дії воєнного стану після складання та підписання повного тексту вироку суд має право обмежитися проголошенням його резолютивної частини з обов`язковим врученням учасникам судового провадження повного тексту вироку в день його проголошення.",
+          "paragraph_id": 16,
+          "start_char": 0,
+          "end_char": 289
+        },
+        "section": "Процесуальні положення",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [],
+    "arguments": [],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 3,
+      "number_of_claims": 2,
+      "number_of_support_edges": 0,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 0,
+      "root_claims": [
+        "C01",
+        "C02"
+      ],
+      "unsupported_claims": [
+        "C01",
+        "C02"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 1,
+      "items_added": 3
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.95; review 6 flagged missing or hallucinated field(s)."
+  }
+}

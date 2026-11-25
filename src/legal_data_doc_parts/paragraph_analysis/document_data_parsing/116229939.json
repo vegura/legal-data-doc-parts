@@ -1,0 +1,948 @@
+{
+  "document_id": "116229939",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "26.10.2023 року близько 23:00 год., точної дати та часу досудовим розслідуванням встановити не представилось за можливе",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "переслідуючи мету таємного викрадення чужого майна, з корисливих мотивів, діючи умисно, з метою особистого збагачення та в умовах воєнного стану",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "скориставшись відсутністю власника та сторонніх осіб, через незамкнену металеву хвіртку проник на територію домогосподарства",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в якому мешкає ОСОБА_5 , що розташоване за адресою: АДРЕСА_1 .",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "через незамкнені двері проник до приміщення сараю",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "де, таємно від оточуючих, здійснив крадіжку трьох мішків цементу марки 500 IFCEM Портландцемент (Івано-Франківськ) вагою по 25 кг. кожний, вартістю 122 грн. за мішок",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "отримавши реальну можливість розпоряджатися викраденим майном.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У результаті умисних протиправних дій ОСОБА_3 потерпілому ОСОБА_5 заподіяно матеріальної шкоди на загальну суму 366 гривень.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Умисні дії ОСОБА_3 органом досудового розслідування кваліфіковані за ч. 4 ст. 185 КК України, як таємне викрадення чужого майна, вчиненого в умовах воєнного стану, поєднаного з проникненням до іншого приміщення.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Кваліфікація органом досудового розслідування",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Допитаний у судовому засіданні ОСОБА_3 винним себе визнав повністю",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "знав, що в сараї зберігаються мішки з цементом.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Так, у жовтні 2023 року близько 23:00 години через незамкнену хвіртку проник на територію домогосподарства потерпілого, що розташоване в АДРЕСА_2 , де через незамкнені двері проник до приміщення сараю, звідки викрав три мішки цементу вагою по 25 кг кожний.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Мішки переніс за місцем проживання і мав намір використати у власних інтересах.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Один мішок був розірваний і коли приїхали працівники поліції та вилучили викрадене, він купив один цілий мішок і повернув власнику.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У скоєному щиро кається та просить суворо не карати.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Потерпілий у судове засідання не з`явився, але подав заяву про розгляд справи за його відсутності.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Претензій матеріального та морального характеру до обвинуваченого не має.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "згідно положень ч. 3 ст. 349 КПК України,",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення суду",
+        "support_status": null
+      },
+      {
+        "id": "P29",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "враховуючи, що проти цього не заперечують учасники судового провадження,",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення суду",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "характер та ступінь тяжкості вчиненого правопорушення,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "особу винного,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "його вік,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "не працює,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "матеріальна шкода відшкодована,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "посередню характеристику за місцем проживання,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "згідно ст. 89 КК України раніше не судимий,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обставини, які пом`якшують покарання - щире каяття, добровільне відшкодування завданого збитку,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P27",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обставини, які обтяжують покарання - відсутні,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P28",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі наведеного, керуючись ст. ст. 75, 76 КК України, ст. ст. 371, 374 КПК України суд,",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "суд визнав недоцільним дослідження доказів щодо обставин справи, які ніким не оспорюються.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "роз`яснивши їм, що у такому випадку вони будуть позбавлені права оскаржувати ці обставини в апеляційному порядку,",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд вважає, що обвинувачення пред`явлене ОСОБА_3 знайшло своє підтвердження у судовому засіданні в повному обсязі",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки суду щодо доведеності обвинувачення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "а його дії правильно кваліфіковані органом досудового розслідування за ч. 4 ст. 185 КК України, як таємне викрадення чужого майна, вчиненого в умовах воєнного стану, поєднаного з проникненням до іншого приміщення.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд приходить до висновку, що виправлення та перевиховання обвинуваченого можливо при призначенні покарання у виді позбавлення волі та звільнення його від відбування покарання з випробовуванням на підставі ст. 75 КК України і покласти обов`язки передбачені ст. 76 КК України.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов у справі не заявлений.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Процесуальні витрати в розмірі 477 (чотириста сімдесят сім) грн. 96 (дев`яносто шість) коп. за проведення судової товарознавчої експертизи необхідно стягнути з обвинуваченого на користь держави.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Речові докази - два мішки цементу з назвою \"500 марка, IFCEM, Портландцемент Івано-Франківськцемент\", вагою по 25 кг, що передано під зберігальну розписку ОСОБА_5 - повернути законному володільцю.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P18",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Посилання на ч. 3 ст. 349 КПК України є правовою підставою для визнання недоцільним дослідження доказів щодо неоспорюваних обставин."
+      },
+      {
+        "id": "E02",
+        "source": "P29",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Відсутність заперечень учасників провадження відповідає умовам застосування ч. 3 ст. 349 КПК України і слугує підставою для недослідження доказів."
+      },
+      {
+        "id": "E10",
+        "source": "P10",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Повне визнання вини обвинуваченим прямо підтверджує доведеність обвинувачення у судовому засіданні."
+      },
+      {
+        "id": "E11",
+        "source": "P12",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Детальний опис способу вчинення крадіжки, наданий самим обвинуваченим, підкріплює висновок суду про підтвердження обвинувачення."
+      },
+      {
+        "id": "E12",
+        "source": "P06",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Факт таємного викрадення трьох мішків цементу є ключовою обставиною, що підтверджує обвинувачення."
+      },
+      {
+        "id": "E13",
+        "source": "P05",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Проникнення до приміщення сараю є складовою події злочину, що підтримує висновок про доведеність обвинувачення."
+      },
+      {
+        "id": "E14",
+        "source": "P03",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Проникнення на територію домогосподарства вказує на спосіб вчинення злочину та підсилює висновок про підтвердження обвинувачення."
+      },
+      {
+        "id": "E15",
+        "source": "P01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Зазначення часу події (з одночасною невизначеністю точної дати й часу) конкретизує обставини, в межах яких суд оцінює доведеність обвинувачення."
+      },
+      {
+        "id": "E16",
+        "source": "P02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Вказівка на умисел, корисливий мотив та вчинення в умовах воєнного стану підтверджує суб'єктивну сторону діяння й сприяє висновку про доведеність вини."
+      },
+      {
+        "id": "E17",
+        "source": "C01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Оскільки обставини ніким не оспорюються та дослідження доказів щодо них визнано недоцільним, це опосередковано підтримує висновок про підтвердження обвинувачення."
+      },
+      {
+        "id": "E20",
+        "source": "P05",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Проникнення до іншого приміщення є кваліфікуючою ознакою, яка відповідає ч. 4 ст. 185 КК України."
+      },
+      {
+        "id": "E21",
+        "source": "P06",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Факт таємного викрадення чужого майна підтверджує склад крадіжки, необхідний для кваліфікації за ст. 185 КК України."
+      },
+      {
+        "id": "E22",
+        "source": "P02",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Вчинення злочину в умовах воєнного стану відноситься до кваліфікуючих ознак, передбачених ч. 4 ст. 185 КК України."
+      },
+      {
+        "id": "E23",
+        "source": "P09",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Попередня кваліфікація органом досудового розслідування узгоджується з висновком суду щодо правильної правової кваліфікації."
+      },
+      {
+        "id": "E30",
+        "source": "P19",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.81,
+        "justification": "Суд прямо вказує, що враховує характер і ступінь тяжкості правопорушення при вирішенні питання про покарання."
+      },
+      {
+        "id": "E31",
+        "source": "P20",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Відомості про особу винного враховуються при визначенні можливості його виправлення з випробуванням."
+      },
+      {
+        "id": "E32",
+        "source": "P21",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Вік обвинуваченого є релевантним кримінально-правовим фактором для індивідуалізації покарання."
+      },
+      {
+        "id": "E33",
+        "source": "P22",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.79,
+        "justification": "Стан зайнятості (не працює) врахований судом як одна з характеристик особи при призначенні покарання."
+      },
+      {
+        "id": "E34",
+        "source": "P23",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Відшкодування матеріальної шкоди є істотною пом'якшуючою обставиною, що підтримує висновок про можливість випробування."
+      },
+      {
+        "id": "E35",
+        "source": "P24",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.77,
+        "justification": "Посередня характеристика за місцем проживання врахована судом як додатковий фактор індивідуалізації покарання."
+      },
+      {
+        "id": "E36",
+        "source": "P25",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Відсутність судимості згідно зі ст. 89 КК України схиляє суд до застосування звільнення від відбування з випробуванням."
+      },
+      {
+        "id": "E37",
+        "source": "P26",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Щире каяття та добровільне відшкодування прямо названі судом як пом'якшуючі обставини, що обґрунтовують застосування випробування."
+      },
+      {
+        "id": "E38",
+        "source": "P27",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Відсутність обтяжуючих обставин підтримує більш м'який підхід до призначення покарання з випробуванням."
+      },
+      {
+        "id": "E39",
+        "source": "P28",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Посилання на ст. 75 та 76 КК України слугує правовою підставою для звільнення від відбування покарання з випробуванням і покладення обов'язків."
+      },
+      {
+        "id": "E03",
+        "source": "P01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Вказівка на вчинення діяння в умовах воєнного стану та проникнення на територію домогосподарства є ознаками, що відповідають кваліфікації за ч. 4 ст. 185 КК України."
+      },
+      {
+        "id": "E04",
+        "source": "P02",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Проникнення до іншого приміщення (сараю) та таємне викрадення майна відповідають кваліфікуючим ознакам складу злочину, зазначеним у ч. 4 ст. 185 КК України."
+      },
+      {
+        "id": "E05",
+        "source": "P04",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Кваліфікація органу досудового розслідування співпадає з висновком суду та додатково підкріплює правильність правової оцінки дій."
+      },
+      {
+        "id": "E06",
+        "source": "P13",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Відшкодування матеріальної шкоди свідчить про зниження суспільної небезпеки особи та обґрунтовує можливість застосування випробування."
+      },
+      {
+        "id": "E07",
+        "source": "P14",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Відсутність судимостей за ст. 89 КК України характеризує особу позитивно та сприяє висновку про можливість виправлення без ізоляції від суспільства."
+      },
+      {
+        "id": "E08",
+        "source": "P15",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Наявність пом`якшуючих обставин (щире каяття, добровільне відшкодування збитку) прямо враховується судом при рішенні про звільнення з випробуванням."
+      },
+      {
+        "id": "E09",
+        "source": "P16",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Відсутність обтяжуючих обставин є додатковим аргументом на користь м`якшого підходу при призначенні покарання та застосуванні випробування."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C03",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P05",
+          "P06",
+          "P10",
+          "P12",
+          "C01",
+          "C03"
+        ],
+        "edges": [
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C04",
+        "components": [
+          "P02",
+          "P05",
+          "P06",
+          "P09",
+          "C04"
+        ],
+        "edges": [
+          "E20",
+          "E21",
+          "E22",
+          "E23"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C01",
+        "components": [
+          "P18",
+          "P29",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PROBATION",
+        "main_claim": "C05",
+        "components": [
+          "P19",
+          "P20",
+          "P21",
+          "P22",
+          "P23",
+          "P24",
+          "P25",
+          "P26",
+          "P27",
+          "P28",
+          "C05"
+        ],
+        "edges": [
+          "E30",
+          "E31",
+          "E32",
+          "E33",
+          "E34",
+          "E35",
+          "E36",
+          "E37",
+          "E38",
+          "E39"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C06",
+        "components": [
+          "C06"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C07",
+        "components": [
+          "C07"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C08",
+        "components": [
+          "C08"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A08",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C02",
+        "components": [
+          "C02"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P04",
+          "P12"
+        ],
+        "text": "в якому мешкає ОСОБА_5 , що розташоване за адресою: АДРЕСА_1 .",
+        "conflicts_with": "що розташоване в АДРЕСА_2 ,",
+        "description": "У різних фрагментах рішення для одного й того ж домогосподарства потерпілого зазначено дві різні адреси (АДРЕСА_1 та АДРЕСА_2).",
+        "likely_error": true
+      },
+      {
+        "id": "I02",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P01"
+        ],
+        "text": "26.10.2023 року близько 23:00 год., точної дати та часу досудовим розслідуванням встановити не представилось за можливе",
+        "conflicts_with": null,
+        "description": "В одному реченні одночасно наведено конкретну дату і час події та стверджується, що точну дату і час встановити не можливо.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 29,
+      "number_of_claims": 8,
+      "number_of_support_edges": 31,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 8,
+      "root_claims": [
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07",
+        "C08"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 7
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.94; review 4 flagged missing or hallucinated field(s)."
+  }
+}

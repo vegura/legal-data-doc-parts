@@ -1,0 +1,690 @@
+{
+  "document_id": "117464049",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_5 , всередині травня 2023 року перебуваючи у лісосмузі біля с. Єлізаветівка Покровського району, Донецької області , знайшов 8 патронів, які у подальшому поклав до кишені штанів, таким чином їх придбавши.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "У подальшому, у ОСОБА_5 виник злочинний умисел на незаконне зберігання знайдених ним бойових припасів, придатних до стрільби військових бойових припасів до стрілецької вогнепальної зброї у кількості 8 шт., з яких: 7 шт. 5,45-мм проміжні патрони (калібр 5,45x39 мм) з кулею із сталевим осердям та 1 шт. 7,62 мм проміжний патрон (калібр 7,62x39 мм) з бронебійно-запалюючою кулею.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно з Постановою Верховної ради України від 17.06.1992 №2471 -XII «Про право власності на окремі види майна» визначено, що зброя, боєприпаси, вибухові речовини й засоби вибуху не можуть перебувати у власності громадян.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Однак, ОСОБА_5 , діючи умисно, не маючи дозволу на зберігання бойових припасів, достовірно знаючи, що за незаконне придбання, носіння та зберігання бойових припасів передбачена кримінальна відповідальність, в порушення «Положення про дозвільну систему», затвердженого постановою Кабінету Міністрів України від 12 жовтня 1992 року №576 з наступними змінами, «Інструкції про порядок виготовлення, придбання, зберігання, обліку, перевезення та використання вогнепальної, пневматичної, холодної і охолощеної зброї, пристроїв вітчизняного виробництва для відстрілу патронів, споряджених гумовими чи аналогічними за своїми властивостями метальними снарядами несмертельної дії, та патронів до них, а також боєприпасів до зброї, основних частин зброї та вибухових матеріалів», затвердженої наказом Міністерства внутрішніх справ України від 21 серпня 1998 року №622, з наступними змінами, заніс незаконно придбані, придатні до стрільби військові бойові припаси до стрілецької вогнепальної зброї у кількості 8 шт., з яких: 7 шт. 5,45-мм проміжні патрони (калібр 5,45x39 мм) з кулею із сталевим осердям та 1 шт. 7,62 мм проміжний патрон (калібр 7,62x39 мм) з бронебійно-запалюючою кулею, до свого домоволодіння, яке розташоване за адресою: АДРЕСА_1 з метою подальшого їх зберігання без передбаченого законом дозволу.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "14.07.2023 у ході проведення санкціонованого обшуку домоволодіння ОСОБА_5 , яке розташоване за адресою: АДРЕСА_1 , було виявлено та вилучено придатні до стрільби військові бойові припаси до стрілецької вогнепальної зброї у кількості 8 шт., з яких: 7 шт. 5,45-мм проміжні патрони (калібр 5,45x39 мм) з кулею із сталевим осердям та 1 шт. 7,62 мм проміжний патрон (калібр 7,62x39 мм) з бронебійно-запалюючою кулею.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Своїми умисними діями ОСОБА_5 вчинив кримінальне правопорушення, передбачене ч. 1 ст. 263 КК України, а саме: зберігання, придбання бойових припасів без передбаченого законом дозволу.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вину свою у вчиненому злочині визнав повністю",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "17 липня 2023р. в ході обшуку його домоволодіння у нього виявили та вилучили зазначені патрони.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Патрони зберігалися в нього вдома.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Вина обвинуваченого ОСОБА_5 у вчиненому злочині, крім його особистого визнання вини, підтверджується дослідженими в судовому засіданні письмовими доказами, а саме:",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "-витягом з Єдиного реєстру досудових розслідувань про реєстрацію кримінального провадження за № 12023152210000126 від 06.07.2023р. за ознаками кримінального правопорушення, передбаченого ч 1 ст.263 КК України;",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Письмові докази",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "-ухвалою слідчого судді Доманівського районного суду від 14.07.2023р. про надання дозволу на обшук у житловому будинку та господарських спорудах за місцем проживання ОСОБА_5 ;",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Письмові докази",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "-протоколом обшуку від 14.07.2023р., яким зафіксовано виявлення та вилучення в домоволодінні ОСОБА_5 бойових припасів у виді патронів в кількості 8 шт.;",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Письмові докази",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "-висновком експерта судової експертизи зброї № СЕ-19/115-23/9856-БЛ від 19.07..2023р., відповідно до якого предмети зовні схожі на патрони у загальній кількості 8 шт., які надано на експертизу належать до військових боєприпасів стрілецької вогнепальної зброї. З 8 шт. наданих на експертизу предметів зовні схожих на патрони: -7 шт. є 5,45мм.проміжними патронами (калібр 5,45х39мм) з кулею із сталевим осердям; один предмет є 7,62 мм проміжним патроном (калібр 7,62х39мм) з бронебійно-запалюючою кулею. Надані на експертизу патрони до стрільби придатні.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Письмові докази",
+        "support_status": null
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Аналізуючи досліджені докази, суд приходить висновку, що дії обвинуваченого ОСОБА_5 вірно кваліфіковані за ч 1 ст.263 КК України, як зберігання, придбання бойових припасів без передбаченого законом дозволу.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів і правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Вина його у пред\"явленому обвинувачені доведена повністю.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів і правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вирішуючи питання про призначення покарання , суд бере до уваги ступінь тяжкості вчиненого злочину, характеристику особи, винної у вчинені злочину, обставини, які пом`якшують та обтяжують покарання.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений ОСОБА_5 , будучи не судимим в силу закону, вчинив тяжкий злочин .",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставин, що обтяжують покарання обвинуваченому , судом не встановлено.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставини, що пом`якшують покарання обвинуваченому, суд бере до уваги щире каяття та активне сприяння розкриттю злочину.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно ч.2 ст.66 КК України суд визнав обставинами, що пом`якшують покарання обвинуваченому ОСОБА_5 такі, як повне визнання ним своєї вини, позитивну характеристику за місцем проживання , не перебування на обліку у лікарів нарколога та психіатра , утримання трьох неповнолітніх дітей та вчинення злочину будучи не судимим..",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Беручи до уваги, що обвинувачений ОСОБА_5 повністю визнав свою вину та щиро кається, злочин вчинив будучи не судимим, позитивно характеризується за місцем проживання , має на утриманні трьох неповнолітніх дій , його вік та стан здоров”я, суд вважає доцільним призначити обвинуваченому покарання, не пов`язане з ізоляцією від суспільства з застосуванням ст.75 КК України.",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Речові докази підлягають розподіленню відповідно до вимог ст.100 КПК України.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Судові витрати підлягають відшкодуванню за рахунок засудженого.",
+          "paragraph_id": 39,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі викладеного, керуючись ст..ст. 373,374 КПК України, суд",
+          "paragraph_id": 40,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Резолютивна частина",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Опис умисних дій, мети зберігання та відсутності дозволу безпосередньо свідчить про наявність злочинного умислу на незаконне зберігання боєприпасів."
+      },
+      {
+        "id": "E02",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Наявність умислу на незаконне зберігання є складовою суб'єктивної сторони злочину за ч.1 ст.263 КК України та підкріплює висновок про вчинення правопорушення."
+      },
+      {
+        "id": "E03",
+        "source": "P02",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Нормативна заборона володіння зброєю та боєприпасами громадянами підтверджує протиправність зберігання/придбання, що є елементом складу злочину."
+      },
+      {
+        "id": "E04",
+        "source": "P01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.79,
+        "justification": "Факт знаходження та покладення патронів до кишені описує незаконне придбання боєприпасів, що підкріплює кваліфікацію."
+      },
+      {
+        "id": "E05",
+        "source": "P04",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Виявлення та вилучення 8 патронів під час санкціонованого обшуку підтверджує факт зберігання боєприпасів."
+      },
+      {
+        "id": "E06",
+        "source": "P11",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Висновок експерта встановлює, що вилучені предмети є боєприпасами та придатні до стрільби, що має значення для складу злочину."
+      },
+      {
+        "id": "E07",
+        "source": "P10",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Протокол обшуку фіксує факт виявлення і вилучення патронів у домоволодінні обвинуваченого, що підтверджує зберігання."
+      },
+      {
+        "id": "E08",
+        "source": "P07",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.77,
+        "justification": "Зізнання про зберігання патронів удома узгоджується з фактом незаконного зберігання і підкріплює кваліфікацію."
+      },
+      {
+        "id": "E09",
+        "source": "C02",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Констатація складу злочину за ч.1 ст.263 КК України логічно підводить до висновку суду про правильність правової кваліфікації."
+      },
+      {
+        "id": "E10",
+        "source": "P08",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Реєстрація кримінального провадження є частиною процесуальної основи та підтверджує наявність матеріалів справи."
+      },
+      {
+        "id": "E11",
+        "source": "P09",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Ухвала слідчого судді про дозвіл на обшук підтверджує законність отримання доказів, що враховано судом."
+      },
+      {
+        "id": "E12",
+        "source": "P10",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Протокол обшуку є письмовим доказом, що фіксує виявлення та вилучення патронів."
+      },
+      {
+        "id": "E13",
+        "source": "P11",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Висновок експерта є письмовим доказом, який підтверджує належність вилучених предметів до боєприпасів."
+      },
+      {
+        "id": "E14",
+        "source": "C03",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Наявні письмові докази у сукупності підтверджують доведеність вини."
+      },
+      {
+        "id": "E15",
+        "source": "P05",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Повне визнання вини обвинуваченим є додатковою підставою для висновку про доведеність вини."
+      },
+      {
+        "id": "E16",
+        "source": "C05",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Доведеність вини є необхідною передумовою для вирішення питання про вид та міру покарання і можливість пробації."
+      },
+      {
+        "id": "E17",
+        "source": "P12",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.76,
+        "justification": "Суд прямо зазначає критерії, які бере до уваги при призначенні покарання, що обґрунтовує застосування ст.75 КК України."
+      },
+      {
+        "id": "E18",
+        "source": "P13",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Характер злочину (тяжкий) та відсутність судимості враховуються при обранні покарання, не пов'язаного з ізоляцією."
+      },
+      {
+        "id": "E19",
+        "source": "P14",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.74,
+        "justification": "Відсутність обтяжуючих обставин сприяє призначенню більш м'якого покарання і застосуванню ст.75 КК України."
+      },
+      {
+        "id": "E20",
+        "source": "P15",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.77,
+        "justification": "Щире каяття та активне сприяння розкриттю злочину є пом'якшуючими обставинами, що обґрунтовують пробацію."
+      },
+      {
+        "id": "E21",
+        "source": "P16",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.79,
+        "justification": "Перелік пом'якшуючих, визнаних судом на підставі ст.66 КК України, прямо підкріплює висновок про доцільність застосування ст.75 КК України."
+      },
+      {
+        "id": "E22",
+        "source": "P17",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.71,
+        "justification": "Нормативне посилання «керуючись ст..ст. 373,374 КПК України» використано як підстава для ухвалення та оформлення резолютивної частини, що включає розпорядження з речовими доказами."
+      },
+      {
+        "id": "E23",
+        "source": "P17",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.71,
+        "justification": "Нормативне посилання на статті КПК використовується як правова основа для вирішення питання про судові витрати в резолютивній частині."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "EVIDENCE",
+        "main_claim": "C03",
+        "components": [
+          "P08",
+          "P09",
+          "P10",
+          "P11",
+          "C03"
+        ],
+        "edges": [
+          "E10",
+          "E11",
+          "E12",
+          "E13"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C04",
+        "components": [
+          "P02",
+          "P01",
+          "P03",
+          "P04",
+          "P07",
+          "P10",
+          "P11",
+          "C01",
+          "C02",
+          "C04"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "GUILT",
+        "main_claim": "C05",
+        "components": [
+          "P05",
+          "C03",
+          "C05"
+        ],
+        "edges": [
+          "E14",
+          "E15"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PROBATION",
+        "main_claim": "C06",
+        "components": [
+          "C05",
+          "P12",
+          "P13",
+          "P14",
+          "P15",
+          "P16",
+          "C06"
+        ],
+        "edges": [
+          "E16",
+          "E17",
+          "E18",
+          "E19",
+          "E20",
+          "E21"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C07",
+        "components": [
+          "P17",
+          "C07"
+        ],
+        "edges": [
+          "E22"
+        ]
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C08",
+        "components": [
+          "P17",
+          "C08"
+        ],
+        "edges": [
+          "E23"
+        ]
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P06",
+          "P04",
+          "P09",
+          "P10"
+        ],
+        "text": "У п.24 вказано: «17 липня 2023р. в ході обшуку його домоволодіння у нього виявили та вилучили зазначені патрони.»",
+        "conflicts_with": "В інших частинах документа (пп.22, 27, 28) дата обшуку/пов'язаних процесуальних дій зазначена як «14.07.2023р.».",
+        "description": "Наявна розбіжність у даті обшуку: в одному місці рішення фігурує 17.07.2023, тоді як в інших фрагментах — 14.07.2023.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 17,
+      "number_of_claims": 8,
+      "number_of_support_edges": 23,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 6,
+      "root_claims": [
+        "C04",
+        "C06",
+        "C07",
+        "C08"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 0
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.94; review 2 flagged missing or hallucinated field(s)."
+  }
+}

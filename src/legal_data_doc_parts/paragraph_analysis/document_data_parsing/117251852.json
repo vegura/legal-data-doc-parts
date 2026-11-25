@@ -1,0 +1,736 @@
+{
+  "document_id": "117251852",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "засуджено за ч.1 ст.263 КК України на 4 роки позбавлення волі.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Опис вироку першої інстанції",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст.75 КК України ОСОБА_8 звільнено від відбування призначеного покарання з випробуванням з іспитовим строком на 3 роки і покладенням на нього ряду обов`язків, передбачених ст.76 КК України.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Опис вироку першої інстанції",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "За змістом ст.75 КК України прийняти рішення про звільнення від відбування покарання з випробуванням суд вправі лише тоді, коли з урахуванням тяжкості злочину, особи винного та інших обставин справи, у тому числі наслідків, що настали, дійде висновку про можливість виправлення засудженого без відбування призначеного йому покарання.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви апеляційного суду (правовий стандарт ст.75 КК)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до матеріалів провадження ОСОБА_8 не сприяв органам досудового розслідування у встановленні всіх обставин справи, а саме у встановленні часу, місця та де він придбав зброю.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви апеляційного суду (фактичні дані)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "останній вчинив злочин проти громадської безпеки під час дії воєнного стану, в період повномасштабного вторгнення збройними силами рф на територію України, який характеризується підвищеною суспільною небезпекою, оскільки дії винної особи сприяють загостренню криміногенної ситуації та створюють умови для вчинення інших, більш тяжких злочинів.",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви апеляційного суду (обтяжливий контекст воєнного стану)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Висновки суду щодо фактичних обставин справи, винність ОСОБА_8 у вчиненні інкримінованого правопорушення та кваліфікація дій останнього за ч.1 ст.263 КК України в апеляційній скарзі не оскаржуються, тому апеляційним судом не перевіряються.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Межі апеляційного перегляду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "на підставі п.4 ч.1 ст.409 КПК України вирок суду в частині призначеного ОСОБА_8 покарання скасувати у зв`язку з неправильним застосуванням закону України про кримінальну відповідальність, що потягло неправильне звільнення обвинуваченого від відбування покарання, і відповідно до вимог п.п.4 ч.1 ст.420 КПК України ухвалити новий вирок, яким призначити ОСОБА_8 покарання у виді і розмірі визначеному судом першої інстанції, без застосування положень ст.75 КК України.",
+          "paragraph_id": 42,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави (ст.409, 420 КПК)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. ст. 407, 409, 420 КПК України, колегія суддів, -",
+          "paragraph_id": 49,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави (загальне посилання)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Пунктом 3 частиною 9 ст.100 КПК України передбачено, що питання про спеціальну конфіскацію та долю речових доказів і документів, які були надані суду, вирішується судом під час ухвалення судового рішення, яким закінчується кримінальне провадження. Такі докази і документи повинні зберігатися до набрання рішенням законної сили. При цьому майно, що було предметом кримінального правопорушення, пов`язаного з незаконним обігом, та/або вилучене з обігу, передається відповідним установам або знищується.",
+          "paragraph_id": 43,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави (ст.100 КПК)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Як слідує із вироку суду, питання про долю речових доказів було вирішено в порядку ст.100 КПК України, і зокрема самозарядну гвинтівку, ручний кулемет постановлено знищити.",
+          "paragraph_id": 44,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Опис вироку першої інстанції (речові докази)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно Указу Президента України №64/2022 від 24.02.2022 «Про введення воєнного стану в Україні» та Закону України «Про затвердження Указу Президента України «Про введення воєнного стану в Україні» від 24.02.2022 у зв`язку з військовою агресією Російської Федерації проти України, з 24 лютого 2022 року введено воєнний стан на 30 діб, який в подальшому продовжений до (15 листопада последний раз).",
+          "paragraph_id": 45,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини воєнного стану",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Розпорядженням Кабінету Міністрів України №186-р від 26.02.2022, із змінами, внесеними згідно з Розпорядженням КМУ №225-р від 16.03.2022, вирішено передати необхідне для здійснення заходів із забезпечення національної безпеки і оборони у зв`язку з військовою агресією Російської Федерації проти України та цивільного захисту населення в умовах воєнного стану конфісковане майно, майно, визнане безхазяйним, майно, за яким не звернувся власник до кінця строку зберігання (у тому числі майно, визначене у статті 184 Митного кодексу України), що за правом успадкування чи на інших законних підставах перейшло у власність держави, до сфери управління Міністерства оборони, інших центральних органів виконавчої влади та державних органів, які здійснюють керівництво військовими формуваннями, утвореними відповідно до закону, та правоохоронними органами.",
+          "paragraph_id": 46,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави (розпорядження КМУ №186-р)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У разі коли майно, визначене в абзаці першому цього пункту, не було передано в установленому порядку, таке майно передається відповідній обласній військовій адміністрації за місцем його знаходження після погодження із зазначеними в цьому пункті державними органами.",
+          "paragraph_id": 47,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави (розпорядження КМУ №186-р)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "враховуючи, що Харківська область знаходиться в зоні проведення бойових дій.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Апеляційна скарга прокурора (контекст бойових дій)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "істотним порушенням вимог кримінального процесуального закону, а саме п.3 ч.2 ст.52, ст.374, п.3 ч.9 ст.100 КПК України.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Апеляційна скарга прокурора (посилання на КПК)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "колегія суддів вважає, що апеляційна скарга підлягає задоволенню.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновок апеляційного суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Доводи прокурора про неправильне застосування закону України про кримінальну відповідальність, що потягнуло неправильне звільнення обвинуваченого від відбування покарання, є обґрунтованими.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доводів апеляції",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Суд першої інстанції цих вимог закону не врахував, у зв`язку з чим безпідставно звільнив ОСОБА_8 від відбування призначеного покарання з випробуванням на підставі ст.75 КК України.",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви апеляційного суду (застосування ст.75 КК)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "визнання судом пом`якшуючою покарання обставиною щирого каяття є безпідставними",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви апеляційного суду (оцінка каяття)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "обставина, яка пом`якшує покарання - щире каяння, підлягає виключенню.",
+          "paragraph_id": 39,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви апеляційного суду (виключення пом’якшуючої)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "вирок суду в частині призначеного ОСОБА_8 покарання скасувати у зв`язку з неправильним застосуванням закону України про кримінальну відповідальність, що потягло неправильне звільнення обвинуваченого від відбування покарання, і відповідно до вимог п.п.4 ч.1 ст.420 КПК України ухвалити новий вирок, яким призначити ОСОБА_8 покарання у виді і розмірі визначеному судом першої інстанції, без застосування положень ст.75 КК України.",
+          "paragraph_id": 42,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Резолютивні висновки щодо покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "колегія суддів вважає, що майно обвинуваченого, зокрема самозарядна гвинтівка та ручний кулемет, підлягають конфіскації та передачі Збройним Силам України, як про це просить прокурор.",
+          "paragraph_id": 48,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Резолютивні висновки щодо речових доказів",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "В апеляційній скарзі прокурор у кримінальному провадженні просить вирок скасувати у зв`язку з неправильним застосуванням закону України про кримінальну відповідальність, а саме ст.75 КК України та невідповідністю призначеного судом покарання ступеню тяжкості кримінального правопорушення та особі обвинуваченого внаслідок м`якості та істотним порушенням вимог кримінального процесуального закону, а саме п.3 ч.2 ст.52, ст.374, п.3 ч.9 ст.100 КПК України.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Апеляційна скарга прокурора (вимоги та підстави)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Крім того зазначив, що висновок суду про щире каяття обвинуваченого є невмотивованим, оскільки у вироку не наведено в чому саме виразилось щире каяття.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Апеляційна скарга прокурора (оцінка каяття)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вважає, що призначення обвинуваченому покарання із застосуванням ст.75 КК України не відповідає загальним засадам призначення покарання, принципам законності, справедливості, обґрунтованості та індивідуалізації покарання.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Апеляційна скарга прокурора (загальні засади покарання)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C11",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Також вважає, що суд першої інстанції не правильно вирішив питання про речові докази, а саме самозарядну гвинтівку, ручний кулемет, з урахуванням наявного розпорядження Кабінету Міністрів України від 26.02.2022 №186-р, а також враховуючи, що Харківська область знаходиться в зоні проведення бойових дій.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Апеляційна скарга прокурора (речові докази)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C12",
+        "type": "CLAIM",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Просить ухвалити вирок апеляційним судом, яким призначити ОСОБА_8 покарання за ч.1 ст.263 КК України - 4 роки позбавлення волі.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Апеляційна скарга прокурора (прохання щодо покарання)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C13",
+        "type": "CLAIM",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Речові докази: самозарядну гвинтівку «СВТ-40», заводські серії та номери -« НОМЕР_1 » / « НОМЕР_2 », калібру 7,62х54R та ручний кулемет системи Калашникова «РПК-74», калібру 5,45 мм (5,45х39 АК), 1979 року виготовлення, заводські серії та номери - « НОМЕР_4 » конфіскувати та передати відповідно до розпорядження Кабінету Міністрів України від 26.02.2022 №186-р на потреби Збройний Сил України.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Апеляційна скарга прокурора (прохання щодо речових доказів)",
+        "support_status": "SUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "C02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Визнання доводів прокурора обґрунтованими логічно підкріплює висновок про задоволення апеляційної скарги."
+      },
+      {
+        "id": "E02",
+        "source": "C08",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Описані прокурором підстави апеляції становлять зміст «доводів прокурора», які суд визнав обґрунтованими."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Наведений правовий стандарт ст.75 КК України слугує критерієм для оцінки законності застосування випробування."
+      },
+      {
+        "id": "E04",
+        "source": "C10",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Позиція прокурора про невідповідність загальним засадам покарання підсилює висновок суду про безпідставність застосування ст.75 КК."
+      },
+      {
+        "id": "E05",
+        "source": "C03",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Якщо звільнення з випробуванням було безпідставним, це обґрунтовує скасування вироку в частині покарання та ухвалення нового."
+      },
+      {
+        "id": "E06",
+        "source": "P05",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Невчинення дій на сприяння слідству спростовує наявність щирого каяття."
+      },
+      {
+        "id": "E07",
+        "source": "C09",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Твердження прокурора про невмотивованість висновку щодо каяття узгоджується з оцінкою апеляційного суду про безпідставність цієї пом’якшуючої."
+      },
+      {
+        "id": "E08",
+        "source": "C04",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Якщо визнання щирого каяття є безпідставним, цю обставину слід виключити."
+      },
+      {
+        "id": "E09",
+        "source": "C05",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Виключення пом’якшуючої обставини усуває підстави для застосування випробування і підтримує відмову від ст.75 КК."
+      },
+      {
+        "id": "E10",
+        "source": "P06",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Вчинення злочину під час воєнного стану свідчить про підвищену небезпечність, що не узгоджується з призначенням іспитового строку."
+      },
+      {
+        "id": "E11",
+        "source": "P08",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Посилання на ст.409 і 420 КПК прямо надає процесуальну підставу для скасування та ухвалення нового вироку."
+      },
+      {
+        "id": "E12",
+        "source": "P09",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Загальна формула «керуючись ст. 407, 409, 420 КПК» підтверджує правову основу прийнятого рішення."
+      },
+      {
+        "id": "E13",
+        "source": "P01",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Зазначений строк 4 роки, визначений першим судом, приймається апеляційним судом як «вид і розмір», що зберігається без застосування ст.75 КК."
+      },
+      {
+        "id": "E14",
+        "source": "P07",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Неоскарження вини і кваліфікації обмежує перегляд до питання покарання, що кореспондує скасуванню тільки в цій частині."
+      },
+      {
+        "id": "E15",
+        "source": "P02",
+        "target": "C06",
+        "relation": "ATTACK",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.76,
+        "justification": "Рішення першої інстанції про звільнення з випробуванням суперечить новому висновку апеляції про відмову від застосування ст.75 КК."
+      },
+      {
+        "id": "E16",
+        "source": "P10",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Ст.100 КПК передбачає передачу майна відповідним установам як одну з можливих доль речових доказів."
+      },
+      {
+        "id": "E17",
+        "source": "P12",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Запровадження воєнного стану створює контекст необхідності спрямування майна для оборонних потреб."
+      },
+      {
+        "id": "E18",
+        "source": "P13",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Розпорядження КМУ №186-р прямо передбачає передачу відповідного майна до сфери управління оборонних органів."
+      },
+      {
+        "id": "E19",
+        "source": "P14",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Норматив встановлює додатковий механізм передачі майна через обласні військові адміністрації, що підтримує можливість конфіскації та передачі."
+      },
+      {
+        "id": "E20",
+        "source": "C11",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Апеляційний довід прокурора про неправильне вирішення питання речових доказів відповідає висновку апеляційного суду щодо конфіскації та передачі."
+      },
+      {
+        "id": "E21",
+        "source": "C13",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Прохання прокурора конфіскувати і передати зброю до ЗСУ узгоджується з остаточним висновком суду."
+      },
+      {
+        "id": "E22",
+        "source": "P11",
+        "target": "C07",
+        "relation": "ATTACK",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.79,
+        "justification": "Рішення першої інстанції про знищення речових доказів суперечить новому висновку про їх конфіскацію та передачу ЗСУ."
+      },
+      {
+        "id": "E23",
+        "source": "P15",
+        "target": "C11",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.77,
+        "justification": "Зазначення, що Харківська область — зона бойових дій, підсилює довід прокурора про іншу долю речових доказів."
+      },
+      {
+        "id": "E24",
+        "source": "P16",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Посилання прокурора на конкретні норми КПК формує процесуальну основу апеляційних вимог."
+      },
+      {
+        "id": "E25",
+        "source": "C01",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Висновок про задоволення апеляції логічно веде до зміни вироку в частині покарання."
+      },
+      {
+        "id": "E26",
+        "source": "C12",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.76,
+        "justification": "Прокурор прямо просив призначити 4 роки позбавлення волі; апеляційний суд зберіг вид і розмір покарання без застосування випробування."
+      },
+      {
+        "id": "E27",
+        "source": "P09",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Загальне посилання на статті КПК як на керівні норми підкріплює законність вирішення долі речових доказів."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "SENTENCING",
+        "main_claim": "C06",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "C01",
+          "C02",
+          "C03",
+          "C04",
+          "C05",
+          "C06",
+          "C08",
+          "C09",
+          "C10",
+          "C12"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E25",
+          "E26",
+          "E24"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C07",
+        "components": [
+          "P10",
+          "P11",
+          "P12",
+          "P13",
+          "P14",
+          "P15",
+          "P09",
+          "C11",
+          "C13",
+          "C07"
+        ],
+        "edges": [
+          "E16",
+          "E17",
+          "E18",
+          "E19",
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E27"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C09",
+        "components": [
+          "C09"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P12"
+        ],
+        "text": "... який в подальшому продовжений до (15 листопада последний раз).",
+        "conflicts_with": null,
+        "description": "Фрагмент містить незавершене та неофіційне формулювання щодо строку продовження воєнного стану («(15 листопада последний раз)»), що виглядає як редакційна помилка.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 15,
+      "number_of_claims": 13,
+      "number_of_support_edges": 25,
+      "number_of_attack_edges": 2,
+      "number_of_arguments": 3,
+      "root_claims": [
+        "C06",
+        "C07"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 1
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.92; review 5 flagged missing or hallucinated field(s)."
+  }
+}

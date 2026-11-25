@@ -1,0 +1,1155 @@
+{
+  "document_id": "116253514",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "07.08.2023 близько 02 год.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "перебуваючи в с. Баланівка Бершадської територіальної громади Гайсинського району Вінницької області,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "який проживає по АДРЕСА_2",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "щоб забрати свого сина.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "будучи в стані алкогольного та наркотичного сп`яніння,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі цього між ОСОБА_4 та ОСОБА_5 розпочалась словесна суперечка, яка переросла у бійку,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_4 з метою заподіяння тілесних ушкоджень, умисно, протиправно наніс один удар правою ногою в ділянку грудної клітини ОСОБА_5 , після чого наніс ще один удар правою ногою в ділянку грудної клітини",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "внаслідок якого ОСОБА_5 впав на асфальтобетонне покриття вдарившись правою рукою,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "таким чином ОСОБА_4 спричинив останньому тілесні ушкодження, у вигляді синців, саднин на груді та правій руці,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "які згідно висновку експерта № 74 від 08.08.2023 відносяться до легких тілесних ушкоджень, які не спричинили короткочасний розлад здоров`я.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Досудовим розслідуванням дії ОСОБА_4 кваліфіковано за ч. 1 ст. 125 КК України, як умисне легке тілесне ушкодження.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досудове розслідування",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Допитаний в судовому засіданні обвинувачений ОСОБА_4 свою вину у пред`явленому звинуваченні визнав у повному обсязі і дав показання, які за своїм змістом відповідають викладеним вище обставинам вчинення кримінального проступку.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Просить його суворо не карати.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Враховуючи те, що обвинувачений та інші учасники процесу не оспорюють всі обставини, які підлягають доказуванню у кримінальному провадженні і викладені в обвинувальному акті,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні питання",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "судом встановлено, що вони правильно розуміють зміст цих обставин, відсутні будь-які сумніви у добровільності та істинності їх позицій,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні питання",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "суд, роз`яснивши учасникам процесу положення ст. 349 КПК України,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні питання",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "провів судовий розгляд кримінального провадження щодо всіх його обставин із застосуванням правил ч. 3 ст. 349 КПК України,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні питання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "визнавши недоцільним дослідження інших доказів по справі.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні питання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "таким чином ОСОБА_4 спричинив останньому тілесні ушкодження, у вигляді синців, саднин на груді та правій руці,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Суд кваліфікує дії ОСОБА_4 за ч. 1 ст. 125 КК України, як умисне легке тілесне ушкодження.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При призначенні покарання суд враховує ступінь тяжкості вчиненого, що ним вчинено кримінальний проступок, особу винного та обставини, що пом`якшують та обтяжують його покарання.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставиною, яка пом`якшує покарання ОСОБА_4 відповідно до ст. 66 КК України, є щире каяття.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставинами, які відповідно ст. 67 КК України обтяжують покарання ОСОБА_4 суд вважає вчинення кримінального правопорушення особою, що перебуває в стані алкогольного сп`яніння та у стані, викликаному вживанням наркотичних або інших одурманюючих засобів, вчинення кримінального правопорушення в присутності дитини.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Судом враховано що обвинувачений по місцю проживання характеризується посередньо, в лікаря психіатра та нарколога на обліку не перебуває, є інвалідом 3 групи.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Частиною 2 ст. 50 КК України передбачено, що покарання має на меті не тільки кару, а й виправлення засуджених, а також запобігання вчиненню нових кримінальних правопорушень як засудженими, так і іншими особами.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Пленум Верховного Суду України у своїй постанові від 24.10.2003 № 7 «Про практику призначення судами кримінального покарання» звертає увагу на те, що призначаючи покарання, у кожному конкретному випадку суди мають дотримуватися вимог кримінального закону й зобов`язані враховувати ступінь тяжкості вчиненого злочину, дані про особу винного та обставини, що пом`якшують і обтяжують покарання. Таке покарання має бути необхідним і достатнім для виправлення засудженого та попередження нових злочинів.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Велика Палата Верховного Суду у своїй постанові від 21 серпня 2019 року у справі № 682/956/17 вказала про те, що визначені у ст. 65 КК України загальні засади призначення покарання наділяють суд правом вибору однієї із форм реалізації кримінальної відповідальності - призначити покарання або звільнити від покарання чи від його відбування, завданням якої є виправлення та попередження нових злочинів. Ця функція за своєю правовою природою є дискреційною, оскільки потребує врахування та оцінки конкретних обставин справи, ступеня тяжкості вчиненого злочину, особи винного, обставин, що впливають на покарання.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "з урахуванням позиції прокурора щодо виду та міри призначення покарання,",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "суд вважає необхідним і достатнім для виправлення обвинуваченого та попередження нових злочинів призначити йому покарання у виді штрафу у межах санкції передбаченої ч. 1 ст. 125 КК України.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Окрім цього, з матеріалів кримінального провадження вбачається, що кримінальний проступок у даному провадженні ОСОБА_4 вчинив 07.08.2023 року, тобто після постановлення вироку Бершадського районного суду Вінницької області від 14.02.2023 року.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення остаточного покарання",
+        "support_status": null
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вироком Бершадського районного суду Вінницької області від 14.02.2023 року ОСОБА_4 засуджений за ч. 1 ст. 309 КК України до покарання у виді обмеження волі на строк 2 роки, на підставі ст. 75 КК України звільнений від відбування покарання з іспитовим строком 2 роки з випробуванням.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення остаточного покарання",
+        "support_status": null
+      },
+      {
+        "id": "P27",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч.1 ст. 71 КК України, якщо засуджений після постановлення вироку, але до повного відбуття покарання вчинив новий злочин, суд до покарання, призначеного за новим вироком, повністю або частково приєднує невідбуту частину покарання за попереднім вироком.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення остаточного покарання",
+        "support_status": null
+      },
+      {
+        "id": "P28",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Зазначена вимога має імперативний характер і унеможливлює (за умови встановлення судом таких обставин) будь-який інший порядок та правила призначення остаточного покарання.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення остаточного покарання",
+        "support_status": null
+      },
+      {
+        "id": "P29",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно п. 26 Постанови Пленуму Верховного Суду України № 7 від 24.10.2003 «Про практику призначення судами кримінального покарання», при визначенні покарання за правилами ст. 71 КК України, до покарання за новим вироком повністю або частково приєднується невідбута частина покарання за попереднім вироком. Невідбутою частиною покарання за попереднім вироком треба вважати, в тому числі, не невідбуту засудженим частину будь-якого основного покарання.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення остаточного покарання",
+        "support_status": null
+      },
+      {
+        "id": "P30",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно роз`яснень абзацу п`ятого пункту 10 постанови Пленуму Верховного Суду України № 7 від 24 жовтня 2003 року «Про практику призначення судами кримінального покарання», у разі засудження особи за злочин, вчинений у період невідбутого покарання за попереднім вироком, та призначення покарання, яке згідно з ч. 3 ст.72 КК України за сукупністю вироків складанню з іншими видами покарань не підлягає, суд, незважаючи на це, має застосувати вимоги ст.71 КК України і призначити за сукупністю вироків остаточне покарання. У такому випадку суд визначає остаточне покарання у виді сукупності невідбутої частини покарання за попереднім вироком та покарання за новим вироком, ухваливши рішення про їх самостійне виконання.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення остаточного покарання",
+        "support_status": null
+      },
+      {
+        "id": "P31",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно ч. 3 ст. 78 КК України у разі вчинення засудженим протягом іспитового строку нового кримінального правопорушення суд призначає йому покарання за правилами, передбаченими в статтях 71,72 цього Кодексу.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення остаточного покарання",
+        "support_status": null
+      },
+      {
+        "id": "P32",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч. 3 ст.72 КК України основні покарання у виді штрафу та позбавлення права обіймати певні посади або займатися певною діяльністю при призначенні їх за сукупністю кримінальних правопорушень і за сукупністю вироків складанню з іншими видами покарань не підлягають і виконуються самостійно.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення остаточного покарання",
+        "support_status": null
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Суд враховує, що при призначенні покарання за вчинення обвинуваченим нового кримінального правопорушення під час іспитового строку на підставі ч. 3 ст.78 КК України, застосуванню підлягають правила призначення покарання за сукупністю вироків, передбачені зокрема ч.1ст.71 КК України.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення остаточного покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "З урахуванням викладеного, ОСОБА_4 на підставі ч. 1 ст. 71 КК України до покарання, призначеного за цим вироком, необхідно приєднати не відбуте покарання за вироком Бершадського районного суду Вінницької області від 14.02.2023 року та остаточно за сукупністю вироків призначити покарання у виді штрафу в розмірі 50 неоподатковуваних мінімумів доходів громадян, що становить 850 гривень та обмеження волі строком на 2 роки, які виконувати самостійно.",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення остаточного покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P34",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Запобіжний захід відносно ОСОБА_4 на стадії досудового розслідування не обирався.",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": null
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Підстав для обрання запобіжного заходу до набрання вироком законної сили суд не вбачає.",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов не заявлявся.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Судових витрат та речових доказів по справі немає.",
+          "paragraph_id": 39,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати та речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P35",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст.ст. 349, 366-368, 369, 374 КПК України, суд,-",
+          "paragraph_id": 40,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Застосовані норми КПК",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Дата і час події конкретизують обставини правопорушення та підкріплюють висновок про спричинення тілесних ушкоджень."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Зазначення місця події підтверджує контекст і реальність інциденту."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Адреса домоволодіння потерпілого деталізує місце вчинення і підсилює фактичний висновок."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Мета візиту пояснює передумови конфлікту та ескалацію до завдання ударів."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Перебування у стані сп`яніння описує стан обвинуваченого під час події та контекстуалізує насильницькі дії."
+      },
+      {
+        "id": "E06",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Опис словесної суперечки, яка переросла у бійку, безпосередньо веде до насильницьких дій, що спричинили ушкодження."
+      },
+      {
+        "id": "E07",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.97,
+        "justification": "Конкретизовано способи дії (два удари ногою у грудну клітку), що є прямою підставою для висновку про спричинення ушкоджень."
+      },
+      {
+        "id": "E08",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Наслідок у вигляді падіння і удару правою рукою пояснює механізм утворення ушкоджень."
+      },
+      {
+        "id": "E09",
+        "source": "P09",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Опис характеру тілесних ушкоджень конкретизує шкоду та підтверджує факт їх спричинення."
+      },
+      {
+        "id": "E10",
+        "source": "P12",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Визнання вини та узгодженість показань з обставинами справи підкріплюють висновок про спричинення ушкоджень."
+      },
+      {
+        "id": "E11",
+        "source": "C01",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Встановлений факт спричинення легких тілесних ушкоджень є підставою для правової кваліфікації за ч. 1 ст. 125 КК України."
+      },
+      {
+        "id": "E12",
+        "source": "P10",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Висновок експерта підтверджує, що ушкодження є легкими, що відповідає складу правопорушення за ч. 1 ст. 125 КК України."
+      },
+      {
+        "id": "E13",
+        "source": "P11",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Попередня кваліфікація досудовим розслідуванням узгоджується з висновком суду та слугує контекстуальною підставою."
+      },
+      {
+        "id": "E14",
+        "source": "P14",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Неоспорювання обставин дозволило суду застосувати спрощений порядок за ч. 3 ст. 349 КПК України."
+      },
+      {
+        "id": "E15",
+        "source": "P15",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Перевірка судом добровільності та правильного розуміння підтверджує можливість застосування ст. 349 КПК України."
+      },
+      {
+        "id": "E16",
+        "source": "P16",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Роз`яснення положень ст. 349 КПК України є процесуальною умовою для розгляду за правилами ч. 3 цієї статті."
+      },
+      {
+        "id": "E17",
+        "source": "P14",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Неоспорювання всіх обставин робить дослідження інших доказів недоцільним."
+      },
+      {
+        "id": "E18",
+        "source": "P15",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Відсутність сумнівів у добровільності позицій учасників додатково обґрунтовує відмову від дослідження інших доказів."
+      },
+      {
+        "id": "E19",
+        "source": "P17",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Суд прямо зазначає критерії, які враховує при призначенні покарання, що підкріплює обраний вид покарання."
+      },
+      {
+        "id": "E20",
+        "source": "P18",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Щире каяття визнано пом`якшуючою обставиною, що впливає на м`якший вид покарання."
+      },
+      {
+        "id": "E21",
+        "source": "P19",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Обтяжуючі обставини враховані судом при визначенні виду та міри покарання."
+      },
+      {
+        "id": "E22",
+        "source": "P20",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Дані про особу обвинуваченого враховані при виборі покарання у виді штрафу."
+      },
+      {
+        "id": "E23",
+        "source": "P21",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Мета покарання за ст. 50 КК України узгоджується з вибором штрафу як достатнього заходу."
+      },
+      {
+        "id": "E24",
+        "source": "P22",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Позиція Пленуму ВСУ щодо врахування обставин злочину та особи винного підтримує висновок про достатність штрафу."
+      },
+      {
+        "id": "E25",
+        "source": "P23",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Роз`яснення ВП ВС про дискреційний характер призначення покарання обґрунтовує вибір форми реалізації відповідальності."
+      },
+      {
+        "id": "E26",
+        "source": "P24",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Суд врахував позицію прокурора щодо виду та міри покарання як одну з підстав рішення."
+      },
+      {
+        "id": "E27",
+        "source": "P12",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Визнання вини та відповідність показань обставинам сприяють призначенню покарання без дослідження додаткових доказів."
+      },
+      {
+        "id": "E28",
+        "source": "P27",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Норма ч. 1 ст. 71 КК України прямо передбачає приєднання невідбутої частини покарання за попереднім вироком."
+      },
+      {
+        "id": "E29",
+        "source": "P31",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Ч. 3 ст. 78 КК України встановлює застосування правил ст. 71, 72 у разі нового правопорушення в іспитовий строк."
+      },
+      {
+        "id": "E30",
+        "source": "P32",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Ч. 3 ст. 72 КК України визначає самостійне виконання окремих видів покарання при сукупності вироків."
+      },
+      {
+        "id": "E31",
+        "source": "C05",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Визначене за новим вироком покарання (штраф) є складовою остаточного покарання за сукупністю вироків."
+      },
+      {
+        "id": "E32",
+        "source": "P25",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Новий проступок вчинено після попереднього вироку, що активує правила приєднання невідбутої частини покарання."
+      },
+      {
+        "id": "E33",
+        "source": "P26",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Наявність попереднього вироку з іспитовим строком створює невідбуту частину покарання для приєднання."
+      },
+      {
+        "id": "E34",
+        "source": "P27",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Ч. 1 ст. 71 КК України вимагає приєднати невідбуту частину покарання до нового покарання."
+      },
+      {
+        "id": "E35",
+        "source": "P28",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Імперативний характер вимоги виключає інший порядок визначення остаточного покарання."
+      },
+      {
+        "id": "E36",
+        "source": "P29",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Роз`яснення Пленуму ВСУ щодо приєднання невідбутої частини покарання конкретизують порядок застосування ст. 71 КК України."
+      },
+      {
+        "id": "E37",
+        "source": "P30",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Пленум ВСУ вказує на необхідність призначити остаточне покарання і у випадках, коли покарання виконуються самостійно."
+      },
+      {
+        "id": "E38",
+        "source": "P31",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Ст. 78 КК України прямо передбачає застосування правил ст. 71 і 72 при новому правопорушенні в іспитовий строк."
+      },
+      {
+        "id": "E39",
+        "source": "P32",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Ст. 72 КК України визначає самостійне виконання штрафу за сукупністю вироків, що відображено у висновку суду."
+      },
+      {
+        "id": "E40",
+        "source": "C06",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Висновок суду про застосування правил сукупності вироків логічно веде до остаточного покарання, визначеного у вироку."
+      },
+      {
+        "id": "E41",
+        "source": "P34",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Відсутність запобіжного заходу на досудовій стадії узгоджується з відсутністю підстав для його обрання до набрання вироком законної сили."
+      },
+      {
+        "id": "E42",
+        "source": "C04",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Призначення штрафу здійснюється у межах санкції за ч. 1 ст. 125 КК України, що випливає з правової кваліфікації дій."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P12",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C04",
+        "components": [
+          "C01",
+          "P10",
+          "P11",
+          "C04"
+        ],
+        "edges": [
+          "E11",
+          "E12",
+          "E13"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C02",
+        "components": [
+          "P14",
+          "P15",
+          "P16",
+          "C02"
+        ],
+        "edges": [
+          "E14",
+          "E15",
+          "E16"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C03",
+        "components": [
+          "P14",
+          "P15",
+          "C03"
+        ],
+        "edges": [
+          "E17",
+          "E18"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "SENTENCING",
+        "main_claim": "C05",
+        "components": [
+          "P17",
+          "P18",
+          "P19",
+          "P20",
+          "P21",
+          "P22",
+          "P23",
+          "P24",
+          "P12",
+          "C04",
+          "C05"
+        ],
+        "edges": [
+          "E19",
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26",
+          "E27",
+          "E42"
+        ]
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "SENTENCING",
+        "main_claim": "C07",
+        "components": [
+          "C05",
+          "P25",
+          "P26",
+          "P27",
+          "P28",
+          "P29",
+          "P30",
+          "P31",
+          "P32",
+          "C06",
+          "C07"
+        ],
+        "edges": [
+          "E31",
+          "E32",
+          "E33",
+          "E34",
+          "E35",
+          "E36",
+          "E37",
+          "E38",
+          "E39",
+          "E40"
+        ]
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C08",
+        "components": [
+          "P34",
+          "C08"
+        ],
+        "edges": [
+          "E41"
+        ]
+      },
+      {
+        "argument_id": "A08",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C09",
+        "components": [
+          "C09"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A09",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C10",
+        "components": [
+          "C10"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 34,
+      "number_of_claims": 10,
+      "number_of_support_edges": 42,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 9,
+      "root_claims": [
+        "C02",
+        "C03",
+        "C07",
+        "C08",
+        "C09",
+        "C10"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 0
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.95; review 2 flagged missing or hallucinated field(s)."
+  }
+}

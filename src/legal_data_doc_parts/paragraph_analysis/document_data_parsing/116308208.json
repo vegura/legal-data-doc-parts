@@ -1,0 +1,369 @@
+{
+  "document_id": "116308208",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Органом досудового розслідування встановлені обставини, які не оспорюються учасниками кримінального провадження,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "а саме те, що 23.11.2023 р., близько 15-20, ОСОБА_4 зайшов до під`їзду № 3 буд. АДРЕСА_2 , де зустрів свою сусідку ОСОБА_6 та між ними виник словесний конфлікт з приводу кота, який проживає на сходинковому майданчику між 1 та 2 поверхами цього під`їзду вказаного будинку. В цей час та місці, у ОСОБА_4 , на ґрунті раптово виниклих неприязних відносин, виник прямий умисел, направлений на заподіяння ОСОБА_6 тілесних ушкоджень. Реалізуючи свій умисел, ОСОБА_4 штовхнув рукою в грудну клітину ОСОБА_6 , внаслідок чого остання вдарилася головою об поштові скриньки, які знаходились позаду неї, а потім схопив її за халат та кулаком наніс удар в область лівої щелепи, ближче до лівого ока, та удар в область губи, внаслідок чого у ОСОБА_6 з губи пішла кров, а потім ще один удар кулаком в область грудної клітки. Таким чином, ОСОБА_4 спричинив тілесні ушкодження потерпілій ОСОБА_6 у вигляді забою м`яких тканин обличчя, садна обличчя, правої кисті, які відносяться до легких тілесних ушкоджень, що мають незначні скороминучі наслідки, тривалістю не більше 6 днів.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Ці умисні дії ОСОБА_4 , орган досудового розслідування та суд кваліфікує за ст. 125 ч. 1 КК України за ознаками умисних легких тілесних ушкоджень.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Потерпіла ОСОБА_6 надала заяву про згоду на розгляд обвинувального акту у спрощеному порядку, без судового розгляду в судовому засіданні та виклику учасників кримінального провадження.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений ОСОБА_4 , в присутності захисника ОСОБА_5 , надав заяву щодо визнання своєї винуватості, згоди зі встановленими досудовим розслідуванням обставинами, ознайомлення з обмеженням права на апеляційне оскарження, згоду на розгляд обвинувального акту у спрощеному порядку, без судового розгляду в судовому засіданні, та виклику учасників кримінального провадження.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинуваченому ОСОБА_4 та потерпілій ОСОБА_6 , відповідно до ст. 302 ч. 2 КПК України, при наданні згоди на розгляд обвинувального акта у спрощеному порядку, роз`яснені обмеження на апеляційне оскарження вироку на підставі розгляду провадження за відсутності учасників кримінального провадження, не дослідження доказів у судовому засіданні, або з метою оспорити встановлені у результаті досудового розслідування обставини.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При призначенні покарання обвинуваченому, відповідно до ст. 65 КК України, суд враховує ступінь тяжкості скоєного кримінального правопорушення, особу обвинуваченого, наявність обставин, які обтяжують і пом`якшують покарання обвинуваченому.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно до ст. 12 КК України,",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Кваліфікація і категорія правопорушення",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "кримінальне правопорушення, передбачене ч. 1 ст. 125 КК України, є кримінальним проступком.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Кваліфікація і категорія правопорушення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставиною, яка згідно ст. 66 КК України, пом`якшує покарання обвинуваченому, суд вважає його щире каяття в скоєному.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Передбачених ст. 67 КК України обставин, що обтяжують покарання обвинуваченому, судом не встановлено.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений ОСОБА_4 ,характеризується задовільно, пенсіонер, раніше до кримінальної відповідальності не притягався.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "положень ст. 50 КК України,",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд призначає обвинуваченому покарання, необхідне та достатнє для його виправлення та запобігання вчинення ним та іншими особами нових кримінальних правопорушень, ближче до мінімального виду та розміру покарання, передбачених законом.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі викладеного, керуючись ст. ст. 368, 370, 373, 374 КПК України, суд -",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Застосовані положення КПК",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Описані у п. 17 умисні дії прямо пов’язуються фразою «Ці умисні дії … суд кваліфікує…», що слугує безпосередньою підставою для правової кваліфікації за ч. 1 ст. 125 КК України."
+      },
+      {
+        "id": "E02",
+        "source": "P07",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Посилання «Згідно до ст. 12 КК України,» є правовою підставою для висновку про віднесення діяння до кримінальних проступків."
+      },
+      {
+        "id": "E03",
+        "source": "C02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Категорія правопорушення (проступок) враховується при визначенні покарання; зв’язок випливає з формули «Із урахуванням викладеного…» у п. 27 (частково виведено з контексту)."
+      },
+      {
+        "id": "E04",
+        "source": "P06",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Норма ст. 65 КК прямо визначає критерії врахування при призначенні покарання; у п. 27 зазначено, що суд призначає покарання «із урахуванням викладеного», тобто з урахуванням наведених критеріїв."
+      },
+      {
+        "id": "E05",
+        "source": "P08",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Щире каяття визнано судом обставиною, що пом’якшує покарання (п. 24), що логічно підтримує рішення про покарання ближче до мінімального (випливає з посилання «Із урахуванням викладеного…» у п. 27)."
+      },
+      {
+        "id": "E06",
+        "source": "P09",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Відсутність обтяжуючих обставин (п. 25) сприяє м’якшому покаранню; зв’язок обґрунтований формулою «Із урахуванням викладеного…» (частково виведено з контексту)."
+      },
+      {
+        "id": "E07",
+        "source": "P10",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.76,
+        "justification": "Характеристика особи (п. 26) є чинником для призначення покарання відповідно до ст. 65 КК, що підтримує висновок про мінімальність (випливає з «Із урахуванням викладеного…»)."
+      },
+      {
+        "id": "E08",
+        "source": "P11",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.81,
+        "justification": "Суд прямо посилається на «положень ст. 50 КК України» у п. 27 як на правову основу мети покарання, з огляду на що обґрунтовує призначення покарання."
+      },
+      {
+        "id": "E09",
+        "source": "P12",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Фраза «керуючись ст. ст. 368, 370, 373, 374 КПК України, суд -» свідчить, що рішення ухвалюється на підставі норм КПК; це є процесуальною підставою кінцевого рішення щодо покарання."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C01",
+        "components": [
+          "P02",
+          "C01"
+        ],
+        "edges": [
+          "E01"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "SENTENCING",
+        "main_claim": "C03",
+        "components": [
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P11",
+          "P12",
+          "C02",
+          "C03"
+        ],
+        "edges": [
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "SENTENCING",
+        "main_claim": "C03",
+        "components": [
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "C02",
+          "C03"
+        ],
+        "edges": [
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07"
+        ]
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 12,
+      "number_of_claims": 3,
+      "number_of_support_edges": 9,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 3,
+      "root_claims": [
+        "C01",
+        "C03"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 1
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.96; review 1 flagged missing or hallucinated field(s)."
+  }
+}

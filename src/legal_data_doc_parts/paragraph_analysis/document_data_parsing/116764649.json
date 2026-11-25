@@ -1,0 +1,855 @@
+{
+  "document_id": "116764649",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_4 на початку 2022 року отримав подарунок - кастет",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "кастет, який є не клинковою холодною зброєю ударно-дробильної дії",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "о 18 год. 23 хв. 01 січня 2024 року",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "поряд із закладом «Луна» поблизу перехрестя вулиць Лесі Українки та Героїв Небесної Сотні в місті Кам`янці-Подільському Хмельницької області",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "умисно, незаконно, тобто без передбаченого законом дозволу, носив при собі кастет",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "п. 1 Додатку 1 «Переліку видів майна, що не може перебувати у власності громадян, громадських об`єднань, міжнародних організацій та юридичних осіб інших держав на території України»,  затвердженого постановою Верховної Ради України від 17.06.1992  № 2471-ХІІ  «Про право власності на окремі види майна»",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні посилання",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до яких кастет не може перебувати у власності громадян, громадських об`єднань, міжнародних організацій та юридичних осіб інших держав на території України, віднесено зброю",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні посилання",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "п. 2, п. 9 Положення про дозвільну систему, затвердженого постановою Кабінету Міністрів України від 12.10.1992 №576",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні посилання",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "п.п. 2.1, 2.6 Інструкції про порядок виготовлення, придбання, зберігання, обліку, перевезення та використання вогнепальної, пневматичної, холодної зброї, пристроїв вітчизняного виробництва для відстрілу патронів, споряджених гумовими чи аналогічними за своїми властивостями метальними снарядами несмертельної дії та патронів до них, а також боєприпасів до зброї, основних частин зброї та вибухових матеріалів, затвердженої наказом Міністерства внутрішніх справ України №622 від 21.08.1998, якими передбачено, що до предметів, на які поширюється дозвільна система, належать холодна зброя.",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні посилання",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У суді обвинувачений  ОСОБА_6 та прокурор ОСОБА_2 подали угоду про визнання винуватості укладену 5 лютого 2024 року.",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про визнання винуватості",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обвинувачений беззастережно визнав вину за ч.2 ст.263 КК України  у інкримінованому злочині",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про визнання винуватості",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "сторони погодили покарання у виді двох років обмеження волі, з конфіскаціє майна, яке вилучено з обігу.",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про визнання винуватості",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі ст. 75 КК України, зі звільненням від відбування покарання з іспитовим строком з конфіскаціє майна, яке вилучено з обігу.",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про визнання винуватості",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "умови угоди не суперечать вимогам КПК та іншим Законам; слідчими органами правильно дана правова кваліфікація дій обвинуваченого; умови угоди відповідають інтересам суспільства; не порушують прав, свобод чи інтереси сторін або інших осіб; є всі обґрунтовані підстави вважати, що укладення угоди було добровільним; обвинувачений має можливість виконати взяті на себе за угодою зобов`язання та може нести узгоджене покарання; є всі фактичні підстави для визнання винуватості.",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка суду щодо угоди",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинуваченому зрозумілі права та наслідки укладення угоди, він безумовно та беззастережно пояснив про повне визнання вини та всіх обставин інкримінованого злочину.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка суду щодо угоди",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений зрозумів положення ч.4 ст.474 КПК України, а також усвідомлював наслідки невиконання угоди про визнання винуватості відповідно до ст.476 КПК України.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка суду щодо угоди",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При визначені покарання враховано ступінь тяжкості вчиненого злочину, особу винного та обставини, що пом`якшують та обтяжують покарання.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений позитивно характеризується.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставинами, які пом`якшують покарання обвинуваченого, є щире каяття, активне сприяння у розкритті злочину.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обтяжуючих обставин у суді не встановлено.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "долю речових доказів вирішити згідно ст. 100 КПК України,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази та їх доля",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "згідно п.3 ч.9 ст. 100 КПК України,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні посилання (КПК)",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. ст. 314, 368, 370, 374, 468, 471, 475 КПК України, суд -",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні посилання (КПК)",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "(т.1 м.д.с.а.с.17)",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Посилання на матеріали справи",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Дії ОСОБА_4 суд кваліфікує як носіння кастетів без передбаченого законом дозволу, тобто у вчиненні кримінального правопорушення (злочину),  тобто, кримінальне правопорушення  передбачене  ч.2 ст.263 КК України.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Суд, вивчивши матеріали кримінального провадження, вважає, що укладена угода про визнання винуватості відповідає вимогам законодавства,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка суду щодо угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Виходячи з викладеного, суд дійшов висновку про наявність підстав для затвердження угоди.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки щодо затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Арешт накладений на кастет згідно ухвали слідчого судді від 04 січня 2024 року слід скасувати (т.1 м.д.с.а.с.17)",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "кастет, як майно, що було предметом кримінального правопорушення, пов`язаного з незаконним обігом, та вилучене з обігу, слід знищити.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази та їх доля",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Судові витрати підлягають стягненню з засудженого.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Погоджене покарання відповідає вимогам ст.65 КК України та санкції ч.2 ст.263 КК України.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "кастет не може перебувати у власності громадян, громадських об`єднань, міжнародних організацій та юридичних осіб інших держав на території України",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні посилання",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Вказівка, що кастет є холодною зброєю ударно-дробильної дії, підтверджує ознаку предмета правопорушення для кваліфікації за ч.2 ст.263 КК України."
+      },
+      {
+        "id": "E02",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Точний час події є частиною встановлених обставин носіння забороненого предмета."
+      },
+      {
+        "id": "E03",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Конкретизація місця події підтверджує факт носіння зброї у публічному місці."
+      },
+      {
+        "id": "E04",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Пряме зазначення, що обвинувачений носив кастет без передбаченого законом дозволу, безпосередньо обґрунтовує кваліфікацію за ч.2 ст.263 КК України."
+      },
+      {
+        "id": "E05",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Норма ВРУ (п.1 Додатку 1 до постанови №2471-ХІІ) визначає, що кастет не може перебувати у власності, що підсилює протиправність."
+      },
+      {
+        "id": "E06",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Точне приписування кастета до заборонених предметів підтверджує склад правопорушення."
+      },
+      {
+        "id": "E07",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Пункти 2, 9 Положення про дозвільну систему (Постанова КМУ №576) регулюють необхідність дозволів на такі предмети."
+      },
+      {
+        "id": "E08",
+        "source": "P09",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Інструкція МВС №622 (п.п.2.1, 2.6) прямо відносить холодну зброю до предметів дозвільної системи."
+      },
+      {
+        "id": "E09",
+        "source": "P11",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Визнання вини за ч.2 ст.263 КК України додатково підтверджує правильність правової кваліфікації."
+      },
+      {
+        "id": "E10",
+        "source": "P10",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Подання угоди в суді та зазначення дати її укладення є передумовою для оцінки судом її відповідності закону."
+      },
+      {
+        "id": "E11",
+        "source": "P11",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Беззастережне визнання вини є умовою допустимості та змістовної законності угоди."
+      },
+      {
+        "id": "E12",
+        "source": "P12",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Узгоджене покарання є істотною умовою угоди і враховується судом при перевірці її законності."
+      },
+      {
+        "id": "E13",
+        "source": "P13",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Посилання на ст.75 КК України свідчить про погоджену процесуальну модель призначення покарання із випробуванням."
+      },
+      {
+        "id": "E14",
+        "source": "P14",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Перелік критеріїв у рішенні прямо наведений як підстави відповідності угоди вимогам закону."
+      },
+      {
+        "id": "E15",
+        "source": "P15",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Розуміння прав та повне визнання обставин підтверджують добровільність та усвідомленість угоди."
+      },
+      {
+        "id": "E16",
+        "source": "P16",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Дотримання вимог ч.4 ст.474 та усвідомлення наслідків за ст.476 КПК України підтверджують процесуальну коректність угоди."
+      },
+      {
+        "id": "E17",
+        "source": "P12",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Факт узгодженого покарання у два роки з конфіскацією підтверджує, що погоджене покарання узгоджується із санкцією статті."
+      },
+      {
+        "id": "E18",
+        "source": "P17",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Врахування тяжкості, особи та обставин при визначенні покарання підтверджує відповідність загальним засадам ст.65 КК України."
+      },
+      {
+        "id": "E19",
+        "source": "C02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Висновок про відповідність угоди вимогам закону логічно обґрунтовує наявність підстав для її затвердження."
+      },
+      {
+        "id": "E20",
+        "source": "C07",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Відповідність погодженого покарання вимогам закону підтримує висновок про можливість затвердження угоди."
+      },
+      {
+        "id": "E21",
+        "source": "P24",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Формула «Керуючись ... КПК України» вказує на правові підстави ухвалення рішення про затвердження угоди."
+      },
+      {
+        "id": "E22",
+        "source": "C03",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.65,
+        "justification": "Затвердження угоди обумовлює подальші процесуальні рішення, зокрема вирішення питання про арешт майна."
+      },
+      {
+        "id": "E23",
+        "source": "P22",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Посилання на ст.100 КПК України вказує на необхідність вирішення долі речових доказів, що пов’язано зі скасуванням арешту."
+      },
+      {
+        "id": "E24",
+        "source": "P25",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.6,
+        "justification": "Посилання на матеріали провадження (т.1 м.д.с.а.с.17) ідентифікує ухвалу про накладення арешту як предмет скасування."
+      },
+      {
+        "id": "E25",
+        "source": "P24",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.65,
+        "justification": "Загальні процесуальні норми КПК, на які послався суд, надають повноваження для ухвалення процесуальних рішень, у т.ч. про скасування арешту."
+      },
+      {
+        "id": "E26",
+        "source": "P22",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Питання про долю речових доказів вирішується відповідно до ст.100 КПК, що включає можливість знищення."
+      },
+      {
+        "id": "E27",
+        "source": "P23",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "п.3 ч.9 ст.100 КПК прямо передбачає знищення предметів, вилучених з обігу та пов’язаних із незаконним обігом."
+      },
+      {
+        "id": "E28",
+        "source": "P06",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Норма ВРУ №2471-ХІІ підтверджує, що кастет не може перебувати у власності, тобто є предметом, вилученим з обігу."
+      },
+      {
+        "id": "E29",
+        "source": "P07",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Пряме віднесення кастета до заборонених предметів обґрунтовує необхідність його знищення як речового доказу."
+      },
+      {
+        "id": "E30",
+        "source": "P24",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.6,
+        "justification": "Формула «Керуючись ... КПК України» відображає застосовані норми для вирішення питання про судові витрати."
+      },
+      {
+        "id": "E31",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.74,
+        "justification": "Правильна правова кваліфікація дій обвинуваченого узгоджується з висновком суду про відповідність угоди вимогам закону."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C01",
+        "components": [
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P11",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C03",
+        "components": [
+          "P10",
+          "P11",
+          "P12",
+          "P13",
+          "P14",
+          "P15",
+          "P16",
+          "C01",
+          "C02",
+          "P17",
+          "C07",
+          "P24",
+          "C03"
+        ],
+        "edges": [
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E31",
+          "E17",
+          "E18",
+          "E19",
+          "E20",
+          "E21"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C04",
+        "components": [
+          "C03",
+          "P22",
+          "P25",
+          "P24",
+          "C04"
+        ],
+        "edges": [
+          "E22",
+          "E23",
+          "E24",
+          "E25"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C05",
+        "components": [
+          "P22",
+          "P23",
+          "P06",
+          "P07",
+          "C05"
+        ],
+        "edges": [
+          "E26",
+          "E27",
+          "E28",
+          "E29"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C06",
+        "components": [
+          "P24",
+          "C06"
+        ],
+        "edges": [
+          "E30"
+        ]
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P10",
+          "C01"
+        ],
+        "text": "ОСОБА_6",
+        "conflicts_with": "ОСОБА_4",
+        "description": "У фрагменті про подання угоди в суді обвинувачений позначений як ОСОБА_6, тоді як в інших частинах рішення використано ОСОБА_4. Ймовірна технічна описка у реквізитах особи.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 25,
+      "number_of_claims": 7,
+      "number_of_support_edges": 31,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 5,
+      "root_claims": [
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 1
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.93; review 5 flagged missing or hallucinated field(s)."
+  }
+}

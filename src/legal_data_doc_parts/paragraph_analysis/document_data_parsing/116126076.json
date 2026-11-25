@@ -1,0 +1,819 @@
+{
+  "document_id": "116126076",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_2 маючи умисел на незаконне придбання та зберігання психотропних речовин, без мети збуту, в порушення вимог статей 25 (зберігання наркотичних засобів, психотропних засобів, психотропних речовин та прекурсорів), 27 (Придбання, реалізація наркотичних засобів, психотропних речовин і прекурсорів) Закону України «Про наркотичні засоби, психотропні речовини і прекурсори», діючи умисно,",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "28.11.2023 року у невстановлений судом час та місці придбав скляну банку, в середині якої знаходилась речовина сіро-зеленого кольору рослинного походження,",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "яка згідно із висновком експертизи №СЕ-19/108-23/19205-НЗПРАП від 30.11.2023 містить у своєму складі наркотичний засіб обіг якого заборонено - канабіс, масою 71,565 гр. (в перерахунку на висушену речовину).",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Докази та експертиза",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вказану скляну банку, яка містить у своєму складі наркотичний засіб обіг якого заборонено - канабіс, ОСОБА_2 почав зберігати при собі, помістивши до своєї сумки, та зберігав без мети подальшого збуту.",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В подальшому, 28.11.2023 року у період часу з 17:16 год. по 17:23 год. під час проведення огляду місця події за адресою: м. Запоріжжя, вул. Каширське шосе (з координатами 47,88961 ° Пн, 35,00806 ° Сх) скляну банку з речовиною сіро-зеленого кольору, яку ОСОБА_2 незаконно придбав та зберігав при собі без мети збуту, було вилучено.",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувальний акт відносно ОСОБА_2 в порядку ст. 302 КПК України, надійшов до суду з клопотанням прокурора про його розгляд у спрощеному провадженні без проведення судового розгляду в судовому засіданні.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "письмова заява обвинуваченого від 04.01.2024 року, що складена у присутності захисника ОСОБА_3 ,",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до якої він беззаперечно визнає свою винуватість у вчиненні інкримінованому йому кримінального проступку, передбаченого ч. 1 ст. 309 КК України,",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "згоден на розгляд обвинувального акту у спрощеному провадженні без проведення судового розгляду в судовому засіданні та без його участі.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Із обмеженням права на апеляційне оскарження ознайомлений.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч. 2 ст. 381 КПК України суд розглядає обвинувальний акт щодо вчинення кримінального проступку без проведення судового розгляду в судовому засіданні за відсутності учасників судового провадження, якщо обвинувачений не оспорює встановлені під час дізнання обставини і згоден з розглядом обвинувального акта.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми КПК щодо спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно ч. 3 ст. 302 КПК України до обвинувального акта з клопотанням про його розгляд у спрощеному провадженні повинні бути додані: 1) письмова заява підозрюваного, складена в присутності захисника, щодо беззаперечного визнання своєї винуватості, згоди із встановленими досудовим розслідуванням обставинами, ознайомлення з обмеженням права апеляційного оскарження згідно з частиною другою цієї статті та згоди з розглядом обвинувального акта у спрощеному провадженні; 2) письмова заява потерпілого, представника юридичної особи, щодо якої здійснюється провадження, щодо згоди із встановленими досудовим розслідуванням обставинами, ознайомлення з обмеженням права апеляційного оскарження згідно з частиною другою цієї статті та згоди з розглядом обвинувального акта у спрощеному провадженні; 3) матеріали досудового розслідування, у тому числі документи, які засвідчують беззаперечне визнання підозрюваним своєї винуватості.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми КПК щодо спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P13_p",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі ч. 2 ст. 382 КПК вирок суду за результатами спрощеного провадження ухвалюється в порядку, визначеному цим Кодексом, та повинен відповідати загальним вимогам до вироку суду. У вироку суду за результатами спрощеного провадження замість доказів на підтвердження встановлених судом обставин зазначаються встановлені органом досудового розслідування обставини, які не оспорюються учасниками судового провадження.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми КПК щодо спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно із ч. 2 ст. 50 КК України особі, яка вчинила кримінальне правопорушення, має бути призначено покарання, необхідне й достатнє для її виправлення, а також запобігання вчиненню нових кримінальних правопорушень.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При призначенні виду та розміру покарання обвинуваченому ОСОБА_2 відповідно до ст. 65 КК України, суд враховує характер та ступінь тяжкості вчиненого кримінального правопорушення, його наслідки, дані про особу обвинуваченого, відношення самого обвинуваченого до вчиненого, обставини, які пом`якшують та обтяжують покарання.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_2 раніше не судимий, вчинив кримінальний проступок, має постійне місце проживання, одружений, має на утриманні малолітню дитину, офіційно працевлаштований, на диспансерному обліку в наркологічному та психіатричному диспансерах не перебуває, свою вину в вчиненні кримінального правопорушення визнав у повному обсязі, в скоєному щиросердно розкаявся.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу та інші обставини",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись статями 371, 373, 374, 381-382 КПК України, суд",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні засади ухвалення рішення",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч. 2 ст. 124 КПК України",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст. 12 КК України,",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Кримінально-правова кваліфікація",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до ст. 100 КПК України",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до ст. 67 КК України,",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до ст. 66 КК України,",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Суд дійшов висновку, що своїми умисними діями  ОСОБА_2  вчинив кримінальний проступок, передбачений ч. 1 ст. 309 КК України, який кваліфікується, як незаконне придбання та зберігання наркотичного засобу без мети збуту.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Кримінально-правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Отже, суд розглянув обвинувальний акт щодо вчинення кримінального проступку без проведення судового розгляду в судовому засіданні за відсутності учасників судового провадження, на підставі вивчення обвинувального акту та доданих до нього матеріалів із ухваленням вироку без зазначення доказів на підтвердження встановлених обставин відповідно до ч. 2 ст. 382 КПК України.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного провадження",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Тому суд дійшов висновку про необхідність призначення покарання у виді штрафу у розмірі однієї тисячі неоподатковуваних мінімумів доходів громадян, що відповідає санкції ч. 1 ст. 309 КК України, з урахуванням вимог загальної частини КК України.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставинами, які пом`якшують покарання ОСОБА_2 , відповідно до ст. 66 КК України, суд визнає щире каяття, активне сприяння розкриттю кримінального правопорушення.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Обставини, які обтяжують покарання, відповідно до ст. 67 КК України, судом не встановлено.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Відповідно до ч. 2 ст. 124 КПК України підлягають стягненню з обвинуваченого в дохід держави процесуальні витрати на залучення експерта у сумі 956 гривень.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Заходи забезпечення кримінального провадження не застосовувались.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші процесуальні питання",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Долю речових доказів вирішити відповідно до ст. 100 КПК України.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Відповідно до ст. 12 КК України, скоєне правопорушення є кримінальним проступком.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Кримінально-правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в скоєному щиросердно розкаявся.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Фрагмент містить опис умислу та посилання на порушення вимог спеціального закону, що обґрунтовує висновок про вчинення незаконного придбання та зберігання."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Описано факт придбання скляної банки з речовиною, що є фактичною підставою для кваліфікації за ч. 1 ст. 309 КК України."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Посилання на висновок експертизи підтверджує, що речовина є канабісом визначеної маси, що обґрунтовує кваліфікацію незаконного обігу наркотичного засобу."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Факт зберігання речовини у сумці без мети збуту прямо підтверджує склад інкримінованого діяння."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Вилучення банки з речовиною у конкретний час і місці підтверджує факт володіння і зберігання обвинуваченим."
+      },
+      {
+        "id": "E06",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Беззаперечне визнання винуватості обвинуваченим слугує підставою для висновку суду про доведеність вини."
+      },
+      {
+        "id": "E07",
+        "source": "P06",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Надходження обвинувального акту з клопотанням прокурора про спрощений розгляд є процесуальною передумовою розгляду у спрощеному провадженні."
+      },
+      {
+        "id": "E08",
+        "source": "P07",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Наявність письмової заяви обвинуваченого, складеної у присутності захисника, відповідає вимогам для спрощеного провадження."
+      },
+      {
+        "id": "E09",
+        "source": "P08",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Беззаперечне визнання винуватості відповідає умовам для розгляду обвинувального акта без судового засідання."
+      },
+      {
+        "id": "E10",
+        "source": "P09",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Згода на спрощений розгляд і без участі обвинуваченого є необхідною умовою спрощеного провадження."
+      },
+      {
+        "id": "E11",
+        "source": "P10",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Ознайомлення з обмеженням права на апеляційне оскарження передбачене законом для спрощеного провадження."
+      },
+      {
+        "id": "E12",
+        "source": "P11",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Норма ч. 2 ст. 381 КПК України прямо регламентує можливість розгляду справи без судового засідання за наявності визначених умов."
+      },
+      {
+        "id": "E13",
+        "source": "P12",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Норма ч. 3 ст. 302 КПК України визначає перелік документів, які мають бути додані для спрощеного провадження."
+      },
+      {
+        "id": "E14",
+        "source": "P13_p",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Норма ч. 2 ст. 382 КПК України визначає порядок ухвалення вироку у спрощеному провадженні, на що послався суд."
+      },
+      {
+        "id": "E15",
+        "source": "P14",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Мета покарання за ч. 2 ст. 50 КК України враховується судом при визначенні виду і розміру покарання."
+      },
+      {
+        "id": "E16",
+        "source": "P15",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Суд прямо зазначає критерії ст. 65 КК України, які враховуються при призначенні покарання."
+      },
+      {
+        "id": "E17",
+        "source": "C01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Висновок про вчинення кримінального проступку за ч. 1 ст. 309 КК України є підставою для призначення покарання."
+      },
+      {
+        "id": "E18",
+        "source": "C04",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Визнані судом пом`якшуючі обставини враховуються при визначенні виду і розміру покарання."
+      },
+      {
+        "id": "E19",
+        "source": "C09",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Класифікація скоєного як кримінального проступку впливає на обрання покарання в межах санкції."
+      },
+      {
+        "id": "E20",
+        "source": "P17",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Загальні процесуальні приписи, якими керується суд, підкріплюють законність ухвалення вироку та призначення покарання."
+      },
+      {
+        "id": "E21",
+        "source": "P16",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Дані про особу обвинуваченого, його каяття та інші характеристики підтверджують наявність пом`якшуючих обставин."
+      },
+      {
+        "id": "E22",
+        "source": "P18",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Посилання на ч. 2 ст. 124 КПК України є правовою підставою для стягнення процесуальних витрат."
+      },
+      {
+        "id": "E23",
+        "source": "P20",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.76,
+        "justification": "Зазначення застосування ст. 100 КПК України є правовою підставою для вирішення долі речових доказів."
+      },
+      {
+        "id": "E24",
+        "source": "P17",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Загальна формула \"Керуючись ... КПК України\" підкріплює процесуальну законність вирішення питань щодо речових доказів."
+      },
+      {
+        "id": "E25",
+        "source": "P19",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Посилання на ст. 12 КК України є правовою підставою для висновку про те, що правопорушення є кримінальним проступком."
+      },
+      {
+        "id": "E26",
+        "source": "P21",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.68,
+        "justification": "Посилання на ст. 67 КК України наведено у фрагменті, яким суд формулює висновок про відсутність обтяжуючих обставин."
+      },
+      {
+        "id": "E27",
+        "source": "P22",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.68,
+        "justification": "Посилання на ст. 66 КК України наведено у фрагменті, яким суд формулює висновок про пом`якшуючі обставини."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P08",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C02",
+        "components": [
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P11",
+          "P12",
+          "P13_p",
+          "C02"
+        ],
+        "edges": [
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "SENTENCING",
+        "main_claim": "C03",
+        "components": [
+          "P14",
+          "P15",
+          "P16",
+          "P17",
+          "C01",
+          "C04",
+          "C09",
+          "C03"
+        ],
+        "edges": [
+          "E15",
+          "E16",
+          "E17",
+          "E18",
+          "E19",
+          "E20",
+          "E21"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C06",
+        "components": [
+          "P18",
+          "C06"
+        ],
+        "edges": [
+          "E22"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C08",
+        "components": [
+          "P20",
+          "P17",
+          "C08"
+        ],
+        "edges": [
+          "E23",
+          "E24"
+        ]
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C07",
+        "components": [
+          "C07"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "AGGRAVATING_CIRCUMSTANCES",
+        "main_claim": "C05",
+        "components": [
+          "P21",
+          "C05"
+        ],
+        "edges": [
+          "E26"
+        ]
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 23,
+      "number_of_claims": 9,
+      "number_of_support_edges": 27,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 7,
+      "root_claims": [
+        "C02",
+        "C03",
+        "C05",
+        "C06",
+        "C07",
+        "C08"
+      ],
+      "unsupported_claims": [
+        "C07"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 1
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.92; review 3 flagged missing or hallucinated field(s)."
+  }
+}

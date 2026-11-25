@@ -1,0 +1,1096 @@
+{
+  "document_id": "116278949",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_4 02.06.2023 приблизно о 14:30, більш точного часу в ході досудового розслідування не встановлено, знаходився біля продуктового магазину, розташованого за адресою: м. Харків, пр-т. Індустріальний, 59/1, де розпивав спиртні напої з раніше незнайомим ОСОБА_5 .",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі Указу Президента України від 24.02.2022 №64/2022 «Про введення воєнного стану в Україні», затвердженого Законом України «Про затвердження Указу Президента України «Про введення воєнного стану в Україні» від 24.02.2022 №2102-ІХ ( зі змінами) в Україні з 05.30 24.02.2022 введено воєнний стан.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні положення",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Далі, ОСОБА_4 приблизно о 15:00 годині, більш точного часу в ході досудового розслідування не встановлено, діючи в ході раптово виниклого умислу, направленого на таємне викрадення чужого майна, з корисливих мотивів, з метою протиправного збагачення за рахунок інших осіб, передбачаючи суспільно-небезпечні наслідки та бажаючи їх настання, знаходячись біля продуктового магазину за адресою: м. Харків, пр-т. Індустріальний, 59/1, скориставшись тим, що потерпілий ОСОБА_5 заснув на вулиці біля вказаного магазину, впевнившись, що за його злочинними діями ніхто не спостерігає, таємно викрав з руки потерпілого ОСОБА_5 мобільний телефон марки «Redmi Note 10S Onyx Grey 6 Gb RAM 64 GB ROM» у корпусі сірого кольору, вартість якого згідно висновку судово-товарознавчої експертизи складає 4735 гривень.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Після чого, ОСОБА_4 з місця вчинення кримінального правопорушення зник, розпорядившись викраденим майном на власний розсуд, спричинивши потерпілому ОСОБА_5 матеріальну шкоду на вищевказану суму.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Допитаний під час судового розгляду ОСОБА_4 вину за пред`явленим обвинуваченням визнав повністю, показавши про обставини вчинення ним злочину за обставин, викладених в обвинувальному акті.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Окрім визнання вини обвинуваченим, його вина в фактично скоєному підтверджується дослідженими під час судового розгляду належними і допустимими доказами, наданими стороною обвинувачення а саме:",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів судом",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "-висновком судової товарознавчої експертизи № СЕ-19/121-23/13937-ТВ від 05.07.2023 року;",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Докази сторони обвинувачення",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "- постановою про визнання і приєднання до справи речових доказів, а саме - мобільний телефон марки «Redmi Note 10S Onyx Grey 6 Gb RAM 64 GB ROM» у корпусі сірого кольору.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Докази сторони обвинувачення",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно із ст. 65 КК України суд призначає покарання у межах, установлених у санкції статті (санкції частини статті) Особливої частини цього Кодексу, що передбачає відповідальність за вчинений злочин, враховуючи ступінь тяжкості вчиненого злочину, особу винного та обставини, що пом`якшують та обтяжують покарання.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні положення щодо призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У відповідності до п.п. 2,3 Постанови Пленуму Верховного Суду України № 7 від 24.10.2003 «Про практику призначення судами кримінального покарання», при призначенні покарання, суд всебічно враховує фактичні обставини кримінального провадження у їх сукупності, враховуючи їх індивідуальний ступінь, особливості конкретного злочину та обставин його вчинення (форма вини, мотив, мета, спосіб, кількість епізодів злочинної діяльності, характер та ступінь наслідків, цінність тих суспільних відносин на які посягає винний, тяжкість наслідків (характер посягання), спосіб посягання форма й ступінь вини наявність кваліфікуючих ознак.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні положення щодо призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Особі, яка вчинила злочин має бути призначене покарання, необхідне і достатнє для її виправлення та попередження нових злочинів. Виходячи з принципів співмірності та індивідуалізації, це покарання за своїм видом і розміром має бути відповідним характеру вчинених дій, їх небезпечності та даним про особу винного, а також з урахуванням обставин, які пом`якшують та обтяжують покарання.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні положення щодо призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Призначаючи покарання за скоєне, суд керується нормами ч. 2 ст. 50 КК України, згідно яких покарання має на меті не тільки кару, а й виправлення засуджених, а також запобігання вчиненню нових злочинів як засудженими, так і іншими особами.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні положення щодо призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При вирішенні питання про призначення покарання обвинуваченому ОСОБА_4 суд враховує ступінь тяжкості, суспільної небезпечності та наслідки вчиненого ним злочину, який законом віднесений до тяжких злочинів.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вивченням даних про особу обвинуваченого ОСОБА_4 встановлено, що він не має судимості в силу ст.89 КК України, на обліках психіатричному диспансері не перебуває, неодружений, офіційно не працевлаштований.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставиною, що пом`якшує покарання ОСОБА_4 , судом на підставі ст. 67 КК України, визнається щире каяття.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують покарання",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставиною, що обтяжує покарання ОСОБА_4 , судом на підставі ст. 67 КК України, - не встановлено.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що обтяжують покарання",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч. 2 ст. 122 КПК України, залучення стороною обвинувачення експертів спеціалізованих державних установ, здійснюється за рахунок коштів, які цільовим призначенням виділяються цим установам з Державного бюджету України.",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати - нормативні положення",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У відповідності з вимогами ч. 2 ст. 124, п. 2 ч. 4 ст. 374 КПК України, у разі ухвалення обвинувального вироку суд стягує з обвинуваченого на користь держави документально підтверджені витрати на залучення експерта.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати - нормативні положення",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "суд дійшов висновку про доведеність винуватості обвинуваченого ОСОБА_4 у вчиненні дій за пред`явленим йому обвинуваченням.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновок щодо винуватості",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Оцінивши в сукупності, досліджені судом докази, дії ОСОБА_4   суд кваліфікує за ч. 4 ст. 185 КК України – таємне викрадення чужого майна (крадіжка) вчинена в умовах воєнного стану.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "йому слід призначити покарання, у виді позбавлення волі в межах покарання передбаченого санкцією ч.4 ст.185 КК України,",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "без реального відбування призначеного покарання, однак, в умовах здійснення обов`язкового контролю за подальшою його поведінкою, при звільненні обвинуваченого від відбування покарання з випробуванням та з покладенням на нього додаткових обов`язків, передбачених законом при застосуванні ст. 75 КК України.",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Звільнення від відбування покарання з випробуванням",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Отже, судові витрати по проведенню судової – товарознавчої експертизи підлягають стягненню з обвинуваченого.",
+          "paragraph_id": 39,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Запобіжний захід в цьому кримінальному провадженні стосовно обвинуваченого не обирався.",
+          "paragraph_id": 40,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання щодо речових доказів, судом вирішується у відповідності з положеннями ст. 100 КПК України.",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання щодо речових доказів, судом вирішується у відповідності з положеннями ст. 100 КПК України.",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі Указу Президента України від 24.02.2022 №64/2022 «Про введення воєнного стану в Україні», затвердженого Законом України «Про затвердження Указу Президента України «Про введення воєнного стану в Україні» від 24.02.2022 №2102-ІХ ( зі змінами) в Україні з 05.30 24.02.2022 введено воєнний стан.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P22a",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вину за пред`явленим обвинуваченням визнав повністю",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P22b",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В скоєному щиро розкаюється",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Окрім визнання вини обвинуваченим, його вина в фактично скоєному підтверджується дослідженими під час судового розгляду належними і допустимими доказами, наданими стороною обвинувачення а саме:",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені докази",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "-висновком судової товарознавчої експертизи № СЕ-19/121-23/13937-ТВ від 05.07.2023 року;",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені докази",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "- постановою про визнання і приєднання до справи речових доказів, а саме - мобільний телефон марки «Redmi Note 10S Onyx Grey 6 Gb RAM 64 GB ROM» у корпусі сірого кольору.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені докази",
+        "support_status": null
+      },
+      {
+        "id": "C26",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "суд дійшов висновку про доведеність винуватості обвинуваченого ОСОБА_4 у вчиненні дій за пред`явленим йому обвинуваченням.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів і висновки суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C27",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Оцінивши в сукупності, досліджені судом докази, дії ОСОБА_4   суд кваліфікує за ч. 4 ст. 185 КК України – таємне викрадення чужого майна (крадіжка) вчинена в умовах воєнного стану.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Кваліфікація діяння",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P28a",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "не має судимості в силу ст.89 КК України",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P28b",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "на обліках психіатричному диспансері не перебуває",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P28c",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "неодружений",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P28d",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "офіційно не працевлаштований",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "C29",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставиною, що пом`якшує покарання ОСОБА_4 , судом на підставі ст. 67 КК України, визнається щире каяття.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що впливають на покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C30",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставиною, що обтяжує покарання ОСОБА_4 , судом на підставі ст. 67 КК України, - не встановлено.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що впливають на покарання",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P31",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно із ст. 65 КК України суд призначає покарання у межах, установлених у санкції статті (санкції частини статті) Особливої частини цього Кодексу, що передбачає відповідальність за вчинений злочин, враховуючи ступінь тяжкості вчиненого злочину, особу винного та обставини, що пом`якшують та обтяжують покарання.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P32",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У відповідності до п.п. 2,3 Постанови Пленуму Верховного Суду України № 7 від 24.10.2003 «Про практику призначення судами кримінального покарання», при призначенні покарання, суд всебічно враховує фактичні обставини кримінального провадження у їх сукупності, враховуючи їх індивідуальний ступінь, особливості конкретного злочину та обставин його вчинення (форма вини, мотив, мета, спосіб, кількість епізодів злочинної діяльності, характер та ступінь наслідків, цінність тих суспільних відносин на які посягає винний, тяжкість наслідків (характер посягання), спосіб посягання форма й ступінь вини наявність кваліфікуючих ознак.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P33",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Особі, яка вчинила злочин має бути призначене покарання, необхідне і достатнє для її виправлення та попередження нових злочинів. Виходячи з принципів співмірності та індивідуалізації, це покарання за своїм видом і розміром має бути відповідним характеру вчинених дій, їх небезпечності та даним про особу винного, а також з урахуванням обставин, які пом`якшують та обтяжують покарання.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P34",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Призначаючи покарання за скоєне, суд керується нормами ч. 2 ст. 50 КК України, згідно яких покарання має на меті не тільки кару, а й виправлення засуджених, а також запобігання вчиненню нових злочинів як засудженими, так і іншими особами.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P35",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При вирішенні питання про призначення покарання обвинуваченому ОСОБА_4 суд враховує ступінь тяжкості, суспільної небезпечності та наслідки вчиненого ним злочину, який законом віднесений до тяжких злочинів.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C36",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "За таких обставин, з метою виправлення обвинуваченого ОСОБА_4 , попередження з його боку вчинення нових злочинів і досягнення інших цілей покарання, йому слід призначити покарання, у виді позбавлення волі в межах покарання передбаченого санкцією ч.4 ст.185 КК України, без реального відбування призначеного покарання, однак, в умовах здійснення обов`язкового контролю за подальшою його поведінкою, при звільненні обвинуваченого від відбування покарання з випробуванням та з покладенням на нього додаткових обов`язків, передбачених законом при застосуванні ст. 75 КК України.  Обмежень для призначення даного виду покарання - судом не встановлено.",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P37",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч. 2 ст. 122 КПК України, залучення стороною обвинувачення експертів спеціалізованих державних установ, здійснюється за рахунок коштів, які цільовим призначенням виділяються цим установам з Державного бюджету України.",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "P38",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У відповідності з вимогами ч. 2 ст. 124, п. 2 ч. 4 ст. 374 КПК України, у разі ухвалення обвинувального вироку суд стягує з обвинуваченого на користь держави документально підтверджені витрати на залучення експерта.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "C39",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Отже, судові витрати по проведенню судової – товарознавчої експертизи підлягають стягненню з обвинуваченого.",
+          "paragraph_id": 39,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C40",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Запобіжний захід в цьому кримінальному провадженні стосовно обвинуваченого не обирався.",
+          "paragraph_id": 40,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Зізнання обвинуваченого прямо підтверджує висновок суду про доведеність його вини."
+      },
+      {
+        "id": "E02",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Суд зазначає, що окрім зізнання вина підтверджується іншими доказами; це слугує загальною підставою для висновку про доведеність вини."
+      },
+      {
+        "id": "E03",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Висновок товарознавчої експертизи підтверджує вартість та ідентифікацію предмета посягання, що враховується судом при доведеності вини."
+      },
+      {
+        "id": "E04",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Постанова про визнання речових доказів підтверджує наявність і належність телефону як речового доказу у справі, що підкріплює висновок про доведеність вини."
+      },
+      {
+        "id": "E05",
+        "source": "P03",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Опис часу, місця, способу таємного викрадення, стану потерпілого і предмета посягання з вартістю відображає ознаки складу крадіжки, кваліфікованої за ч. 4 ст. 185 КК України."
+      },
+      {
+        "id": "E06",
+        "source": "P02",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Наявність воєнного стану є кваліфікуючою ознакою складу злочину за ч. 4 ст. 185 КК України, що прямо враховується при кваліфікації."
+      },
+      {
+        "id": "E07",
+        "source": "P04",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Зникнення з місця події та розпорядження викраденим підтверджують завершеність викрадення, що узгоджується з правовою кваліфікацією."
+      },
+      {
+        "id": "E08",
+        "source": "P01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Початкові обставини щодо місця і часу та контакт із потерпілим формують контекст події, який враховується судом при кваліфікації."
+      },
+      {
+        "id": "E09",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Висновок про доведеність вини логічно підтримує подальшу правову кваліфікацію дій обвинуваченого."
+      },
+      {
+        "id": "E10",
+        "source": "C02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Визначена кваліфікація за ч. 4 ст. 185 КК України встановлює санкцію, в межах якої суд призначає покарання."
+      },
+      {
+        "id": "E11",
+        "source": "P09",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Ст. 65 КК України встановлює загальні засади призначення покарання, які застосовані судом у цьому випадку."
+      },
+      {
+        "id": "E12",
+        "source": "P13",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Суд зазначив, що злочин віднесений до тяжких, що впливає на вибір виду покарання."
+      },
+      {
+        "id": "E13",
+        "source": "P10",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Роз'яснення Пленуму ВСУ щодо врахування обставин слугують орієнтиром для визначення покарання."
+      },
+      {
+        "id": "E14",
+        "source": "P11",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Принцип необхідності і достатності покарання спрямовує вибір його виду та строку."
+      },
+      {
+        "id": "E15",
+        "source": "P12",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Мета покарання за ч. 2 ст. 50 КК України враховується при призначенні покарання."
+      },
+      {
+        "id": "E16",
+        "source": "P14",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Дані про особу (відсутність судимості, облік, сімейний і трудовий стан) враховані судом при індивідуалізації покарання."
+      },
+      {
+        "id": "E17",
+        "source": "P15",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Щире каяття визначено судом як пом'якшуюча обставина, що впливає на суворість покарання."
+      },
+      {
+        "id": "E18",
+        "source": "P16",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Відсутність обтяжуючих обставин дозволяє обрати менш суворе покарання в межах санкції."
+      },
+      {
+        "id": "E19",
+        "source": "C03",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Призначення основного покарання є передумовою для подальшого звільнення від його відбування з випробуванням."
+      },
+      {
+        "id": "E20",
+        "source": "P15",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Щире каяття обґрунтовує можливість застосування випробування."
+      },
+      {
+        "id": "E21",
+        "source": "P16",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Відсутність обтяжуючих обставин сприяє застосуванню звільнення від відбування покарання з випробуванням."
+      },
+      {
+        "id": "E22",
+        "source": "P14",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Дані про особу (відсутність судимості тощо) враховуються при вирішенні питання про випробування."
+      },
+      {
+        "id": "E23",
+        "source": "P09",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Загальні засади призначення покарання (ст. 65 КК) охоплюють і можливість застосування випробування."
+      },
+      {
+        "id": "E24",
+        "source": "P10",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.76,
+        "justification": "Рекомендації Пленуму ВСУ враховуються при індивідуалізації покарання та можливості випробування."
+      },
+      {
+        "id": "E25",
+        "source": "P11",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Принцип необхідності та достатності покарання допускає випробування, якщо цілі покарання можуть бути досягнуті без реального відбування."
+      },
+      {
+        "id": "E26",
+        "source": "P12",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Мета покарання (виправлення і запобігання) може досягатися в умовах контролю під час випробування."
+      },
+      {
+        "id": "E27",
+        "source": "P18",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Норми КПК прямо передбачають стягнення витрат на експерта у разі ухвалення обвинувального вироку."
+      },
+      {
+        "id": "E28",
+        "source": "P17",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Положення про фінансування експертних установ із бюджету описують природу витрат і слугують довідковою підставою при їх стягненні."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C01",
+        "components": [
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C02",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "C01",
+          "C02"
+        ],
+        "edges": [
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "SENTENCING",
+        "main_claim": "C03",
+        "components": [
+          "C02",
+          "P09",
+          "P10",
+          "P11",
+          "P12",
+          "P13",
+          "P14",
+          "P15",
+          "P16",
+          "C03"
+        ],
+        "edges": [
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PROBATION",
+        "main_claim": "C04",
+        "components": [
+          "C03",
+          "P09",
+          "P10",
+          "P11",
+          "P12",
+          "P14",
+          "P15",
+          "P16",
+          "C04"
+        ],
+        "edges": [
+          "E19",
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C05",
+        "components": [
+          "P17",
+          "P18",
+          "C05"
+        ],
+        "edges": [
+          "E27",
+          "E28"
+        ]
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C06",
+        "components": [
+          "C06"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C07",
+        "components": [
+          "C07"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A08",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C08",
+        "components": [
+          "C08"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "C29"
+        ],
+        "text": "ст. 67 КК України",
+        "conflicts_with": "Пом`якшуючі обставини передбачені ст. 66 КК України; у наступному абзаці ця ж ст. 67 використана щодо обтяжуючих обставин.",
+        "description": "У фрагменті про пом`якшуючу обставину (щире каяття) суд посилається на ст. 67 КК України, що не відповідає систематиці КК.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 35,
+      "number_of_claims": 15,
+      "number_of_support_edges": 28,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 8,
+      "root_claims": [
+        "C04",
+        "C05",
+        "C06",
+        "C07",
+        "C08",
+        "C26",
+        "C27",
+        "C29",
+        "C30",
+        "C36",
+        "C39",
+        "C40"
+      ],
+      "unsupported_claims": [
+        "C08",
+        "C30",
+        "C40"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 27
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.94; review 3 flagged missing or hallucinated field(s)."
+  }
+}

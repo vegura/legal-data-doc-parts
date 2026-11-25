@@ -1,0 +1,825 @@
+{
+  "document_id": "116221948",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "23 червня 2023 року в період часу з 14:00 год. до 19:00 год., більш точний досудовим розслідуванням не встановлено",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "у період дії воєнного стану, що введений в дію Указом Президента України № 64/2022 від 24 лютого 2022 року та в подальшому неодноразово продовжений згідно Указів Президента України №133/2022 від 14 березня 2022 року, № 259/2022 від 18 квітня 2022 року, №341/2022 від 17 травня 2022 року, № 573/2022 від 12 серпня 2022 року, № 757/2022від 07.11.2022,№ 58/2023від 06.02.2023",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "перебував в квартирі АДРЕСА_2 за адресою свого мешкання",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "залишила належний їй мобільний телефон ТМ « Xiaomi» модель « Redmi 9А 2/32GB» в приміщенні кухні",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "скориставшись тим, що ОСОБА_4 спить та його злочинними діями ніхто не спостерігає",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "таємно викрав належний ОСОБА_4 мобільний телефон ТМ « Xiaomi» модель « Redmi 9А 2/32GB» , вартістю 2100,00 грн.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "він здав телефон ОСОБА_8 до ломбарду",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обвинувачений ОСОБА_5 в повному обсязі визнав свою вину у вчиненні інкримінованого йому органом досудового розслідування кримінального правопорушення-злочину",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів судом",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Показання обвинуваченого ОСОБА_5 є послідовними, логічними та відповідають фактичним обставинам справи",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів судом",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "не викликають у суду сумніву щодо правильності розуміння обвинуваченим змісту обставин кримінального правопорушення, добровільності та істинності його позиції",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів судом",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Потерпіла ОСОБА_4 не заперечувала проти розгляду справи у порядку ч. 3 ст. 349 КПК України",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція потерпілої",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обвинувачений частково відшкодував спричинену їй шкоду",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція потерпілої",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "та просила не позбавляти його волі",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція потерпілої",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При цьому судом з`ясовано, що обвинувачений та інші учасники правильно розуміють зміст цих обставин, сумніву у добровільності та істинності їх позицій немає.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення суду",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "щире каяття у вчиненому кримінальному правопорушенні-злочину",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують покарання",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "активне сприяння розкриттю злочину",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують покарання",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "часткове відшкодування шкоди",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують покарання",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_5 раніше не судимий, не працює, за місцем мешкання характеризується задовільно, на обліку у лікарів психіатра та нарколога не перебуває.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "скоєний ОСОБА_5 злочин відноситься до тяжких, однак тяжких наслідків в результаті його вчинення не настало",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Щиро кається у скоєному, частково відшкодував спричинену потерпілій шкоду.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "На підставі ч. 3 ст. 349 КПК України, за згодою учасників процесу, судом визнано недоцільним дослідження доказів, стосовно тих фактичних обставин провадження, які ніким з учасників процесу не оспорюються.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "За таких обставин, суд вважає, що винуватість ОСОБА_5 у вчиненні вищезазначеного кримінального правопорушення-злочину в судовому засіданні доведена повністю.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки суду щодо вини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Суд приходить до висновку,що своїми умисними діями,які виразились в таємному викраденні чужого майна (крадіжці),вчиненій в умовах воєнного стану,  ОСОБА_5 вчинив кримінальне правопорушення-злочин, передбачений ч. 4 ст. 185 КК України.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставинами, що пом`якшують покарання обвинуваченого, згідно зі ст. 66 КК України, суд визнає його щире каяття у вчиненому кримінальному правопорушенні-злочину та активне сприяння розкриттю злочину, часткове відшкодування шкоди.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставин, що обтяжують покарання обвинуваченого, відповідно до ст. 67 КК України, судом не встановлено.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що обтяжують покарання",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд приходить до висновку, про можливість призначення йому покарання із звільненням від його відбування відповідно до ст. 75 КК України.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов у кримінальному провадженні не заявлявся.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Судові витрати, пов`язані з проведенням судово-товарознавчої експертизи № СЕ19/121-23/15140-ТВ від 21.07.2023 в розмірі 717,00 гривень, належить стягнути з ОСОБА_5 на користь держави.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Речові докази у справі відсутні.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Керуючись ст.ст.370,374КПК України, суд",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативне обґрунтування",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P11",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Відсутність заперечень потерпілої проти спрощеного порядку розгляду є підставою для прийняття судом рішення за ч. 3 ст. 349 КПК України."
+      },
+      {
+        "id": "E02",
+        "source": "P14",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Суд перевірив добровільність і правильність розуміння учасниками, що обґрунтовує відмову від дослідження неоспорюваних доказів."
+      },
+      {
+        "id": "E03",
+        "source": "P10",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Констатація судом добровільності та істинності позиції обвинуваченого підтверджує законність застосування процедури за ст. 349 КПК."
+      },
+      {
+        "id": "E04",
+        "source": "P02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Фіксація дії воєнного стану є юридично значимою ознакою складу за ч. 4 ст. 185 КК України."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Зазначення, що потерпіла спала і дії ніким не спостерігалися, підтверджує таємний характер викрадення."
+      },
+      {
+        "id": "E06",
+        "source": "P06",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Опис факту таємного викрадення конкретного майна безпосередньо відповідає об'єктивній стороні складу крадіжки."
+      },
+      {
+        "id": "E07",
+        "source": "C03",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Належна правова кваліфікація встановлених дій слугує підставою для висновку про доведеність вини."
+      },
+      {
+        "id": "E08",
+        "source": "P01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Точний час події є частиною встановлених обставин, що підтверджують факт вчинення злочину."
+      },
+      {
+        "id": "E09",
+        "source": "P03",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Місце події конкретизує фактичні обставини вчинення злочину, що враховано судом."
+      },
+      {
+        "id": "E10",
+        "source": "P04",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Залишення потерпілою телефону в кухні пояснює можливість таємного заволодіння ним обвинуваченим."
+      },
+      {
+        "id": "E11",
+        "source": "P06",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Опис безпосереднього викрадення телефону підтверджує факт вчинення крадіжки обвинуваченим."
+      },
+      {
+        "id": "E12",
+        "source": "P07",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Здавання в ломбарду викраденого телефону свідчить про подальше розпорядження викраденим майном та підтверджує умисел на заволодіння."
+      },
+      {
+        "id": "E13",
+        "source": "P08",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Повне визнання вини обвинуваченим враховане судом при висновку про доведеність вини."
+      },
+      {
+        "id": "E14",
+        "source": "P09",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Судова оцінка показань як послідовних і логічних підсилює висновок про доведеність вини."
+      },
+      {
+        "id": "E15",
+        "source": "P15",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Щире каяття прямо названо судом як пом'якшувальна обставина."
+      },
+      {
+        "id": "E16",
+        "source": "P16",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Активне сприяння розкриттю злочину прямо визнано судом як пом'якшувальну обставину."
+      },
+      {
+        "id": "E17",
+        "source": "P17",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Часткове відшкодування шкоди прямо зазначено судом серед пом'якшувальних обставин."
+      },
+      {
+        "id": "E18",
+        "source": "P12",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Потерпіла підтвердила часткове відшкодування шкоди, що кореспондує висновку суду про пом'якшувальні обставини."
+      },
+      {
+        "id": "E19",
+        "source": "P20",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Заява обвинуваченого про каяття узгоджується з визнаною судом пом'якшувальною обставиною каяття."
+      },
+      {
+        "id": "E20",
+        "source": "C04",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Наявність кількох пом'якшувальних обставин обґрунтовує висновок про можливість звільнення від відбування покарання за ст. 75 КК."
+      },
+      {
+        "id": "E21",
+        "source": "P18",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Позитивні дані про особу зменшують ступінь небезпеки та сприяють призначенню покарання з випробуванням."
+      },
+      {
+        "id": "E22",
+        "source": "P19",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Відсутність тяжких наслідків при тому, що злочин є тяжким, враховано судом при пом'якшенні покарання."
+      },
+      {
+        "id": "E23",
+        "source": "P13",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Позиція потерпілої з проханням не позбавляти волі враховується судом як аргумент на користь м'якшого покарання."
+      },
+      {
+        "id": "E24",
+        "source": "P08",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Повне визнання вини є обставиною, що свідчить про можливість виправлення без ізоляції від суспільства."
+      },
+      {
+        "id": "E25",
+        "source": "P09",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Позитивна оцінка показань характеризує ставлення обвинуваченого до вчиненого, що враховується при обранні покарання."
+      },
+      {
+        "id": "E26",
+        "source": "C05",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Відсутність обтяжуючих обставин схиляє суд до м'якшого виду покарання із застосуванням ст. 75 КК."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C01",
+        "components": [
+          "P11",
+          "P14",
+          "P10",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "GUILT",
+        "main_claim": "C02",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "C03",
+          "C02"
+        ],
+        "edges": [
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "MITIGATING_CIRCUMSTANCES",
+        "main_claim": "C04",
+        "components": [
+          "P15",
+          "P16",
+          "P17",
+          "P12",
+          "P20",
+          "C04"
+        ],
+        "edges": [
+          "E15",
+          "E16",
+          "E17",
+          "E18",
+          "E19"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PROBATION",
+        "main_claim": "C06",
+        "components": [
+          "C04",
+          "P18",
+          "P19",
+          "P13",
+          "P08",
+          "P09",
+          "C05",
+          "C06"
+        ],
+        "edges": [
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C08",
+        "components": [
+          "C08"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C07",
+        "components": [
+          "C07"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C09",
+        "components": [
+          "C09"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A08",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C10",
+        "components": [
+          "C10"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A09",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C10",
+        "components": [
+          "C10"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [],
+        "text": "сусідка ОСОБА_6",
+        "conflicts_with": "ОСОБА_4",
+        "description": "У п.17 потерпіла позначена як ОСОБА_6, тоді як в інших частинах рішення йдеться про потерпілу ОСОБА_4.",
+        "likely_error": true
+      },
+      {
+        "id": "I02",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [],
+        "text": "ОСОБА_7 дома не було",
+        "conflicts_with": "ОСОБА_4",
+        "description": "У п.17 згадується ОСОБА_7 замість ОСОБА_4, що створює неузгодженість в ідентифікації потерпілої.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 20,
+      "number_of_claims": 10,
+      "number_of_support_edges": 26,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 9,
+      "root_claims": [
+        "C01",
+        "C02",
+        "C06",
+        "C07",
+        "C08",
+        "C09",
+        "C10"
+      ],
+      "unsupported_claims": [
+        "C05",
+        "C07",
+        "C08",
+        "C09",
+        "C10"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 1
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.87; review 14 flagged missing or hallucinated field(s)."
+  }
+}

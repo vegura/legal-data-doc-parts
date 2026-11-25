@@ -1,0 +1,952 @@
+{
+  "document_id": "116350825",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "03.12.2023 року, приблизно о 17 годині 00 хвилин,ОСОБА_3 , ІНФОРМАЦІЯ_2 , більш точного часу судом не встановлено,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "знаходячись на міжповерховому майданчику між другим та другим з половиною поверхами в гуртожитку за адресою:  АДРЕСА_3 ,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "уході сварки з сусідкою по гуртожитку – ОСОБА_4 на ґрунті виниклих побутових особистих неприязних відносин,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "маючи злочинний умисел, спрямований на спричинення тілесних ушкоджень останній,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "стоячи навпроти потерпілої,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "діючи з прямим умислом, тобто усвідомлюючи суспільно небезпечний характер своїх дій, передбачаючи їх суспільно небезпечні наслідки і бажаючи їх настання,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "наніс ОСОБА_4  один удар кулаком лівої руки по її правій руці, якою вона прикривала голову від удару.",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "ОСОБА_3  схопив лівою рукою потерпілу за пальці правої руки та вивернув їх,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно висновку судово - медичного експерта від 21.12.2023 року",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "тілесні ушкодження у вигляді синця на правій руці, який за ступенем тяжкості відноситься до легких тілесних ушкоджень.",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Дії обвинуваченого    ОСОБА_3 кваліфіковані за ч.1 ст.125 КК України, як умисне легке тілесне ушкодження.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Кваліфікація (попередня/обвинувальна)",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Прокурор звернувся до суду з клопотанням про розгляд кримінального проступку у порядку спрощеного провадження без проведення судового розгляду в судовому засіданні та без його участі.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні клопотання та заяви",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "складену у присутності захисника ОСОБА_5 ,",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні клопотання та заяви",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "він беззаперечно визнає свою винуватість у вчиненні інкримінованого йому кримінального проступку, передбаченого ч.1 ст. 125 КК України,",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні клопотання та заяви",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "згоден із встановленими досудовим розслідуванням обставинами, на розгляд обвинувального акту у спрощеному провадженні без проведення судового розгляду в судовому засіданні",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні клопотання та заяви",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ознайомлений з обмеженням права на апеляційне оскарження.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні клопотання та заяви",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Потерпіла ОСОБА_4 також подала заяву про згоду із встановленими досудовим розслідуванням обставинами, ознайомлена з обмеженням права на апеляційне оскарження та надала згоду на розгляд обвинувального акту у спрощеному провадженні.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні клопотання та заяви",
+        "support_status": null
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Враховуючи викладене, суд вважає за можливе розглянути обвинувальний акт про вчинення кримінального проступку без проведення судового розгляду в судовому засіданні за відсутності учасників судового провадження, що узгоджується з приписами частини 2 статті 381 КПК України.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Фіксування судового процесу за допомогою звукозаписувального технічного засобу відповідно до ч. 4 ст. 107 КПК України не здійснюється.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні питання",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч.2 ст. 382 КПК України вирок суду за результатами спрощеного провадження ухвалюється в порядку, визначеному цим Кодексом, та повинен відповідати загальним вимогам до вироку суду.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У вироку суду за результатами спрощеного провадження замість доказів на підтвердження встановлених судом обставин зазначаються встановлені органом досудового розслідування обставини, які не оспорюються учасниками судового провадження.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Дії обвинуваченого  ОСОБА_3 суд кваліфікує за ч. 1 ст. 125 КК України, як умисне легке тілесне ушкодження.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Суд вважає, що встановлені органом досудового розслідування обставини, які не оспорюються учасниками судового провадження, та докази на підтвердження встановлених судом обставин, долучені до обвинувального акту, доводять вину  ОСОБА_3 у вчиненні кримінального проступку, передбаченого ч.1 ст. 125 КК України.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновок про вину",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вивченням особи обвинуваченого встановлено, що він раніше не судимий, не працює, є особою з інвалідністю ІІІ групи (загальне захворювання, протипоказана важка фізична праця), має на утриманні неповнолітню дитину – ОСОБА_6 , ІНФОРМАЦІЯ_3 , за місцем проживання зарекомендував себе з позитивної сторони, іноді вживає спиртні напої, наркотичні речовини не вживає, скарг відносно обвинуваченого до ВП №2 ХРУП №2 ГУНП в Харківській області не надходило, знаходиться на обліку у лікаря-нарколога з січня 2020 року з діагнозом: синдром залежності від алкоголю.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "C23",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставиною, яка пом`якшує покарання  ОСОБА_3 , відповідно до ст. 66 КК України, суд визнає щире каяття у вчиненому.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пом'якшуючі обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C24",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставиною, яка обтяжує покарання ОСОБА_3 , відповідно до ст. 67 КК України, суд визнає вчинення кримінального правопорушення щодо особи похилого віку.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обтяжуючі обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст. 65 КК України, пункту 1 Постанови Пленуму Верховного Суду України № 7 від 24.10.2003 року „Про практику призначення судами кримінального покарання” з послідуючими її змінами, суд призначаючи покарання, у кожному конкретному випадку має дотримуватись вимог кримінального закону й зобов`язаний враховувати ступінь тяжкості вчиненого злочину, дані про особу винного та обставини, що пом`якшують та обтяжують покарання.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Призначене покарання має бути необхідним і достатнім для виправлення засудженого і попередження нових злочинів.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Судом, враховуються вимоги ч. 2 ст. 61 Конституції України про те, що юридична відповідальність особи має індивідуальний характер.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Вирішуючи питання про призначення обвинуваченому покарання у відповідності до вимог ст. 65 КК України, суд враховує ступінь тяжкості вчиненого кримінального правопорушення, яке віднесено законом до проступків, особу обвинуваченого, обставини, визнані судом такими, що пом`якшують та обтяжують покарання.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Суд вважає необхідним та достатнім для виправлення ОСОБА_3 та запобігання вчиненню ним нових кримінальних правопорушень призначити обвинуваченому покарання у виді штрафу у межах, встановлених санкцією статті Особливої частини Кримінального кодексу України, за якою він обвинувачується і яка передбачає відповідальність за вчинене правопорушення.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Саме призначення покарання у вигляді штрафу на думку суду буде необхідним і достатнім для виправлення обвинуваченого та попередження вчинення ним нових кримінальних правопорушень.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Разом з тим, на думку суду, призначена міра покарання надасть можливість обвинуваченому сформувати у своїй свідомості уявлення про неминучість настання відповідальності за можливі вчиненні нею протиправні діяння у майбутньому, що буде в свою чергу достатньою превентивною мірою.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C11",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Міра запобіжного заходу відносно  ОСОБА_3 не обиралась.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C12",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов потерпілою не заявлявся.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. ст. 100, 107, 124, 373, 374, 382 КПК України, суд, -",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Керуючись",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вирішуючи питання про призначення обвинуваченому покарання у відповідності до вимог ст. 65 КК України, суд враховує ступінь тяжкості вчиненого кримінального правопорушення, яке віднесено законом до проступків, особу обвинуваченого, обставини, визнані судом такими, що пом`якшують та обтяжують покарання.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. ст. 100, 107, 124, 373, 374, 382 КПК України, суд, -",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Керуючись",
+        "support_status": null
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до ч. 4 ст. 107 КПК України",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні питання / Правові підстави",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Опис просторового розташування («стоячи навпроти потерпілої») конкретизує обставини нанесення удару."
+      },
+      {
+        "id": "E02",
+        "source": "P01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.61,
+        "justification": "Фіксація дати та приблизного часу події надає контекст для встановлення факту дій обвинуваченого."
+      },
+      {
+        "id": "E03",
+        "source": "P02",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.64,
+        "justification": "Точне місце події підтверджує обставини вчинення дій щодо потерпілої."
+      },
+      {
+        "id": "E04",
+        "source": "P07",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Посилання на висновок судово-медичного експерта є джерелом встановлення характеру та ступеня тілесних ушкоджень."
+      },
+      {
+        "id": "E05",
+        "source": "C03",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Встановлення легких тілесних ушкоджень узгоджується з юридичною кваліфікацією за ч. 1 ст. 125 КК України."
+      },
+      {
+        "id": "E06",
+        "source": "C01",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Факт нанесення удару є складовою об’єктивної сторони правопорушення, що підкріплює кваліфікацію."
+      },
+      {
+        "id": "E07",
+        "source": "C02",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.77,
+        "justification": "Дії зі схоплювання та вивертання пальців конкретизують застосування фізичної сили."
+      },
+      {
+        "id": "E08",
+        "source": "P04",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Наявність злочинного умислу безпосередньо стосується суб’єктивної сторони складу правопорушення."
+      },
+      {
+        "id": "E09",
+        "source": "P06",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Ознака прямого умислу обґрунтовує умисний характер діяння."
+      },
+      {
+        "id": "E10",
+        "source": "P08",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.69,
+        "justification": "Попередня кваліфікація кореспондує з висновком суду про ту саму правову кваліфікацію."
+      },
+      {
+        "id": "E11",
+        "source": "C05",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Юридична кваліфікація за ч. 1 ст. 125 КК України є складовою висновку про доведеність вини."
+      },
+      {
+        "id": "E12",
+        "source": "P11",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Беззаперечне визнання вини обвинуваченим є прямою підставою для висновку про доведеність вини."
+      },
+      {
+        "id": "E13",
+        "source": "P10",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Подання заяви у присутності захисника підтверджує дотримання процесуальних гарантій і надійність визнання вини."
+      },
+      {
+        "id": "E14",
+        "source": "P17",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Норма ч. 2 ст. 382 КПК України дозволяє покладатись на неоспорювані обставини, встановлені органом досудового розслідування, для обґрунтування висновку про вину."
+      },
+      {
+        "id": "E15",
+        "source": "P14",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Згода потерпілої з установленими досудовим розслідуванням обставинами свідчить про відсутність спору щодо ключових фактів."
+      },
+      {
+        "id": "E16",
+        "source": "P01",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.66,
+        "justification": "Визначення часу події конкретизує її обставини, що враховується судом при встановленні вини."
+      },
+      {
+        "id": "E17",
+        "source": "P02",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.67,
+        "justification": "Локалізація події (міжповерховий майданчик за конкретною адресою) допомагає підтвердити факт правопорушення."
+      },
+      {
+        "id": "E18",
+        "source": "P03",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Мотив побутової неприязні пояснює причини конфлікту та узгоджується з умисним характером дій."
+      },
+      {
+        "id": "E19",
+        "source": "P09",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Клопотання прокурора є підставою для розгляду у спрощеному провадженні."
+      },
+      {
+        "id": "E20",
+        "source": "P12",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Згода обвинуваченого на спрощений розгляд є необхідною умовою для такого провадження."
+      },
+      {
+        "id": "E21",
+        "source": "P13",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Обізнаність обвинуваченого про обмеження апеляційного оскарження підтверджує добровільність його згоди на спрощений порядок."
+      },
+      {
+        "id": "E22",
+        "source": "P16",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.74,
+        "justification": "Норма ч. 2 ст. 382 КПК України визначає загальні вимоги до вироку у спрощеному провадженні, що кореспондує рішенню про розгляд без засідання."
+      },
+      {
+        "id": "E23",
+        "source": "P18",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.77,
+        "justification": "Дані про особу обвинуваченого враховуються судом при індивідуалізації покарання."
+      },
+      {
+        "id": "E24",
+        "source": "C23",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Визнане судом щире каяття пом’якшує покарання і враховується при його призначенні."
+      },
+      {
+        "id": "E25",
+        "source": "C24",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Вчинення щодо особи похилого віку є обставиною, що обтяжує покарання, і впливає на його вид та розмір."
+      },
+      {
+        "id": "E26",
+        "source": "P19",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Загальні засади призначення покарання (ст. 65 КК та Постанова Пленуму) прямо вимагають враховувати тяжкість, особу винного та обставини."
+      },
+      {
+        "id": "E27",
+        "source": "P21",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Конституційний принцип індивідуалізації відповідальності підкріплює підхід суду до призначення покарання."
+      },
+      {
+        "id": "E28",
+        "source": "P20",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Вимога про необхідність і достатність покарання узгоджується з висновком про доцільність штрафу."
+      },
+      {
+        "id": "E29",
+        "source": "C07",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Ураховані судом обставини та дані про особу обвинуваченого підводять до вибору виду покарання."
+      },
+      {
+        "id": "E30",
+        "source": "C09",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Висновок про необхідність і достатність штрафу прямо обґрунтовує рішення про його призначення."
+      },
+      {
+        "id": "E31",
+        "source": "C10",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Додатковий превентивний мотив («уявлення про неминучість відповідальності») підсилює вибір штрафу як покарання."
+      },
+      {
+        "id": "E32",
+        "source": "P22",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Посилання на норми КПК у резолютивній частині відображає правові підстави ухвалення вироку, у тому числі щодо призначення покарання."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C06",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P10",
+          "P11",
+          "P14",
+          "P17",
+          "C01",
+          "C02",
+          "C03",
+          "C05",
+          "C06"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C04",
+        "components": [
+          "P09",
+          "P12",
+          "P13",
+          "P16",
+          "C04"
+        ],
+        "edges": [
+          "E19",
+          "E20",
+          "E21",
+          "E22"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "SENTENCING",
+        "main_claim": "C08",
+        "components": [
+          "P18",
+          "P19",
+          "P20",
+          "P21",
+          "C23",
+          "C24",
+          "C07",
+          "C09",
+          "C10",
+          "C08",
+          "P22"
+        ],
+        "edges": [
+          "E23",
+          "E24",
+          "E25",
+          "E26",
+          "E27",
+          "E28",
+          "E29",
+          "E30",
+          "E31",
+          "E32"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C11",
+        "components": [
+          "C11"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C12",
+        "components": [
+          "C12"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C09",
+        "components": [
+          "C09"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 25,
+      "number_of_claims": 14,
+      "number_of_support_edges": 32,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 6,
+      "root_claims": [
+        "C04",
+        "C06",
+        "C08",
+        "C11",
+        "C12"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 4
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.91; review 4 flagged missing or hallucinated field(s)."
+  }
+}

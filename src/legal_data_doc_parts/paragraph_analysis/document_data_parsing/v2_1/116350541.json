@@ -1,0 +1,697 @@
+{
+  "document_id": "116350541",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно з обвинувальним актом у кримінальному провадженні № 12023087300000209 від 18.12.2023 за обвинуваченням ОСОБА_2 у вчиненні кримінального правопорушення (проступку), передбаченого ч. 1 ст. 309 КК України, встановлено таке.",
+          "paragraph_id": 10,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Вступні відомості кримінального провадження",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_2 на момент вчинення проступку проходив військову службу у військовій частині НОМЕР_1 на посаді водія 2 механізованої роти 1 механізованого батальйону.",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Відомості про особу",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст. 1 Закону України «Про наркотичні засоби, психотропні речовини та прекурсори» (надалі – Закон), аналоги наркотичних засобів і психотропних речовин – заборонені до обігу на території України речовини синтетичні чи природні, не включені до «Переліку наркотичних засобів, психотропних речовин і прекурсорів», затвердженого постановою Кабінету Міністрів України від 6 травня 2000 року № 770, хімічна структура та властивості яких подібні до хімічної структури та властивостей наркотичних засобів і психотропних речовин, психоактивну дію яких вони відтворюють.",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові норми",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Також, відповідно до ст. 13 Закону на території України забороняється обіг аналогів наркотичних засобів і психотропних речовин, за винятком їх використання в цілях, передбачених статтями 19 та 20 цього Закону.",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові норми",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Разом з цим, відповідно до ст. 25 Закону зберігання наркотичних засобів, психотропних речовин і прекурсорів у будь-яких кількостях в цілях, не передбачених цим Законом, забороняється.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові норми",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно з вимогами ст.ст. 25-28 Закону придбання, виготовлення, зберігання та перевезення фізичними особами наркотичних засобів, психотропних речовин і прекурсорів у будь-яких кількостях в цілях, не передбачених зазначеним Законом, забороняється.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові норми",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до наказу Міністерства охорони здоров`я України № 188 від 01 серпня 2000 року таблиці № 1 «Канабіс» є особливо небезпечним наркотичним засобом, обіг якого заборонено.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові норми",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Точної дати та часу в ході досудового розслідування встановлено не було, але не пізніше 17 грудня 2023 року, перебуваючи в лісосмузі на околиці м. Біла Церква Київської області, ОСОБА_2 зірвав з дикоростучої рослини роду коноплі верхівкову частину зеленого кольору, після чого висушив, подрібнив руками та помістив до полімерного зіп-пакета, таким чином незаконно придбав особливо небезпечний наркотичний засіб, обіг якого",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Фактичні обставини",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Заборонено, – «канабіс».",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Фактичні обставини",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Після цього ОСОБА_2 , реалізуючи злочинний умисел, направлений на незаконне зберігання вказаного наркотичного засобу без мети збуту, поклав вказану вище речовину до лівої кишені своєї курточки, таким чином почав незаконно зберігати особливо небезпечний наркотичний засіб, обіг якого заборонено, – «канабіс» при собі без мети подальшого збуту, з метою власного вживання.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Фактичні обставини",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "17 грудня 2023 року, близько 13 години, ОСОБА_2 , зберігаючи при собі особливо небезпечний наркотичний засіб обіг якого заборонено, – «канабіс», усвідомлюючи суспільно небезпечний характер своїх дій, передбачаючи їх суспільно небезпечні наслідки та бажаючи їх настання на автомобілі «ВАЗ-2101», реєстраційний номер НОМЕР_2 , вирушив з м. Запоріжжя до місця дислокації підрозділу у Донецькій області.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Фактичні обставини",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Того ж дня, близько 14 години 07 хвилин, автомобіль «ВАЗ-2101», реєстраційний номер НОМЕР_2 , був зупинений на блок посту № НОМЕР_3 за межами смт. Новомиколаївка, Запорізького району Запорізької області, що розташований на 59 км. автодороги «Запоріжжя-Донецьк» співробітниками поліції, де працівником поліції у ОСОБА_2 було виявлено зіп-пакет з речовиною рослинного походження сіро-зеленого кольору.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Фактичні обставини",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В подальшому під час огляду місця події в період часу з 15 години 14 хвилин до 15 години 22 хвилини у ОСОБА_2 , було вилучено особливо небезпечний наркотичний засіб, обіг якого заборонено, – «канабіс», загальна маса якого склала 18,522 г (в перерахунку на висушену речовину), яку ОСОБА_2 придбав та зберігав при собі, без мети збуту.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Фактичні обставини",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Зазначені дії ОСОБА_2 кваліфікуються за ч. 1 ст. 309 КК України, а саме як незаконне придбання та зберігання наркотичних засобів без мети збуту.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У ході досудового розслідування кримінального провадження обвинувачений подав заяву від 11.01.2024 щодо визнання своєї винуватості, згоди з вищевказаними встановленими досудовим розслідуванням обставинами, ознайомлення з обмеженням права на апеляційне оскарження та згоди на розгляд обвинувального акту у спрощеному провадженні без проведення судового розгляду в судовому засіданні.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін і процесуальні заяви",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Добровільність беззаперечного визнання винуватості обвинуваченим, його згода із встановленими в результаті досудового розслідування обставинами і згода на розгляд обвинувального акту за його відсутності підтверджені захисником – адвокатом ОСОБА_3 .",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін і процесуальні заяви",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до ст.ст. 381, 382 КПК України,",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Суд, враховуючи вказану заяву обвинуваченого, вивчивши обвинувальний акт та додані до нього матеріали, відповідно до ст.ст. 381, 382 КПК України, дійшов висновку про доведеність вини ОСОБА_2 у вчиненні кримінального правопорушення, передбаченого ч. 1 ст. 309 КК України.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновок суду щодо винуватості",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Відповідно до п. 1 ч. 1 ст. 66 КК України обставинами, що пом`якшують покарання ОСОБА_2 , є його щире каяття та активне сприяння розкриттю кримінального правопорушення.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом`якшують та обтяжують покарання",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставини, що обтяжують покарання ОСОБА_2 , передбачені ст. 67 КК України, – відсутні.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом`якшують та обтяжують покарання",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Враховуючи вищезазначене, данні про особу обвинуваченого, наявність обставин, що пом`якшують його покарання та тяжкість вчиненого ним кримінального правопорушення, суд дійшов висновку про необхідність призначення йому покарання у виді штрафу.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов у кримінальному проваджені не заявлявся.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Запобіжний захід обвинуваченому не обирався.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Питання про долю речових доказів суд вирішує на підставі ст. 100 КПК України.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст. 124 КПК України у разі ухвалення обвинувального вироку суд стягує з обвинуваченого на користь держави документально підтверджені витрати на залучення експерта.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Довідкою Запорізького НДЕКЦ підтверджується розмір витрат на проведення експертизи у сумі 1514,56 грн., отже відповідна сума підлягає стягненню з обвинуваченого на користь держави.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "отже відповідна сума підлягає стягненню з обвинуваченого на користь держави.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі викладеного, керуючись ч. 1 ст. 309 КК України, ст.ст. 100, 124, 373 – 376, 381, 382, 393, 395, 532 КПК України, суд",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Завершальні правові підстави",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі викладеного, керуючись ч. 1 ст. 309 КК України, ст.ст. 100, 124, 373 – 376, 381, 382, 393, 395, 532 КПК України, суд",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави рішення",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Наведено легальне визначення категорій, пов’язаних із обігом наркотичних засобів, що формує правову основу для кваліфікації дій."
+      },
+      {
+        "id": "E02",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Норма закону встановлює загальну заборону обігу відповідних речовин, що підсилює незаконний характер описаних дій."
+      },
+      {
+        "id": "E03",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Пряма заборона зберігання наркотичних засобів слугує правовою підставою для кваліфікації дій як незаконного зберігання."
+      },
+      {
+        "id": "E04",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Норма передбачає заборону придбання, виготовлення, зберігання та перевезення, що кореспондує кваліфікації за ст. 309 КК України."
+      },
+      {
+        "id": "E05",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Визначення канабісу як особливо небезпечного наркотичного засобу підтверджує, що предметом правопорушення був заборонений до обігу засіб."
+      },
+      {
+        "id": "E06",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.92,
+        "justification": "Це перша частина єдиного опису придбання канабісу; у поєднанні з наступним фрагментом утворює повний факт незаконного придбання."
+      },
+      {
+        "id": "E07",
+        "source": "P09",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.92,
+        "justification": "Друга частина розділеного речення уточнює, що йдеться саме про «канабіс», завершуючи опис факту незаконного придбання."
+      },
+      {
+        "id": "E08",
+        "source": "P10",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Опис зберігання канабісу без мети збуту прямо підкріплює кваліфікацію як незаконного зберігання."
+      },
+      {
+        "id": "E09",
+        "source": "P11",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Факт перевезення при собі наркотичного засобу доповнює обставини незаконного зберігання/перевезення."
+      },
+      {
+        "id": "E10",
+        "source": "P12",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Виявлення речовини під час поліцейської зупинки підтверджує фактичне зберігання забороненої речовини."
+      },
+      {
+        "id": "E11",
+        "source": "P13",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Вилучення канабісу та встановлення його маси безпосередньо підтверджує факт придбання та зберігання наркотичного засобу."
+      },
+      {
+        "id": "E12",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Правильна правова кваліфікація описаних дій логічно підкріплює висновок суду про доведеність вини за ч. 1 ст. 309 КК України."
+      },
+      {
+        "id": "E13",
+        "source": "P14",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Заява обвинуваченого про визнання вини та згоду на спрощений розгляд є підставою для висновку про доведеність вини в межах спрощеного провадження."
+      },
+      {
+        "id": "E14",
+        "source": "P15",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Підтвердження захисником добровільності та згоди обвинуваченого зміцнює висновок суду про доведеність вини."
+      },
+      {
+        "id": "E15",
+        "source": "P16",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Посилання на ст.ст. 381, 382 КПК України вказує на процесуальну підставу ухвалення вироку за спрощеною процедурою."
+      },
+      {
+        "id": "E16",
+        "source": "C07",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Наявність щирого каяття та активного сприяння розкриттю є пом’якшувальними обставинами, що обґрунтовують призначення штрафу."
+      },
+      {
+        "id": "E17",
+        "source": "C08",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Відсутність обтяжуючих обставин сприяє призначенню більш м’якого виду покарання у виді штрафу."
+      },
+      {
+        "id": "E18",
+        "source": "P18",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Норма КПК прямо передбачає стягнення документально підтверджених витрат на експертизу у разі обвинувального вироку."
+      },
+      {
+        "id": "E19",
+        "source": "P19",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Довідка НДЕКЦ підтверджує розмір витрат, що конкретизує суму до стягнення."
+      },
+      {
+        "id": "E20",
+        "source": "P20",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Довідка НДЕКЦ підтверджує розмір витрат, що є фактичною підставою для їх стягнення."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C02",
+        "components": [
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P11",
+          "P12",
+          "P13",
+          "C01",
+          "P14",
+          "P15",
+          "P16",
+          "C02"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "SENTENCING",
+        "main_claim": "C03",
+        "components": [
+          "C07",
+          "C08",
+          "C03"
+        ],
+        "edges": [
+          "E16",
+          "E17"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C04",
+        "components": [
+          "P18",
+          "P19",
+          "C04"
+        ],
+        "edges": [
+          "E18",
+          "E19"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C05",
+        "components": [
+          "C05"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C06",
+        "components": [
+          "C06"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "C01",
+          "C02"
+        ],
+        "text": "«ОСОБА_2 вчинив незаконне придбання, зберігання та перевезення наркотичних засобів без мети збуту» (п. 17) проти «Зазначені дії ОСОБА_2 кваліфікуються ... як незаконне придбання та зберігання ... без мети збуту» (п. 24).",
+        "conflicts_with": "У правовій кваліфікації (п. 24) відсутня згадка про «перевезення», яке зазначено у фактичному описі (п. 17).",
+        "description": "У різних частинах документа по-різному окреслено склад діяння: у фактичних обставинах вказано також «перевезення», тоді як у правовій кваліфікації – лише «придбання та зберігання».",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 21,
+      "number_of_claims": 8,
+      "number_of_support_edges": 20,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 5,
+      "root_claims": [
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "unsupported_claims": [
+        "C07",
+        "C08"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 3
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.92; review 4 flagged missing or hallucinated field(s)."
+  }
+}

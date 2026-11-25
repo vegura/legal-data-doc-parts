@@ -1,0 +1,1328 @@
+{
+  "document_id": "116442566",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "12 листопада 2022 року близько 12.30 год. у обвинуваченого ОСОБА_6 , який перебував поблизу магазину «Мотозапчастини», що по вул. Торговиця, 9 у м. Тернополі,",
+          "paragraph_id": 8,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "виник протиправний умисел, спрямований на спричинення тілесних ушкоджень ОСОБА_4 .",
+          "paragraph_id": 8,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "діючи умисно та усвідомлюючи суспільно-небезпечний характер своїх дій, передбачаючи суспільно-небезпечні наслідки та бажаючи їх настання,",
+          "paragraph_id": 8,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "умисно наніс один удар кулаком правої руки в обличчя ліворуч, один удар кулаком лівої руки в обличчя праворуч. Надалі, ОСОБА_4 втратив рівновагу та впав на землю, після чого ОСОБА_6 наніс ще декілька ударів обома ногами в голову ОСОБА_4 .",
+          "paragraph_id": 8,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Внаслідок протиправних дій ОСОБА_6 , потерпілому ОСОБА_4 , завдано фізичного болю та спричинено тілесні ушкодження у вигляді закритої черепно-мозкової травми із струсом головного мозку, синця повік правого ока та «ушитої» рани його нижньої повіки, садна лівої скроневої ділянки голови, які за ступенем тяжкості належать до легкого тілесного ушкодження із короткочасним розладом здоров`я понад шість днів, але не більше як три тижні (21 день).",
+          "paragraph_id": 8,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "допитаний в судовому засіданні обвинувачений ОСОБА_6 вказав, що на досудовому слідстві він визнавав свою вину, однак на даний час не визнає, оскільки ОСОБА_4 до нього подано цивільний позов на суму 50 000 грн.",
+          "paragraph_id": 9,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Так, ОСОБА_4 ногою вдарив його у верхню третину ноги.",
+          "paragraph_id": 9,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Після чого автоматично він 2-3 рази рукою вдарив по обличчю ОСОБА_4 , останній втратив рівновагу та упав, після чого він ще один раз вдарив його ногою в голову.",
+          "paragraph_id": 9,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вибачившись, сказав, що він напав першим, проте ОСОБА_4 стверджував, що він спеціально його побив та сам напав.",
+          "paragraph_id": 9,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "З приводу удару в його ногу ОСОБА_4 заявляв у поліцію, проте за наслідком такого був невеликий синяк, який через два дні зійшов, тому експертиза б нічого не показала. Так як тілесних ушкоджень не було завдано справу було закрито.",
+          "paragraph_id": 9,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В той час як почав сходити вниз по сходинках, ОСОБА_6 взяв його обома руками ззаду, двічі вдарив по обличчю. Після цього, нахилившись і падаючи, він штовхнув його та ще, мінімум 5-6 ударів, наносив ногами в ділянку обличчя.",
+          "paragraph_id": 10,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Коли його підняли люди, він викликав поліцію.",
+          "paragraph_id": 10,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "P11a",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На досудовому розслідуванні під час проведення слідчого експерименту стверджував, що він з ОСОБА_6 знаходились обличчям один до одного,",
+          "paragraph_id": 10,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "P11b",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "однак на даний час стверджує, що удари були нанесені зі спини.",
+          "paragraph_id": 10,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вказав, що ОСОБА_6 та його мати у нього не вибачались.",
+          "paragraph_id": 10,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При призначення судом міри покарання обвинуваченому, просить суд застосувати до ОСОБА_6 максимальне покарання.",
+          "paragraph_id": 10,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_6 кричав до ОСОБА_4 , щоб він вийшов.",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання свідка",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "він побачив як ОСОБА_4 лежить на землі за 3-5 м від магазину, а ОСОБА_6 стоїть над ним з лівої сторони.",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання свідка",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Чи ОСОБА_6 наносив удари ОСОБА_4 та механізму нанесення ударів не бачив.",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання свідка",
+        "support_status": null
+      },
+      {
+        "id": "P17a",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Помітив як останній наніс один удар ногою з правого боку ОСОБА_4 , однак знаходячись на відстані близько 15 м не може ствердно повідомити куди саме припав даний удар,",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання свідка",
+        "support_status": null
+      },
+      {
+        "id": "P17b",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "проте одразу підбіг до них та побачив кров з правого боку обличчя ОСОБА_4 .",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання свідка",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "від ОСОБА_4 прийнято заяву про те, що 12.11.2022 близько 12.30 год. ОСОБА_6 , перебуваючи по вул. Торговиця, 9 в м. Тернополі, на грунті неприязних відносин, спричинив йому тілесні ушкодження.",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені документи",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "за участю потерпілого ОСОБА_4 проводився слідчий експеримент, під час якого останній розповідав про обставини нанесення йому тілесних ушкоджень ОСОБА_6 , які мали місце 12.11.2022 року близько 12.30 год., після чого відтворив на статисті механізм та спосіб спричинення йому тілесних ушкоджень.",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені документи",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно дослідженого в судовому засіданні протоколу огляду документу від 20.12.2022 року слідує, що предметом огляду являється карта стаціонарного хворого №5207/1334, яка заповнена на ім`я ОСОБА_4 . Об`єктом огляду є карта стаціонарного хворого №5207/1334, яка заповнена на ім`я ОСОБА_4 , ІНФОРМАЦІЯ_2 , на якому за допомогою кулькової ручки та чорнил синього кольору нанесені літери та цифри. На титульній сторінці наявні написи із зазначенням лікувального закладу, а саме КНП «Тернопільська комунальна лікарня швидкої допомоги», ім`я на кого видана картка, а саме: « ОСОБА_4 , ІНФОРМАЦІЯ_2 , жит. АДРЕСА_3 ».",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Досліджені документи",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до дослідженого в судовому засіданні висновку експерта №923 від 26.12.2022 року встановлено, що згідно з вивченими медичними документами, у ОСОБА_4 під час стаціонарного лікування 12-24.11.2022 у КНП \"Тернопільська міська комунальна лікарня швидкої допомоги\", на підставі даних об`єктивного клінічного обстеження і спостереження, було встановлено закриту черепно-мозкову травму у виді струсу головного мозку, із зовнішніх ушкоджень описані синці повік правого ока та \"ушита\" рана його нижньої повіки, садна лівої скроневої ділянки голови. Характер і морфологічні властивості виявлених у ОСОБА_4 ушкоджень, свідчать про їх утворення дії тупих предметів незадовго до його госпіталізації у лікувальний заклад, не виключено у вказаний в постанові термін - 12.11.2022. У медичній карті детальні обставини травмування ОСОБА_4 не наведені. Виявлена у ОСОБА_4 закрита черепно-мозкова травма із струсом головного мозку та зовнішніми ушкодженнями, за ступенем тяжкості належить до легкого тілесного ушкодження із короткочасним розладом здоров`я тривалістю понад шість днів, але не більше як три тижні (21 день) - п.п.2.3.1 (а), 2.3.3 \"Правил судово-медичного визначення ступеня тяжкості тілесних ушкоджень\" (МОЗ України, Київ, 1995).",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновок експерта",
+        "support_status": null
+      },
+      {
+        "id": "C20",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Таким чином, суд приходить до переконання про доведеність винуватості ОСОБА_6 у вчиненні кримінального правопорушення,",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація та висновки про винуватість",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C21",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "кваліфікує його дії за ч.2 ст.125 КК України, тобто - умисне легке тілесне ушкодження, що спричинило короткочасний розлад здоров`я.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація та висновки про винуватість",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "особу винного, раніше не судимого, за місцем проживання характеризується позитивно,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "повного визнання своєї вини, що є обставиною, яка пом`якшує покарання, хоча визнання своєї вини відбулося виключно під час виступу обвинуваченим в судових дебатах.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Суд не вбачає щирого каяття в діях обвинуваченого, оскільки жодних реальних дій по відношенню до відшкодування потерпілому заподіяної шкоди не вживалися, та такого каяття під час судового розгляду зі сторони обвинуваченого не було.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставин, що обтяжують покарання судом не встановлено,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C22",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "а тому покарання йому слід визначити в межах санкції статті, за якою кваліфіковано кримінальне правопорушення, у виді арешту.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "цивільний позов потерпілого ОСОБА_4 про стягнення з обвинуваченого ОСОБА_6 заподіяної моральної шкоди в розмірі 50 000 грн.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": null
+      },
+      {
+        "id": "C23",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "який підлягає до часткового задоволення виходячи із наступного.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P27",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно ч.1 ст.129 КПК України ухвалюючи обвинувальний вирок, суд залежно від доведеності підстав і розміру позову задовольняє цивільний позов повністю або частково чи відмовляє в ньому.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативна база",
+        "support_status": null
+      },
+      {
+        "id": "P28",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно ч.1 ст.1167 ЦК України, моральна шкода, завдана фізичній або юридичній особі неправомірними рішеннями, діями чи бездіяльністю, відшкодовується особою, яка її завдала, за наявності її вини.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативна база",
+        "support_status": null
+      },
+      {
+        "id": "P29",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до Постанови Пленуму Верховного суду України №4 від 31 березня 1995 року «Про судову практику в справах про відшкодування моральної (немайнової) шкоди», розмір відшкодування моральної (немайнової) шкоди суд визначає залежно від характеру та обсягу страждань, яких зазнав позивач, характеру немайнових витрат та з урахуванням інших обставин.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативна база",
+        "support_status": null
+      },
+      {
+        "id": "P30",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч.1 ст.1195 ЦК України, фізична або юридична особа, яка завдала шкоди каліцтвом або іншим ушкодженням здоров`я фізичній особі, зобов`язана відшкодувати потерпілому заробіток (дохід), втрачений ним внаслідок втрати чи зменшення професійної або загальної працездатності, а також відшкодувати додаткові витрати, викликані необхідністю посиленого харчування, санаторно-курортного лікування, придбання ліків, протезування, стороннього догляду тощо.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативна база",
+        "support_status": null
+      },
+      {
+        "id": "P31",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Приймаючи рішення про часткове задоволення позову про стягнення шкоди, завданої кримінальним правопорушенням, суд враховує, - стан здоров`я потерпілого, тяжкість вимушених змін у його життєвих стосунках, пережитий стрес, виходячи із засад розумності та справедливості,",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Рішення щодо цивільного позову",
+        "support_status": null
+      },
+      {
+        "id": "C24",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд приходить до переконання про необхідність стягнення з обвинуваченого ОСОБА_6 в користь потерпілого ОСОБА_4 сорока тисяч гривень завданої моральної шкоди.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Рішення щодо цивільного позову",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C25",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання речових доказів вирішити в порядку ст.100 КПК України.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P32",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ст.100 КПК України",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": null
+      },
+      {
+        "id": "P33",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "керуючись ст.ст.370,374 КПК України,",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативна база (оперативна частина)",
+        "support_status": null
+      },
+      {
+        "id": "P10a",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На досудовому розслідуванні під час проведення слідчого експерименту стверджував, що він з ОСОБА_6 знаходились обличчям один до одного",
+          "paragraph_id": 10,
+          "start_char": 1046,
+          "end_char": 1206
+        },
+        "section": "Пояснення потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "P10b",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "однак на даний час стверджує, що удари були нанесені зі спини.",
+          "paragraph_id": 10,
+          "start_char": 1208,
+          "end_char": 1278
+        },
+        "section": "Пояснення потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "P11c",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Чи ОСОБА_6 наносив удари ОСОБА_4 та механізму нанесення ударів не бачив.",
+          "paragraph_id": 11,
+          "start_char": 228,
+          "end_char": 313
+        },
+        "section": "Показання свідка",
+        "support_status": null
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Таким чином, суд приходить до переконання про доведеність винуватості ОСОБА_6 у вчиненні кримінального правопорушення",
+          "paragraph_id": 16,
+          "start_char": 14,
+          "end_char": 120
+        },
+        "section": "Висновки суду та правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C11",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "та кваліфікує його дії за ч.2 ст.125 КК України, тобто - умисне легке тілесне ушкодження, що спричинило короткочасний розлад здоров`я.",
+          "paragraph_id": 16,
+          "start_char": 122,
+          "end_char": 282
+        },
+        "section": "Висновки суду та правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P17c",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "повного визнання своєї вини, що є обставиною, яка пом`якшує покарання, хоча визнання своєї вини відбулося виключно під час виступу обвинуваченим в судових дебатах.",
+          "paragraph_id": 17,
+          "start_char": 153,
+          "end_char": 374
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P17d",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Суд не вбачає щирого каяття в діях обвинуваченого, оскільки жодних реальних дій по відношенню до відшкодування потерпілому заподіяної шкоди не вживалися, та такого каяття під час судового розгляду зі сторони обвинуваченого не було.",
+          "paragraph_id": 17,
+          "start_char": 376,
+          "end_char": 515
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P17e",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставин, що обтяжують покарання судом не встановлено",
+          "paragraph_id": 17,
+          "start_char": 517,
+          "end_char": 569
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P17f",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в межах санкції статті, за якою кваліфіковано кримінальне правопорушення",
+          "paragraph_id": 17,
+          "start_char": 585,
+          "end_char": 659
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P10d",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При призначення судом міри покарання обвинуваченому, просить суд застосувати до ОСОБА_6 максимальне покарання.",
+          "paragraph_id": 10,
+          "start_char": 1418,
+          "end_char": 1538
+        },
+        "section": "Пояснення потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "C30",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "який підлягає до часткового задоволення виходячи із наступного.",
+          "paragraph_id": 18,
+          "start_char": 137,
+          "end_char": 200
+        },
+        "section": "Цивільний позов",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P23a",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "суд враховує, - стан здоров`я потерпілого, тяжкість вимушених змін у його життєвих стосунках, пережитий стрес, виходячи із засад розумності та справедливості,",
+          "paragraph_id": 23,
+          "start_char": 33,
+          "end_char": 189
+        },
+        "section": "Мотиви вирішення цивільного позову",
+        "support_status": null
+      },
+      {
+        "id": "C31",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд приходить до переконання про необхідність стягнення з обвинуваченого ОСОБА_6 в користь потерпілого ОСОБА_4 сорока тисяч гривень завданої моральної шкоди.",
+          "paragraph_id": 23,
+          "start_char": 191,
+          "end_char": 353
+        },
+        "section": "Мотиви вирішення цивільного позову",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C41",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання речових доказів вирішити в порядку ст.100 КПК України.",
+          "paragraph_id": 24,
+          "start_char": 0,
+          "end_char": 60
+        },
+        "section": "Питання речових доказів",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P24a",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ст.100 КПК України",
+          "paragraph_id": 24,
+          "start_char": 41,
+          "end_char": 59
+        },
+        "section": "Питання речових доказів",
+        "support_status": null
+      },
+      {
+        "id": "P25a",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "керуючись ст.ст.370,374 КПК України",
+          "paragraph_id": 25,
+          "start_char": 23,
+          "end_char": 58
+        },
+        "section": "Процесуальні підстави ухвалення рішення",
+        "support_status": null
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Таким чином, суд приходить до переконання про доведеність винуватості ОСОБА_6 у вчиненні кримінального правопорушення,",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "та кваліфікує його дії за ч.2 ст.125 КК України, тобто - умисне легке тілесне ушкодження, що спричинило короткочасний розлад здоров`я.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "на досудовому слідстві він визнавав свою вину, однак на даний час не визнає, оскільки ОСОБА_4 до нього подано цивільний позов на суму 50 000 грн.",
+          "paragraph_id": 9,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "повного визнання своєї вини, що є обставиною, яка пом`якшує покарання, хоча визнання своєї вини відбулося виключно під час виступу обвинуваченим в судових дебатах.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Час і місце події є базовою обставиною, що конкретизує встановлені судом дії обвинуваченого."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Зазначення про виникнення протиправного умислу слугує підставою для висновку про умисний характер нанесення ударів."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Формулювання про усвідомлення, передбачення та бажання наслідків підтверджує умисність дій при нанесенні ударів."
+      },
+      {
+        "id": "E04",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Власні пояснення обвинуваченого про удари по обличчю та в голову безпосередньо підтверджують описаний механізм події."
+      },
+      {
+        "id": "E05",
+        "source": "P09",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Потерпілий детально описує, як обвинувачений наносив удари руками та ногами, що кореспондує встановленим судом фактам."
+      },
+      {
+        "id": "E06",
+        "source": "P15",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Свідок бачив потерпілого в лежачому положенні та обвинуваченого поруч, що узгоджується з описом падіння та подальших ударів."
+      },
+      {
+        "id": "E07",
+        "source": "P17a",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "На досудовому етапі свідок повідомляв про один удар ногою, що підтверджує факт ударів ногами."
+      },
+      {
+        "id": "E08",
+        "source": "P17b",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Спостереження крові на обличчі потерпілого узгоджується з наслідками нанесення ударів."
+      },
+      {
+        "id": "E09",
+        "source": "P18",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Заява потерпілого з вказанням часу, місця та особи, що завдала ушкоджень, підтверджує подію конфлікту."
+      },
+      {
+        "id": "E10",
+        "source": "P19",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Слідчий експеримент з відтворенням механізму травмування підтверджує описані обставини події."
+      },
+      {
+        "id": "E11",
+        "source": "P21",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Висновок експерта містить діагноз, механізм утворення («дії тупих предметів») та часову прив’язку («не виключено 12.11.2022»), що підтверджує кваліфікацію ушкоджень як легких."
+      },
+      {
+        "id": "E12",
+        "source": "C01",
+        "target": "C20",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Встановлені судом дії обвинуваченого (нанесення ударів) є підставою для висновку про доведеність його винуватості."
+      },
+      {
+        "id": "E13",
+        "source": "C02",
+        "target": "C20",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Факти настання тілесних ушкоджень певного ступеня тяжкості підтверджують об’єктивну сторону правопорушення та доведеність вини."
+      },
+      {
+        "id": "E14",
+        "source": "P04",
+        "target": "C20",
+        "relation": "ATTACK",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.63,
+        "justification": "Обвинувачений заявляє, що не визнає вину на час розгляду, що суперечить висновку про доведеність винуватості."
+      },
+      {
+        "id": "E15",
+        "source": "C01",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Описані умисні удари руками та ногами утворюють фактичну основу для кваліфікації за ч.2 ст.125 КК України."
+      },
+      {
+        "id": "E16",
+        "source": "C02",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Класифікація ушкоджень як легких із короткочасним розладом здоров’я відповідає ознакам складу за ч.2 ст.125 КК України."
+      },
+      {
+        "id": "E17",
+        "source": "P22",
+        "target": "C22",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Позитивні дані про особу та відсутність судимості враховуються судом як пом’якшуючі при визначенні виду покарання."
+      },
+      {
+        "id": "E18",
+        "source": "P23",
+        "target": "C22",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Визнання вини, хоч і на стадії дебатів, враховане як пом’якшуюча обставина при виборі покарання."
+      },
+      {
+        "id": "E19",
+        "source": "P24",
+        "target": "C22",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.77,
+        "justification": "Відсутність щирого каяття зменшує підстави для більш м’якого покарання та впливає на його вид."
+      },
+      {
+        "id": "E20",
+        "source": "P25",
+        "target": "C22",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Відсутність обтяжуючих обставин враховано при визначенні покарання у межах санкції."
+      },
+      {
+        "id": "E21",
+        "source": "P33",
+        "target": "C22",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Посилання на ст.ст.370, 374 КПК України відображає процесуальну підставу ухвалення вироку та призначення покарання."
+      },
+      {
+        "id": "E22",
+        "source": "P26",
+        "target": "C23",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Наявність цивільного позову на 50 000 грн. є передумовою для його часткового задоволення."
+      },
+      {
+        "id": "E23",
+        "source": "P27",
+        "target": "C23",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Норма ст.129 КПК України визначає можливість часткового задоволення цивільного позову у вироку."
+      },
+      {
+        "id": "E24",
+        "source": "P31",
+        "target": "C24",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Суд прямо зазначає критерії (стан здоров’я, зміни у житті, стрес) як підстави для визначення розміру моральної шкоди."
+      },
+      {
+        "id": "E25",
+        "source": "P28",
+        "target": "C24",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Ст.1167 ЦК України встановлює обов’язок відшкодування моральної шкоди за наявності вини."
+      },
+      {
+        "id": "E26",
+        "source": "P29",
+        "target": "C24",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Роз’яснення Пленуму ВСУ визначає підходи до оцінки розміру моральної шкоди, якими керується суд."
+      },
+      {
+        "id": "E27",
+        "source": "C23",
+        "target": "C24",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Висновок про часткове задоволення позову є проміжною підставою для визначення конкретної суми стягнення."
+      },
+      {
+        "id": "E28",
+        "source": "P21",
+        "target": "C24",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Експертний висновок про тілесні ушкодження підтверджує наявність немайнової шкоди і є підставою для її відшкодування."
+      },
+      {
+        "id": "E29",
+        "source": "P30",
+        "target": "C24",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.62,
+        "justification": "Суд посилається на норму щодо відшкодування витрат при ушкодженні здоров’я; вона додатково підкріплює підхід до компенсації шкоди."
+      },
+      {
+        "id": "E30",
+        "source": "P32",
+        "target": "C25",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Пряме посилання на ст.100 КПК України є правовою підставою вирішення питання про речові докази."
+      },
+      {
+        "id": "E31",
+        "source": "P33",
+        "target": "C20",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Процесуальні норми КПК (ст.370, 374) є загальною правовою основою ухвалення обвинувального вироку."
+      },
+      {
+        "id": "E32",
+        "source": "P20",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Огляд карти стаціонарного хворого підтверджує факт госпіталізації та медичні дані, що узгоджуються з висновком експерта щодо ушкоджень."
+      },
+      {
+        "id": "E33",
+        "source": "P20",
+        "target": "C24",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Медична документація підтверджує наслідки для здоров’я, що враховуються при визначенні розміру моральної шкоди."
+      },
+      {
+        "id": "E34",
+        "source": "P23",
+        "target": "C20",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.6,
+        "justification": "Норма ЦК України щодо матеріальної шкоди наведена судом серед правових засад вирішення питання відповідальності; хоча прямо стосується матеріальних витрат, її наведено як орієнтир."
+      },
+      {
+        "id": "E35",
+        "source": "C20",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Висновок про часткове задоволення позову логічно веде до визначення конкретної суми моральної шкоди."
+      },
+      {
+        "id": "E36",
+        "source": "P24",
+        "target": "C21",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Оцінка судом стану здоров'я, стресу та інших обставин обґрунтовує визначення розміру моральної шкоди у 40 000 грн."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C20",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P06",
+          "P09",
+          "P15",
+          "P17a",
+          "P17b",
+          "P18",
+          "P19",
+          "P20",
+          "P21",
+          "P33",
+          "C01",
+          "C02",
+          "C20",
+          "P04"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E31",
+          "E32"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C21",
+        "components": [
+          "C01",
+          "C02",
+          "C21"
+        ],
+        "edges": [
+          "E15",
+          "E16"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "SENTENCING",
+        "main_claim": "C22",
+        "components": [
+          "P22",
+          "P23",
+          "P24",
+          "P25",
+          "P33",
+          "C22"
+        ],
+        "edges": [
+          "E17",
+          "E18",
+          "E19",
+          "E20",
+          "E21"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C24",
+        "components": [
+          "P26",
+          "P27",
+          "P28",
+          "P29",
+          "P30",
+          "P31",
+          "P20",
+          "P21",
+          "C23",
+          "C24"
+        ],
+        "edges": [
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26",
+          "E27",
+          "E28",
+          "E29",
+          "E33"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C25",
+        "components": [
+          "P32",
+          "C25"
+        ],
+        "edges": [
+          "E30"
+        ]
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P11a",
+          "P11b"
+        ],
+        "text": "На досудовому розслідуванні ... знаходились обличчям один до одного, однак на даний час стверджує, що удари були нанесені зі спини.",
+        "conflicts_with": null,
+        "description": "Показання потерпілого щодо позиції сторін при нанесенні ударів відрізняються між досудовим слідством та судовим засіданням.",
+        "likely_error": false
+      },
+      {
+        "id": "I02",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P16",
+          "P17a"
+        ],
+        "text": "Чи ОСОБА_6 наносив удари ... не бачив. Помітив як останній наніс один удар ногою ...",
+        "conflicts_with": null,
+        "description": "Свідок у суді зазначив, що не бачив механізму нанесення ударів, тоді як на досудовому слідстві повідомляв про спостереження удару ногою.",
+        "likely_error": false
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 47,
+      "number_of_claims": 16,
+      "number_of_support_edges": 35,
+      "number_of_attack_edges": 1,
+      "number_of_arguments": 5,
+      "root_claims": [
+        "C03",
+        "C04",
+        "C05",
+        "C10",
+        "C11",
+        "C21",
+        "C22",
+        "C24",
+        "C25",
+        "C30",
+        "C31",
+        "C41"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 23
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.94; review 8 flagged missing or hallucinated field(s)."
+  }
+}

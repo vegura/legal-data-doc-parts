@@ -1,0 +1,852 @@
+{
+  "document_id": "116213690",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "солдата ОСОБА_3 зараховано до списків військової частини НОМЕР_2 та поставлено на всі види забезпечення.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "солдат ОСОБА_3 , як військовослужбовець, зобов?язаний свято і непорушно додержуватися Конституції України та законів України, Військової присяги, віддано служити Українському народові, сумлінно і чесно виконувати військовий обов?язок, поважати честь і гідність кожної людини, додержуватися правил поведінки військовослужбовців, беззастережно виконувати накази командирів (начальників) і захищати їх у бою",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "тобто діючи з прямим умислом, свідомо допустив їх порушення та скоїв кримінальний проступок, а саме незаконне придбання, зберігання та перевезення наркотичних засобів без мети збуту.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в порушення вимог ст. ст. 7, 12, 17, 25 Закону України \"Про наркотичні засоби, психотропні речовини і прекурсори\" від 15.02.95, Закону України \"Про заходи протидії незаконному обігу наркотичних засобів, психотропних речовин і прекурсорів, а також зловживання ними\" від 15.02.95, постанови Кабінету Міністрів України N? 770 від 06.05.2000 та наказу Міністерства охорони здоров?я України N?188 від 01.08.2000 (з наступними змінами та доповненнями до наведених нормативних актів)",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "(в ході дізнання встановити більш точну адресу та час не надалося можливим)",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Впевнившись в тому, що у виявленому ним паперовому згортку находиться подрібнена речовина рослинного походження, яка містить у своєму складі наркотичний засіб - канабіс, який відноситься до особливо небезпечних наркотичних засобів, обіг яких відповідно до «Переліку наркотичних засобів, психотропних речовин і прекурсорів», затвердженого Постановою КМУ N?770 від 06.05.2000 року (із змінами та доповненнями) заборонено,",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "у ОСОБА_3 виник злочинний умисел, направлений на незаконне придбання, зберігання та перевезення наркотичних засобів без мети збуту",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "підняв з землі, тим самим незаконно придбав вищезазначений паперовий згорток з подрібненою речовиною рослинного походження зелено-коричневого кольору, що містить у своєму складі особливо небезпечний наркотичний засіб, обіг якого заборонено - канабіс, масою 18,213 г, який поклав у належний йому рюкзак, та почав незаконно зберігати при собі без мети збуту.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "незаконно перевіз канабіс із с. Малоолександрівка до контрольно-пропускного пункту на виїзді з м. Павлограда за адресою: вул. Лінійна 2а у м. Павлоград Дніпропетровської області",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "мотоцикл марки «Ліфан», державний номер якого - НОМЕР_3 під керуванням ОСОБА_3 був зупинений інспектором групи реагування патрульної поліції ... де ОСОБА_3 надав для огляду паперовий згорток, в якому знаходилася подрібнена речовина рослинного походження коричнево-зеленого кольору масою 20,463 г., яка містить у своєму складі наркотичний засіб - канабіс, масою 18,213 г, який відноситься до особливо небезпечних наркотичних засобів, обіг яких заборонено.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Таким чином, ОСОБА_3 незаконно придбав, зберігав та перевіз для особистого вживання, без мети збуту на транспортному засобі мотоциклі марки «Ліфан» , держаний номер якого - НОМЕР_3 , до контрольно-пропускного пункту на в?їзді до м. Павлоград по автодорозі - М30 «Стрій - Умань - Дніпро - Ізваріне», яка проходить по території міста Павлоград та Павлоградського району Дніпропетровської області, особливо небезпечний наркотичний засіб, обіг якого заборонено - канабіс, масою 18,213 г., тим самим порушивши вимоги Закону України «Про обіг в Україні наркотичних засобів, психотропних речовин, їх аналогів і прекурсорів» і Закону України «Про заходи протидії незаконному обігу наркотичних засобів, психотропних речовин і прекурсорів та зловживання ними», з внесеними до них змінами.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Таким чином, умисні дії ОСОБА_3 виразились у незаконному придбанні, зберіганні та перевезенні наркотичних засобів без мети збуту.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Дії обвинуваченого ОСОБА_3 кваліфікуються за ч. 1 ст. 309 КК України, а саме як незаконне придбання, зберігання та перевезення наркотичних засобів без мети збуту.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Прокурор, відповідно до ч. 1 ст. 302 КПК України, в обвинувальному акті заявив клопотання про розгляд кримінального проступку у спрощеному провадженні без проведення судового розгляду в судовому засіданні.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "суд розглядає обвинувальний акт щодо вчинення кримінального проступку без проведення судового розгляду в судовому засіданні за відсутності учасників судового провадження, якщо обвинувачений не оспорює встановлені під час дізнання обставини і згоден з розглядом обвинувального акта.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_3 беззаперечно визнає свою винуватість у вчиненні інкримінованого йому кримінального проступку, передбаченого ч. 1 ст. 309 КК України, не оспорює встановлені досудовим розслідуванням обставини, згодний на розгляд обвинувального акту у спрощеному провадженні, без проведення судового розгляду в судовому засіданні та без його участі, та ознайомлений з обмеженням права на апеляційне оскарження.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вчинене  ОСОБА_3 кримінальне правопорушення, передбачене ч. 1 ст. 309 КК України, відноситься до категорії кримінальних проступків.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд ухвалив обвинувальний акт розглядати у спрощеному провадженні без проведення судового розгляду в судовому засіданні за відсутності учасників судового провадження, на підставі вивчення обвинувального акту та доданих до нього матеріалів із ухваленням вироку без зазначення доказів на підтвердження встановлених обставин.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "фіксування за допомогою технічних засобів кримінального провадження в суді не здійснюється.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Суд, дослідивши матеріали досудового розслідування, у тому числі документи, які засвідчують беззаперечне визнання обвинуваченим своєї винуватості, приходить до висновку, що обвинувачений  ОСОБА_3 вчинив кримінальне правопорушення, передбачене ч. 1 ст. 309 КК України.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Під час визначення покарання суд враховує ступінь тяжкості вчиненого кримінального правопорушення, особу винного, обставини, які пом`якшують та обтяжують покарання.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Виходячи з принципів справедливості, співмірності та індивідуалізації це покарання має бути адекватним (відповідним) характеру вчинених дій, їх небезпечності та даним про особу.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обвинувачений, який раніше не судимий, вчинив у відповідності до ст. 12 КК України кримінальний проступок, за місцем несення служби характеризується з позитивної сторони, на обліку у лікаря-психіатра та лікаря-нарколога не перебуває, має на утриманні двох неповнолітніх дітей, вину визнав у повному обсязі, щиро розкаявся у вчиненому.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно ст. 66 КК України, обставиною, яка пом`якшує покарання, є щире каяття обвинуваченого у скоєнні кримінального правопорушення.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно ст. 67 КК України, обставин, які обтяжують покарання обвинуваченого, не встановлено.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Виходячи з вимог ст. 65 КК України, суд призначає покарання з урахуванням ступеню тяжкості скоєного кримінального правопорушення, особи винного та обставин, які пом`якшують або обтяжують покарання.",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до положень ст. 50 КК України, покарання має на меті не тільки кару, а й виправлення засудженого, а також запобігання вчиненню нових кримінальних правопорушень як засудженим, так і іншими особами, а також не має на меті фізичних страждань або принизити людську гідність.",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Дане покарання, на думку суду, буде необхідним та достатнім для виправлення обвинуваченого, та попередження вчинення ним кримінальних правопорушень, та відповідає принципам рівних можливостей та справедливого судового розгляду, встановлених ст. 6 Конвенції про захист прав людини і основних свобод.",
+          "paragraph_id": 39,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Враховуючи викладене, суд вважає за необхідне призначити обвинуваченому  ОСОБА_3 покарання у межах санкції ч.1 ст. 309 КК України у виді штрафу.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Цивільний позов не заявлений.",
+          "paragraph_id": 40,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Процесуальні витрати на залучення експерта слід стягнути з обвинуваченого на користь держави.",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Речові докази слід розподілити відповідно до вимог ст. 100 КПК України.",
+          "paragraph_id": 42,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі викладеного, керуючись ст. 373,374, 381, 382 КПК України, суд",
+          "paragraph_id": 43,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Процесуальні витрати на залучення експерта слід стягнути з обвинуваченого на користь держави.",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші постанови суду",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Обізнаність обвинуваченого про те, що речовина є канабісом, підтверджує незаконний характер придбання, зберігання та перевезення."
+      },
+      {
+        "id": "E02",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Опис фактичних дій з підняття згортка, поміщення в рюкзак і зберігання без мети збуту прямо підтверджує висновок про незаконні дії."
+      },
+      {
+        "id": "E03",
+        "source": "P09",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Фрагмент про перевезення канабісу конкретизує обставини незаконного перевезення."
+      },
+      {
+        "id": "E04",
+        "source": "P10",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Зупинка поліцією та надання згортка з канабісом підтверджують наявність наркотичного засобу у обвинуваченого."
+      },
+      {
+        "id": "E05",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Опис прямого умислу слугує підкріпленням висновку про умисний характер дій."
+      },
+      {
+        "id": "E06",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Конкретизований підсумковий опис незаконних дій підтримує загальний висновок про їх умисний характер та зміст."
+      },
+      {
+        "id": "E07",
+        "source": "P04",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.86,
+        "justification": "Нормативні приписи щодо заборони обігу наркотичних засобів є необхідною правовою основою для кваліфікації дій за ст. 309 КК України."
+      },
+      {
+        "id": "E08",
+        "source": "C02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.9,
+        "justification": "Фактичний висновок про незаконне придбання, зберігання та перевезення створює підстави для правової кваліфікації за ч. 1 ст. 309 КК України."
+      },
+      {
+        "id": "E09",
+        "source": "C03",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Правильна кваліфікація діяння за ч. 1 ст. 309 КК України логічно підкріплює висновок суду про вчинення саме цього кримінального правопорушення."
+      },
+      {
+        "id": "E10",
+        "source": "P13",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Беззаперечне визнання вини обвинуваченим прямо підкріплює висновок суду про доведеність вчинення правопорушення."
+      },
+      {
+        "id": "E11",
+        "source": "P11",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Клопотання прокурора є процесуальною підставою для розгляду у спрощеному провадженні."
+      },
+      {
+        "id": "E12",
+        "source": "P12",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Норма КПК визначає умови, за яких можливий розгляд у спрощеному порядку."
+      },
+      {
+        "id": "E13",
+        "source": "P13",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Заява обвинуваченого про згоду і невизнання спору щодо обставин відповідає умовам для спрощеного провадження."
+      },
+      {
+        "id": "E14",
+        "source": "P14",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Кваліфікація правопорушення як кримінального проступку узгоджується з предметом спрощеного провадження."
+      },
+      {
+        "id": "E15",
+        "source": "P23",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Загальна вказівка на застосовані статті КПК слугує нормативною підставою ухваленого процесуального рішення."
+      },
+      {
+        "id": "E16",
+        "source": "P17",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Принципи справедливості, співмірності та індивідуалізації обґрунтовують висновок про адекватність обраного покарання."
+      },
+      {
+        "id": "E17",
+        "source": "P18",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Позитивні дані про особу та щире каяття пояснюють, чому таке покарання є достатнім і необхідним."
+      },
+      {
+        "id": "E18",
+        "source": "P19",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Закон прямо відносить щире каяття до обставин, що пом'якшують покарання, що підтримує висновок про достатність штрафу."
+      },
+      {
+        "id": "E19",
+        "source": "P20",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Відсутність обтяжуючих обставин сприяє висновку про помірність і достатність призначеного покарання."
+      },
+      {
+        "id": "E20",
+        "source": "P21",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Загальні засади призначення покарання підкріплюють оцінку адекватності обраного виду покарання."
+      },
+      {
+        "id": "E21",
+        "source": "P22",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Мета покарання (виправлення і превенція) корелює з висновком про достатність призначеного покарання."
+      },
+      {
+        "id": "E22",
+        "source": "C06",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Оцінка необхідності та достатності покарання логічно веде до рішення про призначення штрафу."
+      },
+      {
+        "id": "E23",
+        "source": "P23",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.74,
+        "justification": "Фраза про керування статтями КПК відображає нормативну основу постановленого вироку і рішення про покарання."
+      },
+      {
+        "id": "E24",
+        "source": "P23",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Зазначені статті КПК слугують правовою основою для вирішення питання про процесуальні витрати."
+      },
+      {
+        "id": "E25",
+        "source": "P23",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Посилання на статті КПК вказує на правову підставу для розподілу речових доказів."
+      },
+      {
+        "id": "E26",
+        "source": "P16",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Перелік врахованих судом критеріїв при визначенні покарання підсилює висновок про його необхідність і достатність."
+      },
+      {
+        "id": "E27",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Виникнення злочинного умислу на придбання, зберігання та перевезення підкріплює підсумковий висновок про вчинення цих дій."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C05",
+        "components": [
+          "P03",
+          "P04",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "C01",
+          "C02",
+          "C03",
+          "P13",
+          "C05"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E27"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C04",
+        "components": [
+          "P11",
+          "P12",
+          "P13",
+          "P14",
+          "P23",
+          "C04"
+        ],
+        "edges": [
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "SENTENCING",
+        "main_claim": "C07",
+        "components": [
+          "P16",
+          "P17",
+          "P18",
+          "P19",
+          "P20",
+          "P21",
+          "P22",
+          "C06",
+          "C07",
+          "P23"
+        ],
+        "edges": [
+          "E16",
+          "E17",
+          "E18",
+          "E19",
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E26"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C09",
+        "components": [
+          "P23",
+          "C09"
+        ],
+        "edges": [
+          "E24"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C10",
+        "components": [
+          "P23",
+          "C10"
+        ],
+        "edges": [
+          "E25"
+        ]
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C09",
+        "components": [
+          "C09"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P09",
+          "P10"
+        ],
+        "text": "\"на виїзді з м. Павлограда\" (п. 19) та \"на в?їзді до м. Павлоград\" (п. 20)",
+        "conflicts_with": null,
+        "description": "У різних абзацах по-різному вказано розташування контрольно-пропускного пункту (на виїзді з міста проти на в?їзді до міста), що створює суперечність у фактичному описі місця події.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 24,
+      "number_of_claims": 10,
+      "number_of_support_edges": 27,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 6,
+      "root_claims": [
+        "C04",
+        "C05",
+        "C07",
+        "C08",
+        "C09",
+        "C10"
+      ],
+      "unsupported_claims": [
+        "C08"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 2
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.94; review 9 flagged missing or hallucinated field(s)."
+  }
+}

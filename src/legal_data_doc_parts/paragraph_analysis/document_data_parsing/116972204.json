@@ -1,0 +1,142 @@
+{
+  "document_id": "116972204",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі ч.15 ст. 615 КПК України",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "ВСТАНОВИВ:",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в умовах дії воєнного стану",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "ВСТАНОВИВ:",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "після складання та підписання повного тексту вироку",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "ВСТАНОВИВ:",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд обмежується проголошенням його резолютивної частини.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "ВСТАНОВИВ:",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. ст. 373, 374, 474,475 КПК України,",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Керуючись",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.9,
+        "justification": "Посилання на ч.15 ст. 615 КПК України є правовою підставою для обмеження проголошення вироку лише резолютивною частиною."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.86,
+        "justification": "Зазначення про дію воєнного стану є умовою застосування ч.15 ст. 615 КПК України, що пояснює обмеження до проголошення резолютивної частини."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.82,
+        "justification": "Процесуальна умова щодо складання та підписання повного тексту вироку уточнює порядок, за якого суд проголошує лише резолютивну частину."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03"
+        ]
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 4,
+      "number_of_claims": 1,
+      "number_of_support_edges": 3,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 1,
+      "root_claims": [
+        "C01"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 1,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 1,
+      "selected_run_id": 1,
+      "items_added": 0
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.92; review 3 flagged missing or hallucinated field(s)."
+  }
+}

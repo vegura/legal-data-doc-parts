@@ -1,0 +1,560 @@
+{
+  "document_id": "116359089",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_3 у невстановлені досудовим розслідуванням час та місці, шляхом знахідки, незаконно безоплатно придбав блістер зі вмістом 2 (двох) таблеток, білого кольору, схожими на наркотичний засіб, який залишив на зберігання при собі, без мети збуту, вирішивши слідувати у власних справах.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Коли ОСОБА_3 17.08.2023, приблизно о 17.30 годин, знаходився біля буд. № 104 по пр. Берестейський в м. Києві, він був викритий працівниками поліції, яким добровільно видав для подальшого вилучення блістер з таблетками у кількості 2 (двох) штук, масою по 0,50 г кожна, які містять метадон (фенадон), який є наркотичним засобом, обіг якого обмежено. Маса метадону (фенадону) в одній таблетці становить 0,022 г, загальна маса метадону (фенадону) в 2 (двох) таблетках становить 0,044 г.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Метадон (фенадон), згідно Списку № 1 «Наркотичні засоби, обіг яких обмежено» Таблиці 2 «Переліку наркотичних засобів, психотропних речовині прекурсорів», затвердженого постановою Кабінету Міністрів України від 06.05.2000 №770, є наркотичним засобом, обіг якого обмежено.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні положення",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно наказу Міністерства охорони здоров`я від 02.08.2000 № 188 «Цро затвердження таблиць невеликих, великих та особливо великих розмірів наркотичних засобів, психотропних речовин і прекурсорів, які знаходяться у незаконному обігу» розміром наркотичного засобом, обіг якого обмежено, - метадону (фенадону), за який передбачена кримінальна відповідальність за ч. 1 ст. 309 КК України, є маса від 0,02 г до 1,6 г.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні положення",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Кваліфікація дій ОСОБА_3 за ч. 1 ст. 309 КК України вірна, оскільки він незаконно придбав та зберігав наркотичний засіб, без мети збуту.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений не оспорює встановлені під час дізнання обставини і згоден з розглядом обвинувального акта за його відсутності.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави розгляду",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Отже, суд розглянув обвинувальний акт щодо вчинення кримінального проступку без проведення судового розгляду в судовому засіданні за відсутності учасників судового провадження, на підставі вивчення обвинувального акту та доданих до нього матеріалів із ухваленням вироку без зазначення доказів на підтвердження встановлених обставин відповідно до ч.2 ст.382 КПК України.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави розгляду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При призначенні покарання обвинуваченому ОСОБА_3 у відповідності до ст. 65 КК України суд враховує характер вчиненого кримінального правопорушення, яке віднесено до кримінальних проступків, особу обвинуваченого, який судимий, вчинив кримінальний проступок маючи не зняту та непогашену судимість, на обліку у лікаря-психіатра та лікаря-нарколога не перебуває.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно ст. 66 КК України, обставиною, що пом`якшує покарання обвинуваченого ОСОБА_3 є щире каяття.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно ст. 67 КК України, обставин, що обтяжують покарання останнього судом не встановлено.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Суд вважає, що відповідно до вимог ч.2 ст.65 КК України дане покарання є достатнім для виправлення обвинуваченого та попередження вчинення ним  нових кримінальних правопорушень.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "На підставі викладеного, суд приходить до висновку, що обвинуваченому ОСОБА_3 за вчинення даного кримінального проступку слід обрати міру покарання у виді обмеження волі.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "невідбуту частину покарання за попереднім вироком Святошинським районним судом м. Києва від 27.09.2022 у виді позбавлення волі.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення покарання за сукупністю вироків",
+        "support_status": null
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Крім того, ОСОБА_3 необхідно призначити покарання за сукупністю вироків, згідно ч.1 ст.71 КК України, відповідно до якої до покарання, призначеного за цим вироком, частково приєднати невідбуту частину покарання за попереднім вироком Святошинським районним судом м. Києва від 27.09.2022 у виді позбавлення волі.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення покарання за сукупністю вироків",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вартість проведення експертизи № СЕ-19/111-23/43804-НЗПРАП від 30.08.2023, що становить 1912 гривень.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Також, відповідно до вимог ч.2 ст. 124 КПК України підлягає стягненню із обвинуваченого ОСОБА_3 на користь держави вартість проведення експертизи № СЕ-19/111-23/43804-НЗПРАП від 30.08.2023, що становить 1912 гривень.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання про речові докази необхідно вирішити відповідно до вимог ст. 100 КПК України.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі викладеного, керуючись ст.ст. 100, 124, 369-371, 373-374, 381-382 КПК України, суд, -",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Резолютивна частина",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "за попереднім вироком Святошинським районним судом м. Києва від 27.09.2022 у виді позбавлення волі.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення покарання за сукупністю вироків",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до вимог ч.2 ст. 124 КПК України",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вартість проведення експертизи № СЕ-19/111-23/43804-НЗПРАП від 30.08.2023, що становить 1912 гривень.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання про речові докази необхідно вирішити відповідно до вимог ст. 100 КПК України.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.93,
+        "justification": "Фактичний опис незаконного придбання та зберігання наркотичного засобу прямо підкріплює правильність кваліфікації за ч. 1 ст. 309 КК України."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.93,
+        "justification": "Вказані обставини виявлення та точна маса метадону підтверджують факт зберігання наркотичного засобу у кримінально-караних розмірах."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.9,
+        "justification": "Нормативне підтвердження, що метадон є наркотичним засобом з обмеженим обігом, необхідне для юридичної кваліфікації діяння."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.9,
+        "justification": "Норма про порогові значення маси метадону показує, що вилучена кількість (0,044 г) підпадає під кримінальну відповідальність за ч. 1 ст. 309 КК України."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Згода обвинуваченого на розгляд за його відсутності та неоспорення обставин дають підстави для спрощеного порядку розгляду."
+      },
+      {
+        "id": "E06",
+        "source": "P11",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Загальне посилання суду на статті 381–382 КПК України у заключній формулі кореспондує процесуальному порядку ухвалення вироку без дослідження доказів."
+      },
+      {
+        "id": "E07",
+        "source": "P06",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Оцінка характеру правопорушення та особи обвинуваченого відповідно до ст. 65 КК України слугує підставою для висновку про достатність обраного покарання."
+      },
+      {
+        "id": "E08",
+        "source": "P07",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Наявність пом’якшуючої обставини (щире каяття) за ст. 66 КК України підсилює висновок про достатність покарання."
+      },
+      {
+        "id": "E09",
+        "source": "P08",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Відсутність обтяжуючих обставин за ст. 67 КК України додатково обґрунтовує достатність покарання."
+      },
+      {
+        "id": "E10",
+        "source": "C04",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Висновок про достатність покарання логічно підкріплює рішення обрати міру покарання у виді обмеження волі."
+      },
+      {
+        "id": "E11",
+        "source": "P09",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Факт наявності невідбутої частини покарання за попереднім вироком є підставою для застосування правил складання покарань за ч. 1 ст. 71 КК України."
+      },
+      {
+        "id": "E12",
+        "source": "P10",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Конкретизована вартість експертизи підтверджує суму судових витрат, що підлягають стягненню."
+      },
+      {
+        "id": "E13",
+        "source": "P11",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Заключна формула з посиланням на ст. 124 КПК України узгоджується з правовою підставою для стягнення витрат на експертизу."
+      },
+      {
+        "id": "E14",
+        "source": "P11",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Посилання на ст. 100 КПК України в заключній формулі підтверджує необхідність вирішення питання про речові докази за вимогами цієї статті."
+      },
+      {
+        "id": "E15",
+        "source": "P13",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.86,
+        "justification": "Ч.2 ст.124 КПК України встановлює обов'язок стягнення витрат на проведення експертизи з обвинуваченого у випадках, передбачених законом."
+      },
+      {
+        "id": "E16",
+        "source": "P14",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "JOINT",
+        "confidence": 0.86,
+        "justification": "Конкретизація експертизи та її вартості визначає предмет і розмір стягнення, що разом з правовою підставою утворює обґрунтування рішення."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C02",
+        "components": [
+          "P05",
+          "P11",
+          "C02"
+        ],
+        "edges": [
+          "E05",
+          "E06"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "SENTENCING",
+        "main_claim": "C03",
+        "components": [
+          "P06",
+          "P07",
+          "P08",
+          "C04",
+          "C03"
+        ],
+        "edges": [
+          "E07",
+          "E08",
+          "E09",
+          "E10"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "SENTENCING",
+        "main_claim": "C05",
+        "components": [
+          "P09",
+          "C05"
+        ],
+        "edges": [
+          "E11"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C06",
+        "components": [
+          "P10",
+          "P11",
+          "C06"
+        ],
+        "edges": [
+          "E12",
+          "E13"
+        ]
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C07",
+        "components": [
+          "P11",
+          "C07"
+        ],
+        "edges": [
+          "E14"
+        ]
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 14,
+      "number_of_claims": 8,
+      "number_of_support_edges": 16,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 6,
+      "root_claims": [
+        "C01",
+        "C02",
+        "C03",
+        "C05",
+        "C06",
+        "C07",
+        "C08"
+      ],
+      "unsupported_claims": [
+        "C08"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 6
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.96; review 1 flagged missing or hallucinated field(s)."
+  }
+}

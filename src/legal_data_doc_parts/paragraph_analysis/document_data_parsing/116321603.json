@@ -1,0 +1,499 @@
+{
+  "document_id": "116321603",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "16.05.2023 близько 16 год. 00 хв. ОСОБА_4 , перебуваючи на узбіччі автодороги Н12 «Суми-Полтава» поблизу с.Карабазівка, Полтавського району, Полтавської області, на ґрунті неприязних відносин, з метою заподіяння тілесних ушкоджень ОСОБА_6 , умисно завдав останньому не менше п`яти ударів кулаками обох рук в обличчя та в область грудної клітки,",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в результаті чого спричинив ОСОБА_6 тілесні ушкодження у вигляді синців навколо обох очей, крововиливів в білочну оболонку очей з обох сторін, закритого перелому кісток носа зі зміщенням, забиття грудної клітки зліва, які згідно з висновком судово-медичної експертизи №172 від 25.05.2023 кваліфікуються як легкі тілесні ушкодження, що спричинили короткочасний розлад здоров`я.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В судовому засіданні обвинувачений ОСОБА_4 винним себе визнав повністю, за обставин, зазначених в обвинувальному акті",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст. 94 КПК України, суд за своїм внутрішнім переконанням, яке ґрунтується на всебічному, повному й неупередженому дослідженні всіх обставин кримінального провадження, керуючись законом, оцінюють кожний доказ з точки зору належності, допустимості, достовірності, а сукупність зібраних доказів - з точки зору достатності та взаємозв`язку для прийняття відповідного процесуального рішення.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми КПК щодо оцінки доказів",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст.50 КК України покарання є заходом примусу, що застосовується від імені держави і має на меті не тільки кару, а й виправлення засудженого, а також запобігання вчиненню нових злочинів. Відповідно до вимог ст.65 КК України суд призначає покарання у межах, установлених в санкції статті Основної частини КК України, що передбачає відповідальність за вчинений злочин, відповідно до положень Загальної частини цього Кодексу, враховуючи ступінь тяжкості вчиненого злочину, особу винного та обставини, що пом`якшують та обтяжують покарання. Особі, яка вчинила злочин, має бути призначене покарання, необхідне й достатнє для її виправлення та попередження вчинення нових злочинів.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Разом з цим, при призначенні покарання суд також враховує і наступне. У справі «Бакланов проти Росії» (рішення від 09 червня 2005 року), так і у справі «Фрізен проти Росії» (рішення від 24 березня 2005 року) Європейський суд з прав людини зазначив, що «досягнення справедливого балансу між загальними інтересами суспільства та вимогами захисту основоположних прав особи лише тоді стає значним, якщо встановлено, що під час відповідного втручання було дотримано принципу «законності» і воно не було свавільним». У справі «Ізмайлов проти Росії» (п.38 Рішення від 16 жовтня 2008 року) Європейський суд з прав людини вказав, що «для того, щоб втручання вважалося пропорційним, воно має відповідати тяжкості правопорушення і не становити «особистий надмірний тягар для особи».",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Практика ЄСПЛ",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "злочин вчинений ним відноситься до кримінальних проступків.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обставини справи, що пом`якшують покарання: визнання вини , щире каяття, активне сприяння розкриттю кримінального правопорушення та відсутність обтяжуючих обставин.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Те, що обвинувачений раніше не судимий, має позитивну характеристику , у лікаря нарколога та психіатра не перебуває",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "повідомив, що хоча офіційно не працює має можливість за рахунок того , що працює за цивільно -правовими договорами та утримання домашнього господарства понести покарання у вигляді штрафу та сплатити його",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Потерпілий ОСОБА_6 в судове засідання не з`явився, повідомлений належним чином , в попередньому засідання йому роз`яснені права та можливість подати цивільний позов, але він не скористався своїм правом , ніяких заяв та клопотань не надав.,",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні обставини",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Аналізуючи та оцінюючи досліджені в судовому засіданні письмові докази та документи, суд вважає, що винуватість ОСОБА_4 у вчиненні інкримінованого йому кримінального правопорушення повністю доводиться дослідженими в судовому засіданні доказами, які є взаємопов`язаними, повністю узгоджуються між собою та в своїй сукупності є достатніми для доведення винуватості обвинуваченого .",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Своїми умисними та протиправними діями, які виразилися в заподіянні умисного легкого тілесного ушкодження, що спричинило короткочасний розлад здоров`я, ОСОБА_4 вчиненив кримінальний проступок передбачений ч.2 ст.125 КК України.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "тому на переконання суду основне покарання йому слід призначити у виді штрафу.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "тому суд вирішив провести судове засідання за його відсутності.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальне рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Запобіжний захід обвинуваченому ОСОБА_4 не обирався.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальне рішення",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P07a",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "злочин вчинений ним відноситься до кримінальних проступків.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P07b",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обставини справи, що пом`якшують покарання: визнання вини , щире каяття, активне сприяння розкриттю кримінального правопорушення та відсутність обтяжуючих обставин.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P07c",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обвинувачений раніше не судимий, має позитивну характеристику , у лікаря нарколога та психіатра не перебуває",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P07d",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "хоча офіційно не працює має можливість за рахунок того , що працює за цивільно -правовими договорами та утримання домашнього господарства понести покарання у вигляді штрафу та сплатити його",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Опис умисних дій обвинуваченого (нанесення численних ударів) підтверджує факт заподіяння тілесних ушкоджень, що є підставою для правової кваліфікації за ч.2 ст.125 КК України."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Висновок судово-медичної експертизи про легкі тілесні ушкодження, що спричинили короткочасний розлад здоров`я, відповідає ознакам складу кримінального проступку за ч.2 ст.125 КК України."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Повне визнання вини обвинуваченим є доказом, який суд враховує при висновку про доведеність вини."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Норма ст.94 КПК України визначає критерії оцінки доказів, на підставі яких суд робить висновок про доведеність вини."
+      },
+      {
+        "id": "E05",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Висновок про доведеність вини обумовлює можливість надати вчиненому діянню належну правову кваліфікацію."
+      },
+      {
+        "id": "E06",
+        "source": "C02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Встановлена правова кваліфікація діяння є підставою для визначення виду та міри покарання, зокрема штрафу."
+      },
+      {
+        "id": "E07",
+        "source": "P05",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Загальні засади призначення покарання (ст.50, 65 КК) орієнтують суд призначати покарання, необхідне й достатнє для виправлення та превенції, що узгоджується з вибором штрафу."
+      },
+      {
+        "id": "E08",
+        "source": "P06",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Позиції ЄСПЛ щодо законності та пропорційності втручання підкріплюють висновок про співмірність призначення штрафу у цій справі."
+      },
+      {
+        "id": "E09",
+        "source": "P07",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Кваліфікація діяння як кримінального проступку виправдовує застосування менш суворого покарання, як-от штраф."
+      },
+      {
+        "id": "E10",
+        "source": "P08",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Наявність пом`якшуючих обставин та відсутність обтяжуючих обґрунтовують м`якіше покарання у вигляді штрафу."
+      },
+      {
+        "id": "E11",
+        "source": "P09",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Позитивні дані про особу обвинуваченого (не судимий, позитивна характеристика, не перебуває на обліку) сприяють призначенню менш суворого покарання."
+      },
+      {
+        "id": "E12",
+        "source": "P10",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Повідомлена здатність обвинуваченого сплатити штраф підтверджує реалістичність та доцільність такого виду покарання."
+      },
+      {
+        "id": "E13",
+        "source": "P11",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Належне повідомлення потерпілого та відсутність клопотань з його боку дають суду підстави проводити засідання без нього."
+      },
+      {
+        "id": "E14",
+        "source": "P11",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.79,
+        "justification": "Прохання обвинуваченого про штраф враховане судом серед підстав для вибору саме цього виду покарання."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C01",
+        "components": [
+          "P03",
+          "P04",
+          "C01"
+        ],
+        "edges": [
+          "E03",
+          "E04"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C02",
+        "components": [
+          "P01",
+          "P02",
+          "C01",
+          "C02"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E05"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "SENTENCING",
+        "main_claim": "C03",
+        "components": [
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "C02",
+          "C03"
+        ],
+        "edges": [
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11",
+          "E12"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C04",
+        "components": [
+          "P11",
+          "C04"
+        ],
+        "edges": [
+          "E13"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C05",
+        "components": [
+          "C05"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 15,
+      "number_of_claims": 5,
+      "number_of_support_edges": 14,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 5,
+      "root_claims": [
+        "C03",
+        "C04",
+        "C05"
+      ],
+      "unsupported_claims": [
+        "C05"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 1,
+      "items_added": 5
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.90; review 6 flagged missing or hallucinated field(s)."
+  }
+}

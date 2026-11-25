@@ -1,0 +1,911 @@
+{
+  "document_id": "116220471",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "з 24.02.2022 по теперішній час у зв`язку з триваючою широкомасштабною збройною агресією Російської Федерації проти України відповідно до Закону України «Про затвердження Указу Президента України «Про введення воєнного стану в Україні» від 24.02.2022 за №64/2022» за №2102-ІХ від 24.02.2022 та Указу Президента України №133/2022 від 14.03.2022 «Про продовження строку дії воєнного стану в Україні» відповідно до пункту 20 частини першої статті 106 Конституції України, Закону України \"Про правовий режим воєнного стану\" в Україні діє воєнний стан з 05 години 30 хвилин 24 лютого 2022 року строком на 30 діб, який в подальшому неодноразово продовжувався і діяв на час вчинення вказаного нижче діяння, у період якого ОСОБА_3 , вчинила умисний корисливий злочин проти власності в умовах воєнного стану на території Покровського району міста Кривого Рогу за наступних обставин.",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "15.12.2023 приблизно об 07:30 години,",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "з дозволу потерпілої ОСОБА_6 , перебувала за місцем мешкання останньої, а саме за адресою: АДРЕСА_3 ,",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в приміщенні кухонної кімнати, ОСОБА_3 побачила на підлозі грошові кошти на суму 2560 грн., які належать ОСОБА_6",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в цей час в неї раптово виник кримінально протиправний умисел, направлений на таємне викрадення чужого майна та обернення його на свою користь.",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "з метою реалізації раптово виниклого кримінально протиправного умислу, спрямованого на викрадення грошових коштів та звернення їх на свою користь,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "скориставшись відсутністю свідків, очевидців, та впевнившись, що її дії носять таємний характер та за нею ніхто не спостерігає,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "діючи з корисливих мотивів,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "шляхом вільного доступу, перебуваючи з дозволу власника в приміщенні кухонної кімнати вищезазначеної квартирі,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "таємно викрала грошові кошти на суму 2560 грн, які належать потерпілій ОСОБА_6 .",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Після цього, ОСОБА_3 з місця скоєння злочину з викраденим майном зникла, обернувши викрадене на свою користь та розпорядившись ним на власний розсуд.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Внаслідок своїх кримінально-протиправних дій, ОСОБА_3 спричинила потерпілій ОСОБА_6 майнову шкоду на суму 2560 гривень",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Досудовим розслідуванням дії ОСОБА_3 кваліфіковані за ч. 4 ст. 185 КК України за ознаками таємного викрадення чужого майна (крадіжка), вчиненого в умовах воєнного стану.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі ч. 1 ст. 473 Кримінального процесуального кодексу України, у судовому засіданні прокурор заявив клопотання про затвердження угоди про визнання винуватості від 22 грудня 2023 року, укладеної між прокурором Криворізької північної окружної прокуратури Дніпропетровської області ОСОБА_4 , якому на підставі ст.ст. 36, 37 КПК України надані повноваження прокурора у даному кримінальному провадженні, та ОСОБА_3 , яка є обвинуваченою в цьому кримінальному провадженні, за участю захисника ОСОБА_5 .",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "яка ніким не оспорюється",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_3 повністю визнає свою винуватість у зазначених діяннях і зобов`язався беззастережно визнати обвинувачення в обсязі обвинувального акту у судовому провадженні.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "сторони погодилися на призначення покарання ОСОБА_3 за ч. 4 ст. 185 КК України у вигляді позбавлення волі строком на 5 (п`ять) років.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі ст. 75 КК України сторони погоджуються звільнити ОСОБА_3 від відбування покарання з випробувальним строком.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обвинувачена ОСОБА_3 вказала, що цілком розуміє свої права та наслідки укладення угоди, що передбачені ст. 473, ч. 4 ст. 474 Кримінального процесуального кодексу України, які їй були роз`яснені судом в ході підготовчого судового засідання.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Також, в підготовчому судовому засіданні обвинувачена ОСОБА_3 беззастережно визнала свою вину за ч. 4 ст. 185 КК України та надала суду згоду на призначення узгодженого сторонами угоди покарання.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Захисник ОСОБА_5 в судовому засіданні також просив затвердити угоду про визнання винуватості.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Прокурор ОСОБА_4 вважав за доцільне затвердити угоду про визнання винуватості з огляду на наявність правових підстав для цього і відповідність угоди вимогам закону.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вивчивши обвинувальний акт,",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "перевіривши угоду про визнання винуватості,",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "наявність письмової згоди потерпілої на укладення угоди прокурором, що відповідає вимогам ч. 4 ст. 469, ст. 472 КПК України,",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "з`ясувавши у обвинуваченої, що вона розуміє викладені в ч. 4 ст. 474 КПК України обставини, наслідки укладення та затвердження угоди, передбачені ст. 473 КПК України, характер обвинувачення, щодо якого вона визнає себе винуватою, вид покарання, а також інші заходи, які будуть застосовані до неї у разі затвердження угоди судом,",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "переконавшись, що укладення даної угоди сторонами є добровільним,",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду",
+        "support_status": null
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "правильності правової кваліфікації злочинних дій обвинуваченої ОСОБА_3 за ч. 4 ст. 185 КК України за ознаками таємного викрадення чужого майна (крадіжка), вчиненого в умовах воєнного стану,",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P27",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вислухавши думку учасників судового провадження,",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду",
+        "support_status": null
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд вважає за необхідне затвердити угоду про визнання винуватості.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Підстав для відмови у затвердженні угоди про визнання винуватості суд не вбачає.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Речові докази та процесуальні витрати відсутні.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші положення вироку",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Запобіжний захід у вигляді особистого зобов`язання залишити без змін до набранням вироком законної сили.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші положення вироку",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. ст. 314-316, 472, 474, 475 КПК України, суд, -",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави рішення",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Дата і час події конкретизують обставини викрадення та підкріплюють факт його вчинення."
+      },
+      {
+        "id": "E02",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Перебування з дозволу власника за конкретною адресою пояснює доступ до майна і підкріплює факт викрадення."
+      },
+      {
+        "id": "E03",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Фіксація наявності грошових коштів і їх належності потерпілій напряму підкріплює факт крадіжки."
+      },
+      {
+        "id": "E04",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Опис умислу на таємне викрадення логічно веде до вчинення крадіжки."
+      },
+      {
+        "id": "E05",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Мета реалізувати умисел на викрадення підкріплює висновок про фактичне вчинення крадіжки."
+      },
+      {
+        "id": "E06",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Відсутність свідків і усвідомлення таємності дій відповідає ознаці таємного викрадення."
+      },
+      {
+        "id": "E07",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Корисливий мотив підтверджує спрямованість дій на заволодіння чужим майном."
+      },
+      {
+        "id": "E08",
+        "source": "P09",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Опис способу доступу до приміщення пояснює можливість вчинити викрадення."
+      },
+      {
+        "id": "E09",
+        "source": "P10",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Зникнення з місця події з викраденим майном підтверджує здійснення викрадення."
+      },
+      {
+        "id": "E10",
+        "source": "P11",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Заподіяння майнової шкоди у відповідній сумі узгоджується з фактом крадіжки."
+      },
+      {
+        "id": "E11",
+        "source": "P01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Наявність воєнного стану, підтверджена указами і законом, обґрунтовує кваліфікуючу ознаку «в умовах воєнного стану» за ч. 4 ст. 185 КК."
+      },
+      {
+        "id": "E12",
+        "source": "P07",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Таємний характер дій є необхідною ознакою крадіжки, що входить до правової кваліфікації."
+      },
+      {
+        "id": "E13",
+        "source": "P05",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Формування умислу на таємне викрадення підтверджує суб’єктивну сторону складу злочину за ст. 185 КК."
+      },
+      {
+        "id": "E14",
+        "source": "P06",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Зазначення мети звернути кошти на свою користь підкріплює корисливий умисел, релевантний кваліфікації."
+      },
+      {
+        "id": "E15",
+        "source": "P08",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Корисливий мотив узгоджується з кваліфікацією крадіжки за ст. 185 КК."
+      },
+      {
+        "id": "E16",
+        "source": "C01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Встановлений факт таємного викрадення грошових коштів є підставою для правової кваліфікації."
+      },
+      {
+        "id": "E17",
+        "source": "C02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Кваліфікація дій органом досудового розслідування узгоджується з висновком суду про правильність правової кваліфікації."
+      },
+      {
+        "id": "E18",
+        "source": "P13",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Вказівка, що правова кваліфікація ніким не оспорюється, підсилює висновок суду про її правильність."
+      },
+      {
+        "id": "E19",
+        "source": "P12",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Прокурор звернувся з клопотанням на підставі ч. 1 ст. 473 КПК, що є процесуальною підставою для затвердження угоди."
+      },
+      {
+        "id": "E20",
+        "source": "P14",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Повне визнання винуватості обвинуваченою є умовою та підставою для затвердження угоди."
+      },
+      {
+        "id": "E21",
+        "source": "P15",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Сторони узгодили вид і строк покарання, що є істотною умовою угоди про визнання винуватості."
+      },
+      {
+        "id": "E22",
+        "source": "P16",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Узгодження звільнення від відбування покарання з випробуванням є складовою домовленості сторін."
+      },
+      {
+        "id": "E23",
+        "source": "P17",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Суд перевірив розуміння обвинуваченою прав і наслідків, що відповідає вимогам ст. 473, 474 КПК для затвердження угоди."
+      },
+      {
+        "id": "E24",
+        "source": "P18",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Беззастережне визнання вини і згода на узгоджене покарання підтверджують добровільність і зміст угоди."
+      },
+      {
+        "id": "E25",
+        "source": "P19",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Позиція захисника на підтримку угоди свідчить про відсутність заперечень сторони захисту."
+      },
+      {
+        "id": "E26",
+        "source": "P20",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Позиція прокурора щодо доцільності затвердження підтверджує відповідність угоди вимогам закону."
+      },
+      {
+        "id": "E27",
+        "source": "P21",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Суд вивчив обвинувальний акт як необхідну умову для прийняття рішення щодо угоди."
+      },
+      {
+        "id": "E28",
+        "source": "P22",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Суд перевірив саму угоду, що прямо пов’язано з можливістю її затвердження."
+      },
+      {
+        "id": "E29",
+        "source": "P23",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Наявність письмової згоди потерпілої і відповідність ст. 469, 472 КПК є процесуальною передумовою затвердження угоди."
+      },
+      {
+        "id": "E30",
+        "source": "P24",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "З’ясування розуміння обвинуваченою наслідків й умов угоди відповідає перевіркам за ст. 473, 474 КПК."
+      },
+      {
+        "id": "E31",
+        "source": "P25",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Добровільність укладення угоди є обов’язковою умовою її затвердження."
+      },
+      {
+        "id": "E32",
+        "source": "P27",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Вислуховування учасників провадження є елементом судової перевірки перед затвердженням угоди."
+      },
+      {
+        "id": "E33",
+        "source": "P26",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Посилання суду на ст. 314–316, 472, 474, 475 КПК визначає правову основу ухвалення рішення."
+      },
+      {
+        "id": "E34",
+        "source": "C05",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Відсутність підстав для відмови логічно обґрунтовує необхідність затвердження угоди."
+      },
+      {
+        "id": "E35",
+        "source": "C03",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Переконаність суду у правильності правової кваліфікації є одним з критеріїв прийнятності угоди для її затвердження."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "FACTUAL",
+        "main_claim": "C01",
+        "components": [
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P11",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C03",
+        "components": [
+          "P01",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "C01",
+          "C02",
+          "P13",
+          "C03"
+        ],
+        "edges": [
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C04",
+        "components": [
+          "P12",
+          "P14",
+          "P15",
+          "P16",
+          "P17",
+          "P18",
+          "P19",
+          "P20",
+          "P21",
+          "P22",
+          "P23",
+          "P24",
+          "P25",
+          "P26",
+          "P27",
+          "C05",
+          "C03",
+          "C04"
+        ],
+        "edges": [
+          "E19",
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26",
+          "E27",
+          "E28",
+          "E29",
+          "E30",
+          "E31",
+          "E32",
+          "E33",
+          "E34",
+          "E35"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C06",
+        "components": [
+          "C06"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C07",
+        "components": [
+          "C07"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 27,
+      "number_of_claims": 7,
+      "number_of_support_edges": 35,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 5,
+      "root_claims": [
+        "C04",
+        "C06",
+        "C07"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 0
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.95; review 1 flagged missing or hallucinated field(s)."
+  }
+}

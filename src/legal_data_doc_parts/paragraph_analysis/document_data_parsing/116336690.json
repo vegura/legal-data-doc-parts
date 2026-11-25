@@ -1,0 +1,865 @@
+{
+  "document_id": "116336690",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_3 10 грудня 2023 року близько 15:30 години знаходячись на подвір`ї домоволодіння по АДРЕСА_1 , усвідомлюючи суспільно небезпечний характер своїх дій, передбачаючи їх суспільно небезпечні наслідки та бажаючи їх настання, на ґрунті раптово виниклого конфлікту, з особистих мотивів, з метою заподіяння тілесних ушкоджень іншій особі, умисно наніс один удар кулаком правої руки в район лівої нижньої щелепи та один удар кулаком лівої руки в район правої верхньої частини голови ОСОБА_4 , ІНФОРМАЦІЯ_2 . Після чого, продовжуючи свій злочинний умисел спрямований на спричинення тілесних ушкоджень ОСОБА_4 , перебуваючи близько 16:00 год. поблизу будинку АДРЕСА_1 , наніс останній два удари кулаками рук, а саме кулаком лівої руки в район задньої частини голови та другий удар кулаком правої руки в район верхньої частини голови, в результаті чого заподіяв ОСОБА_4 тілесні ушкодження у вигляді гематом голови (у правій скроневій та потиличній області), струсу головного мозку, яке згідно з висновком судово-медичної експертизи № 35/мс від 25.12.2023 року відноситься до категорії легких тілесних ушкоджень, що спричинило короткочасний розлад здоров`я",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "ВСТАНОВИВ:",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Зазначені дії ОСОБА_3 органом досудового розслідування кваліфіковано за частиною другою статті 125 КК України, умисне легке тілесне ушкодження, що спричинило короткочасний розлад здоров`я.",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція обвинувачення",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Прокурор звернувся до суду із клопотанням про розгляд зазначеного обвинувального акта у спрощеному порядку без проведення судового розгляду в судовому засіданні,",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "свою винуватість у вчиненні кримінального проступку, передбаченого частиною другою статті 125 КК України, він беззаперечно визнає;",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "йому роз`яснено зміст встановлених досудовим розслідуванням обставин, вони йому зрозумілі, він згоден із встановленими досудовим розслідуванням обставинами;",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "йому роз`яснено та він зрозумів, що у разі надання згоди на розгляд обвинувального акта у спрощеному порядку він буде позбавлений права оскаржувати вирок в апеляційному порядку з підстав розгляду провадження за відсутності учасників судового провадження, недослідження доказів у судовому засіданні або з метою оспорити встановлені досудовим розслідуванням обставини;",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "він згоден на розгляд обвинувального акта у спрощеному провадженні.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У вказаній заяві захисником підтверджено добровільність беззаперечного визнання винуватості підозрюваним, його згоду із встановленими в результаті досудового розслідування обставинами і згоду на розгляд обвинувального акта за його відсутності.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "їй роз`яснено зміст встановлених досудовим розслідуванням обставин, вони їй зрозумілі, вона згодна із встановленими досудовим розслідуванням обставинами;",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "їй роз`яснено та вона зрозуміла, що у разі надання згоди на розгляд обвинувального акта у спрощеному порядку вона буде позбавлена права оскаржувати вирок в апеляційному порядку з підстав розгляду провадження за відсутності учасників судового провадження, недослідження доказів у судовому засіданні або з метою оспорити встановлені досудовим розслідуванням обставини;",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P11prem",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вона згодна на розгляд обвинувального акта у спрощеному провадженні.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P12prem",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Положеннями частин другої та третьої статті 381 КПК України передбачено, що суд розглядає обвинувальний акт щодо вчинення кримінального проступку без проведення судового розгляду в судовому засіданні за відсутності учасників судового провадження, якщо обвинувачений не оспорює встановлені під час дізнання обставини і згоден з розглядом обвинувального акта.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова основа спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P13prem",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Спрощене провадження щодо кримінальних проступків здійснюється згідно із загальними правилами судового провадження, передбаченими КПК України, з урахуванням положень параграфа 1 Глави 30.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова основа спрощеного провадження",
+        "support_status": null
+      },
+      {
+        "id": "P14prem",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "З матеріалів кримінального провадження, зокрема, протоколу допиту підозрюваного та протоколу проведення слідчого експерименту, встановлено, що вони засвідчують беззаперечне визнання обвинуваченим своєї винуватості.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Докази та процесуальні документи",
+        "support_status": null
+      },
+      {
+        "id": "P15prem",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вирішуючи питання про призначення обвинуваченому покарання, суд керується вимогами статей 65-67 КК України, роз`ясненнями, що містяться у постанові Пленуму Верховного Суду України № 7 від 24 жовтня 2003 року «Про практику призначення судами кримінального покарання», та враховує позицію Європейського суду з прав людини, відповідно до якої покарання, як втручання держави в приватне життя особи, повинно спрямовуватись на досягнення справедливого балансу між загальними інтересами суспільства та потребою захисту основоположних прав особи, воно має бути законним, тобто несвавільним, пропорційним, тобто не становити надмірного тягаря для особи, виходить з принципів законності, справедливості, обґрунтованості та індивідуалізації покарання.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P16prem",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При визначенні виду та міри покарання обвинуваченому, суд враховує характер та ступінь суспільної небезпеки вчиненого ним кримінального правопорушення, яке відноситься до кримінальних проступків, особу обвинуваченого, який за місцем проживання характеризується негативно, раніше не притягувався до кримінальної відповідальності, на утриманні неповнолітніх дітей не має, не працює, на обліку у лікаря нарколога та у лікаря психіатра не перебуває, не є депутатом, на обліку в ДУ «Центр пробації» не перебуває.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P17prem",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "До обставин, що пом`якшують покарання, суд відносить щире каяття.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P18prem",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставин, що обтяжують покарання, суд не встановив.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P19prem",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "найменш суворого за видом з числа передбачених санкцією частини другої статті 125 КК України, втім у максимальному його розмірі,",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P20prem",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись статтями 369-371, 373, 374, 376, 381-382 КПК України, Великоолександрівський районний суд Херсонської області",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Законодавчі підстави",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Із вказаних обставин, а також матеріалів кримінального провадження суд встановив, що прокурор впевнився у добровільності згоди підозрюваного та потерпілої на розгляд обвинувального акта у спрощеному провадженні та у суду відповідний факт не викликає сумніву.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні висновки",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "З огляду на вказані обставини учасники кримінального провадження не викликалися, докази у судовому засіданні не досліджувалися.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні висновки",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Вивчивши обвинувальний акт та додані до нього матеріали кримінального провадження, суд дійшов висновку, що вина ОСОБА_3 у вчиненні кримінального проступку, передбаченого частиною другою статті 125 КК України є об`єктивно доведеною поза розумним сумнівом.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки суду про вину",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Дії обвинуваченого слід кваліфікувати за частиною другою статті 125 КК України, як умисне легке тілесне ушкодження, що спричинило короткочасний розлад здоров`я.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Таке покарання, на думку суду, є справедливим і достатнім, а також відповідатиме його меті.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "у виді штрафу в розмірі ста неоподатковуваних мінімумів доходів громадян.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Запобіжний захід по даному кримінальному провадженню не застосовувався.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов у кримінальному провадженні не заявлений.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "їй роз`яснено та вона зрозуміла, що у разі надання згоди на розгляд обвинувального акта у спрощеному порядку вона буде позбавлена права оскаржувати вирок в апеляційному порядку з підстав розгляду провадження за відсутності учасників судового провадження, недослідження доказів у судовому засіданні або з метою оспорити встановлені досудовим розслідуванням обставини;",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення потерпілої",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вона згодна на розгляд обвинувального акта у спрощеному провадженні.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення потерпілої",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Положеннями частин другої та третьої статті 381 КПК України передбачено, що суд розглядає обвинувальний акт щодо вчинення кримінального проступку без проведення судового розгляду в судовому засіданні за відсутності учасників судового провадження, якщо обвинувачений не оспорює встановлені під час дізнання обставини і згоден з розглядом обвинувального акта.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми права (КПК)",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Спрощене провадження щодо кримінальних проступків здійснюється згідно із загальними правилами судового провадження, передбаченими КПК України, з урахуванням положень параграфа 1 Глави 30.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми права (КПК)",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "З матеріалів кримінального провадження, зокрема, протоколу допиту підозрюваного та протоколу проведення слідчого експерименту, встановлено, що вони засвідчують беззаперечне визнання обвинуваченим своєї винуватості.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Матеріали кримінального провадження",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Вирішуючи питання про призначення обвинуваченому покарання, суд керується вимогами статей 65-67 КК України, роз`ясненнями, що містяться у постанові Пленуму Верховного Суду України № 7 від 24 жовтня 2003 року «Про практику призначення судами кримінального покарання», та враховує позицію Європейського суду з прав людини, відповідно до якої покарання, як втручання держави в приватне життя особи, повинно спрямовуватись на досягнення справедливого балансу між загальними інтересами суспільства та потребою захисту основоположних прав особи, воно має бути законним, тобто несвавільним, пропорційним, тобто не становити надмірного тягаря для особи, виходить з принципів законності, справедливості, обґрунтованості та індивідуалізації покарання.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми права (КК, практика)",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При визначенні виду та міри покарання обвинуваченому, суд враховує характер та ступінь суспільної небезпеки вчиненого ним кримінального правопорушення, яке відноситься до кримінальних проступків, особу обвинуваченого, який за місцем проживання характеризується негативно, раніше не притягувався до кримінальної відповідальності, на утриманні неповнолітніх дітей не має, не працює, на обліку у лікаря нарколога та у лікаря психіатра не перебуває, не є депутатом, на обліку в ДУ «Центр пробації» не перебуває.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що враховуються при призначенні покарання",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "До обставин, що пом`якшують покарання, суд відносить щире каяття.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пом'якшуючі обставини",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обставин, що обтяжують покарання, суд не встановив.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обтяжуючі обставини",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Підтвердження того, що обвинуваченому роз`яснені та зрозумілі обставини, обґрунтовує висновок суду про добровільність згоди."
+      },
+      {
+        "id": "E02",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Роз`яснення наслідків згоди (в т.ч. обмеження права на оскарження) свідчить про усвідомленість та добровільність такої згоди."
+      },
+      {
+        "id": "E03",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Пряма згода обвинуваченого на спрощений розгляд підтверджує добровільність, про яку зазначає суд."
+      },
+      {
+        "id": "E04",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Захисник підтвердив добровільність беззаперечного визнання та згоду, що підсилює висновок суду про відсутність сумнівів щодо добровільності."
+      },
+      {
+        "id": "E05",
+        "source": "P09",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Потерпілій роз`яснені та зрозумілі обставини і вона погодилась з ними — це підтримує висновок про її добровільну згоду."
+      },
+      {
+        "id": "E06",
+        "source": "P10",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Роз`яснення потерпілій наслідків згоди свідчить про усвідомлений характер такої згоди."
+      },
+      {
+        "id": "E07",
+        "source": "P11prem",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Пряма згода потерпілої на спрощений розгляд підтверджує добровільність, встановлену судом."
+      },
+      {
+        "id": "E08",
+        "source": "P14prem",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Процесуальні документи (протоколи) засвідчують беззаперечне визнання, що кореспондує з добровільністю згод на спрощене провадження."
+      },
+      {
+        "id": "E09",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Встановлена судом добровільність згод учасників є підставою для проведення провадження без їх виклику; відсутність дослідження доказів зафіксована в цьому ж пункті."
+      },
+      {
+        "id": "E10",
+        "source": "P12prem",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Норма КПК передбачає можливість розгляду без учасників за наявності відповідних згод; це узгоджується з процесуальним рішенням суду."
+      },
+      {
+        "id": "E11",
+        "source": "P13prem",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Загальне правило щодо спрощеного провадження окреслює правову рамку, в межах якої суд провів розгляд без учасників."
+      },
+      {
+        "id": "E12",
+        "source": "P03",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Клопотання прокурора про спрощений розгляд є ініціюючою процесуальною дією, що логічно пов`язана з рішенням не викликати учасників."
+      },
+      {
+        "id": "E13",
+        "source": "P01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Опис фактичних обставин нападу та наслідків становить основу для висновку суду про доведеність вини."
+      },
+      {
+        "id": "E14",
+        "source": "P04",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Беззаперочне визнання вини обвинуваченим посилює висновок про доведеність вини поза розумним сумнівом."
+      },
+      {
+        "id": "E15",
+        "source": "P14prem",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Протоколи допиту та слідчого експерименту засвідчують визнання вини, що підтримує висновок суду."
+      },
+      {
+        "id": "E16",
+        "source": "P01",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Фактичні дані про заподіяння легких тілесних ушкоджень (короткочасний розлад здоров`я) відповідають ознакам ч. 2 ст. 125 КК України."
+      },
+      {
+        "id": "E17",
+        "source": "P02",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.74,
+        "justification": "Кваліфікація органу досудового розслідування узгоджується з висновком суду щодо правової кваліфікації."
+      },
+      {
+        "id": "E18",
+        "source": "P15prem",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Суд посилається на загальні принципи і норми щодо призначення покарання, що обґрунтовує висновок про справедливість і достатність обраного покарання."
+      },
+      {
+        "id": "E19",
+        "source": "P16prem",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Ураховані дані про характер правопорушення та особу обвинуваченого слугують підставами для висновку про відповідність покарання меті."
+      },
+      {
+        "id": "E20",
+        "source": "P17prem",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Наявність пом`якшуючої обставини (щире каяття) сприяє висновку про справедливість і достатність обраного покарання."
+      },
+      {
+        "id": "E21",
+        "source": "P18prem",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Відсутність обтяжуючих обставин підтримує висновок про достатність покарання без його посилення."
+      },
+      {
+        "id": "E22",
+        "source": "P19prem",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Фраза про вибір найменш суворого за видом, але максимального за розміром штрафу відображає мотивування пропорційності покарання."
+      },
+      {
+        "id": "E23",
+        "source": "C04",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Правильна кваліфікація діяння визначає межі санкції, що впливає на оцінку справедливості обраного покарання."
+      },
+      {
+        "id": "E24",
+        "source": "C03",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.79,
+        "justification": "Доведеність вини є необхідною передумовою для оцінки та призначення покарання; це логічно підсилює висновок про його достатність."
+      },
+      {
+        "id": "E25",
+        "source": "C05",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Висновок про справедливість і достатність покарання безпосередньо підкріплює рішення про конкретний вид і розмір штрафу."
+      },
+      {
+        "id": "E26",
+        "source": "P20prem",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Посилання на норми КПК у завершальній частині вироку вказує на правову основу ухвалення рішення, у тому числі щодо призначення покарання."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C02",
+        "components": [
+          "P03",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P11prem",
+          "P12prem",
+          "P13prem",
+          "P14prem",
+          "C01",
+          "C02"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11",
+          "E12"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "GUILT",
+        "main_claim": "C03",
+        "components": [
+          "P01",
+          "P04",
+          "P14prem",
+          "C03"
+        ],
+        "edges": [
+          "E13",
+          "E14",
+          "E15"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C04",
+        "components": [
+          "P01",
+          "P02",
+          "C04"
+        ],
+        "edges": [
+          "E16",
+          "E17"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "SENTENCING",
+        "main_claim": "C06",
+        "components": [
+          "P15prem",
+          "P16prem",
+          "P17prem",
+          "P18prem",
+          "P19prem",
+          "C04",
+          "C03",
+          "C05",
+          "C06",
+          "P20prem"
+        ],
+        "edges": [
+          "E18",
+          "E19",
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C07",
+        "components": [
+          "C07"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C08",
+        "components": [
+          "C08"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 29,
+      "number_of_claims": 8,
+      "number_of_support_edges": 26,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 6,
+      "root_claims": [
+        "C02",
+        "C06",
+        "C07",
+        "C08"
+      ],
+      "unsupported_claims": [
+        "C07",
+        "C08"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 9
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.88; review 12 flagged missing or hallucinated field(s)."
+  }
+}

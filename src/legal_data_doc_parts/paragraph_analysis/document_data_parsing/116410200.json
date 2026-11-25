@@ -1,0 +1,56 @@
+{
+  "document_id": "116410200",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч. 15 ст. 615 КПК України, в умовах дії воєнного стану після складання та підписання повного тексту вироку суд має право обмежитися проголошенням його резолютивної частини з обов`язковим врученням учасникам судового провадження повного тексту вироку в день його проголошення.",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі викладеного, керуючись ч. 1 ст. 309 КК України, ст. 368, 371, 374, 394, 395, 468, 469, 472-475 КПК України, суд, -",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      }
+    ],
+    "relations": [],
+    "arguments": [],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 2,
+      "number_of_claims": 0,
+      "number_of_support_edges": 0,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 0,
+      "root_claims": [],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 0
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.97; review 0 flagged missing or hallucinated field(s)."
+  }
+}

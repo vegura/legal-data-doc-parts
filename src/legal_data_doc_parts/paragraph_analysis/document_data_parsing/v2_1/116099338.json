@@ -1,0 +1,1189 @@
+{
+  "document_id": "116099338",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "15.07.2023, приблизно о 20:00 год, перебуваючи  у м. Львові на вул. Полуничній, під час прогулянки на території садового кооперативу «Золотий ранет»",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "маючи умисел на незаконне придбання та зберігання наркотичних засобів",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "у порушення вимог Закону України «Про наркотичні засоби, психотропні речовини і прекурсори» від 15 лютого 1995 року",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини (нормативна підстава)",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "на узбіччі стежки, біля одного із дерев, придбав (знайшов) полімерний пакет із порошкоподібною речовиною білого кольору.",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "усвідомлюючи, що у вказаному полімерному пакеті знаходиться психотропна речовина",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "залишив його при собі з метою власного вживання, без мети збуту",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в котрій згідно висновку експертизи наркотичних засобів, психотропних речовин, їх аналогів та прекурсорів №CЕ-19/114-23/14081-НЗПРАП від 06.09.2023 виявлено PVP, що відноситься до особливо небезпечних психотропних речовин, обіг яких обмежено, масою    0,3388 грам.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Докази (висновок експерта)",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "у порушення вимог Закону України «Про наркотичні засоби, психотропні речовини і прекурсори» від 15 лютого 1995 року",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини (нормативна підстава)",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "15.07.2023, приблизно о 20:15 год, ОСОБА_3 , перебуваючи на вул.Полуничній у м. Львові був зупинений працівниками ТОР УПП у Львівській області ДПП",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "повідомив про те, що зберігає при собі полімерний пакет з порошкоподібною речовиною білого кольору",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "у період часу з 21:27 год по 21:31 год, добровільно під час огляду місця події видав працівникам поліції",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "зберігав зазначену психотропну речовину для власного вживання без мети збуту",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Таким чином, ОСОБА_3 обвинувачується у незаконному придбанні та зберіганні психотропної речовини без мети збуту, тобто у вчиненні кримінального проступку, передбаченого ч.1 ст. 309 КК України.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Формулювання обвинувачення",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений ОСОБА_3 повністю і беззаперечно визнав свою винуватість у вчиненні кримінального проступку, передбаченого ч.1 ст.309 КК України,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "не оспорював встановлені органом досудового слідства обставини",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "надав згоду на розгляд обвинувального акта в порядку спрощеного провадження без його участі, ознайомлений з обмеженням права апеляційного оскарження.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні гарантії та позиція обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Така заява ОСОБА_3 складена в присутності адвоката ОСОБА_4 .",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні гарантії",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "у відповідності до приписів ч.2 ст.381, ч.3 ст.382 КПК України",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави розгляду",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "погодився на призначене покарання у виді штрафу у розмірі 17000 грн.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого щодо покарання",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обставини змінилися, він офіційно не працевлаштований, стабільного доходу немає, мама  також є пенсійного віку, отже в нього відсутні будь які доходи за які він міг би сплатити штраф як покарання за проступок.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого щодо покарання",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Погоджується на призначення покарання у виді обмеження волі із застосуванням ст.75 та 76 КК України.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого щодо покарання",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Прокурор в судовому засіданні визнав мотиви обвинуваченого щодо його платоспроможності як такими, що немає можливості для оплати штрафу",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція прокурора щодо покарання",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "погодилася на призанення обвинуваченому покарання у виді 1 року обмеження волі із застосуванням ст.75,76 КК України.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція прокурора щодо покарання",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "що стверджується зібраними доказами.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "враховуючи ступінь тяжкості вчиненого кримінального правопорушення, який відноситься до категорії проступків",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вчинений умисно з корисливих мотивів",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P27",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "який раніше не  судимий,",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання (дані про особу)",
+        "support_status": null
+      },
+      {
+        "id": "P28",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "визнав повністю свою вину та розкаявся у вчиненому кримінальному проступку,",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання (поведінка обвинуваченого)",
+        "support_status": null
+      },
+      {
+        "id": "P29",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "позитивно характеризується за місцем проживання,",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання (дані про особу)",
+        "support_status": null
+      },
+      {
+        "id": "P30",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "на обліках в психоневрологічному диспансері та медичному центрі превенції та терапії узалежнень не перебуває,",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання (дані про особу)",
+        "support_status": null
+      },
+      {
+        "id": "P31",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "працездатний,",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання (дані про особу)",
+        "support_status": null
+      },
+      {
+        "id": "P32",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "такі пом`якшуючі обставини та обставини, які обтяжують покарання судом не встановлені.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P33",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Овинувальний акт за ч.1 та ч.2 ст.307 КК України розглядається Франківським районним судом м.Львова більш як 5 років, суждове рішенння не прийнято.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші відомості",
+        "support_status": null
+      },
+      {
+        "id": "P34",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в порядку ст. 100 КПК України",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази (нормативна підстава)",
+        "support_status": null
+      },
+      {
+        "id": "P35",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. 107,370, 373, 374, 381, 382 КПК України, суд,-",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оперативна частина — правові підстави",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "вина ОСОБА_3 доведена повністю",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка доказів та висновки",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "дії обвинуваченого органом досудового слідства кваліфіковано вірно за ч.1 ст.309 КК України",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "ОСОБА_3 необхідно обрати покарання у виді обмеження волі із застосуванням ст.75, 76 КК України",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання та висновок",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд вважає за можливим провести розгляд кримінального провадження про обвинувачення ОСОБА_3 у вчиненні кримінального проступку, передбаченого ч.1 ст.309 КК України в судовому засіданні, викликавши для участі в ньому учасників кримінального провадження для зясування обставин щодо призначення покарання.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальне рішення щодо порядку розгляду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов у кримінальному провадженні не заявлено.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Витрати, пов`язані із залученням експерта - покласти на ОСОБА_3 .",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання речових доказів вирішити в порядку ст. 100 КПК України.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Відповідно до вимог п. 3-1 ч. 2 ст. 291 КПК України, анкетні відомості викривача - відсутні.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Відомості за ст. 291 КПК України",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Відповідно до вимог п. 7-1 ч. 2 ст. 291 КПК України, підстави застосування заходів кримінально-правового характеру щодо юридичної особи, які прокурор вважає встановленими - відсутні.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Відомості за ст. 291 КПК України",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C11",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Відповідно до вимог п. 8-1 ч. 2 ст. 291 КПК України, розмір пропонованої винагороди викривачу - відсутній.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Відомості за ст. 291 КПК України",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "анкетні відомості викривача - відсутні.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Відомості за ст. 291 КПК України",
+        "support_status": "SUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Точні час і місце події підтверджують обставини виявлення та набуття речовини, що є підставою для висновку про доведеність вини."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Зазначення умислу на незаконне придбання і зберігання обґрунтовує висновок про вину."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Посилання на закон вказує на протиправність поведінки, що підкріплює доведеність вини."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Факт знаходження й привласнення пакета з речовиною прямо свідчить про придбання і зберігання."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Усвідомлення характеру речовини свідчить про умисний характер діяння."
+      },
+      {
+        "id": "E06",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Зазначення мети власного вживання підтверджує зберігання без мети збуту як елемент складу."
+      },
+      {
+        "id": "E07",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Висновок експерта встановлює вид і масу психотропної речовини, що є ключовим доказом."
+      },
+      {
+        "id": "E08",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Повторне посилання на норми закону підкреслює незаконність дій обвинуваченого."
+      },
+      {
+        "id": "E09",
+        "source": "P09",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Факт зупинки невдовзі після події у тій самій локації підтверджує безперервність зберігання."
+      },
+      {
+        "id": "E10",
+        "source": "P10",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.89,
+        "justification": "Самопризнання про наявність пакета з речовиною підкріплює доведеність зберігання."
+      },
+      {
+        "id": "E11",
+        "source": "P11",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Добровільна видача речовини під час огляду є прямим підтвердженням факту зберігання."
+      },
+      {
+        "id": "E12",
+        "source": "P12",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Вказівка на зберігання для власного вживання підтверджує відсутність мети збуту."
+      },
+      {
+        "id": "E13",
+        "source": "P14",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Повне визнання вини обвинуваченим посилює висновок суду про доведеність вини."
+      },
+      {
+        "id": "E14",
+        "source": "P15",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Неоспорювання обставин свідчить про відсутність заперечень щодо фактичної сторони діяння."
+      },
+      {
+        "id": "E15",
+        "source": "P24",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Суд прямо зазначає, що висновок про вину стверджується зібраними доказами."
+      },
+      {
+        "id": "E16",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Доведеність вини за встановленими обставинами є підставою для підтвердження правильності правової кваліфікації."
+      },
+      {
+        "id": "E17",
+        "source": "P13",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Формулювання обвинувачення містить посилання на ч.1 ст.309 КК України, що підкріплює висновок про вірну кваліфікацію."
+      },
+      {
+        "id": "E18",
+        "source": "P07",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Висновок експерта щодо PVP і маси речовини підтверджує ознаки предмета злочину, необхідні для кваліфікації."
+      },
+      {
+        "id": "E19",
+        "source": "P19",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Первісна згода на штраф демонструє готовність прийняти покарання і враховується судом при обранні виду покарання."
+      },
+      {
+        "id": "E20",
+        "source": "P20",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Відсутність стабільних доходів і непрацевлаштованість обґрунтовують недоцільність штрафу та доцільність іншого виду покарання."
+      },
+      {
+        "id": "E21",
+        "source": "P21",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Згода обвинуваченого на обмеження волі з випробуванням враховується при визначенні виду покарання."
+      },
+      {
+        "id": "E22",
+        "source": "P22",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Позиція прокурора про відсутність можливості сплати штрафу підтримує вибір покарання без штрафу."
+      },
+      {
+        "id": "E23",
+        "source": "P23",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Погодження прокурора на 1 рік обмеження волі з випробуванням безпосередньо підтримує відповідний висновок суду."
+      },
+      {
+        "id": "E24",
+        "source": "P25",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Категорія проступку і ступінь тяжкості враховуються при виборі міри покарання."
+      },
+      {
+        "id": "E25",
+        "source": "P26",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Мотив умислу враховується при індивідуалізації покарання."
+      },
+      {
+        "id": "E26",
+        "source": "P27",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Відсутність судимостей характеризує особу позитивно та впливає на м’якість покарання."
+      },
+      {
+        "id": "E27",
+        "source": "P28",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Визнання вини і каяття є обставинами, що враховуються при призначенні покарання."
+      },
+      {
+        "id": "E28",
+        "source": "P29",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Позитивна характеристика за місцем проживання сприяє призначенню м’якшого покарання з випробуванням."
+      },
+      {
+        "id": "E29",
+        "source": "P30",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Відсутність обліку в медичних закладах врахована як позитивна характеристика."
+      },
+      {
+        "id": "E30",
+        "source": "P31",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.77,
+        "justification": "Працездатність враховується при визначенні виду покарання і можливостей випробування."
+      },
+      {
+        "id": "E31",
+        "source": "P32",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Відсутність встановлених пом’якшуючих та обтяжуючих обставин відображає баланс факторів для обрання покарання."
+      },
+      {
+        "id": "E32",
+        "source": "C01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Висновок про доведеність вини є передумовою переходу до призначення покарання."
+      },
+      {
+        "id": "E33",
+        "source": "P35",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Посилання на норми КПК у резолютивній частині відображає правову основу для прийняття рішень, зокрема щодо покарання."
+      },
+      {
+        "id": "E34",
+        "source": "P16",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Згода обвинуваченого на спрощене провадження без участі є підставою для такого порядку розгляду."
+      },
+      {
+        "id": "E35",
+        "source": "P17",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Наявність захисника під час подання заяви підтверджує дотримання процесуальних гарантій."
+      },
+      {
+        "id": "E36",
+        "source": "P18",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Суд посилається на ч.2 ст.381 та ч.3 ст.382 КПК України як правову основу для розгляду в спрощеному порядку."
+      },
+      {
+        "id": "E37",
+        "source": "P14",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Повне визнання вини полегшує застосування спрощеного провадження."
+      },
+      {
+        "id": "E38",
+        "source": "P15",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Неоспорювання обставин підтверджує відсутність спору щодо фактичних даних, що дозволяє спрощений розгляд."
+      },
+      {
+        "id": "E39",
+        "source": "P34",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Пряме посилання на ст.100 КПК України є нормативною підставою для вирішення долі речових доказів."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P11",
+          "P12",
+          "P14",
+          "P15",
+          "P24",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C02",
+        "components": [
+          "C01",
+          "P13",
+          "P07",
+          "C02"
+        ],
+        "edges": [
+          "E16",
+          "E17",
+          "E18"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "SENTENCING",
+        "main_claim": "C03",
+        "components": [
+          "P19",
+          "P20",
+          "P21",
+          "P22",
+          "P23",
+          "P25",
+          "P26",
+          "P27",
+          "P28",
+          "P29",
+          "P30",
+          "P31",
+          "P32",
+          "P35",
+          "C01",
+          "C03"
+        ],
+        "edges": [
+          "E19",
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26",
+          "E27",
+          "E28",
+          "E29",
+          "E30",
+          "E31",
+          "E32",
+          "E33"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C04",
+        "components": [
+          "P16",
+          "P17",
+          "P18",
+          "P14",
+          "P15",
+          "C04"
+        ],
+        "edges": [
+          "E34",
+          "E35",
+          "E36",
+          "E37",
+          "E38"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C06",
+        "components": [
+          "C06"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C07",
+        "components": [
+          "P34",
+          "C07"
+        ],
+        "edges": [
+          "E39"
+        ]
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C05",
+        "components": [
+          "C05"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A08",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C09",
+        "components": [
+          "C09"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A09",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C10",
+        "components": [
+          "C10"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A10",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C11",
+        "components": [
+          "C11"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P26"
+        ],
+        "text": "Овинувальний акт за ч.1 та ч.2 ст.307 КК України розглядається Франківським районним судом м.Львова більш як 5 років, суждове рішенння не прийнято.",
+        "conflicts_with": "В інших частинах документа йдеться про проступок за ч.1 ст.309 КК України.",
+        "description": "У фрагменті п.23 зазначено іншу статтю (ст.307 КК України), ніж у решті рішення (ст.309 КК України), що вірогідно є технічною помилкою або згадкою іншого провадження.",
+        "likely_error": true
+      },
+      {
+        "id": "I02",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P21",
+          "P25"
+        ],
+        "text": "\"визнав повністю свою вину та розкаявся у вчиненому кримінальному проступку\" vs. \"такі пом`якшуючі обставини та обставини, які обтяжують покарання судом не встановлені.\"",
+        "conflicts_with": null,
+        "description": "Суд констатує наявність обставин, які зазвичай визнаються пом'якшуючими (щире каяття, визнання вини), але водночас заявляє, що пом'якшуючі обставини не встановлені.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 35,
+      "number_of_claims": 11,
+      "number_of_support_edges": 39,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 10,
+      "root_claims": [
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07",
+        "C08",
+        "C09",
+        "C10",
+        "C11"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 3
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.92; review 6 flagged missing or hallucinated field(s)."
+  }
+}

@@ -1,0 +1,1534 @@
+{
+  "document_id": "116168634",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до Указу Президента України від 24.02.2022 №64/2022, у зв`язку з військовою агресією російської федерації проти України, в Україні введено воєнний стан із 05 години 30 хвилин 24 лютого 2022 року строком на 30 діб.",
+          "paragraph_id": 10,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правовий режим воєнного стану",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до Указу Президента України від 14.03.2022 №133/2022 продовжено строк дії воєнного стану в Україні з 05 години 30 хвилин 26 березня 2022 року на 30 діб.",
+          "paragraph_id": 11,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правовий режим воєнного стану",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до Указу Президента України від 18.04.2022 №259/2022 продовжено строк дії воєнного стану в Україні з 05 години 30 хвилин 25 квітня 2022 року на 30 діб.",
+          "paragraph_id": 12,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правовий режим воєнного стану",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до Указу Президента України від 17.05.2022 №341/2022 продовжено строк дії воєнного стану в Україні з 05 години 30 хвилин 25 травня 2022 року на 90 діб.",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правовий режим воєнного стану",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до Указу Президента України від 12.08.2022 №573/2022 продовжено строк дії воєнного стану в Україні з 05 години 30 хвилин 12 серпня 2022 року на 90 діб.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правовий режим воєнного стану",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до Указу Президента України від 07.11.2022 №573/2022 продовжено строк дії воєнного стану в Україні з 05 години 30 хвилин 21 листопада 2022 року на 90 діб.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правовий режим воєнного стану",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до Указу Президента України від 14.02.2023 №58/2023 продовжено строк дії воєнного стану в Україні з 05 години 30 хвилин 19 лютого 2023 року строком на 90 діб.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правовий режим воєнного стану",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до Указу Президента України від 01.05.2023 року № 254/2023 продовжено строк дії воєнного стану, в Україні з 05 години 30 хвилин 20 травня 2023 року на 90 діб.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правовий режим воєнного стану",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до Указу Президента України від 26.07.2023 року № 451/2023 продовжено строк дії воєнного стану, в Україні з 05 години 30 хвилин 18 серпня 2023 року на 90 діб.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правовий режим воєнного стану",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "26 вересня 2023 року, приблизно о 10 години 00 хвилин, точного часу в ході досудового розслідування не встановлено, ОСОБА_5 проходив повз територію домоволодіння АДРЕСА_2 .",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В цей час, у ОСОБА_5 , з корисливих мотивів, з метою незаконного збагачення виник злочинний умисел направлений на таємне викрадення будь-якого майна, що знаходилося на огородженій парканом території домоволодіння АДРЕСА_2 , яке на праві приватної власності належить ОСОБА_6 .",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Реалізуючи свій злочинний умисел, ОСОБА_5 , усвідомлюючи протиправний характер своїх дій та бажаючи настання суспільно небезпечних наслідків, розуміючи, що його злочинні дії нікому не помітні, з корисливих мотивів, відчинив металевий засув, який слугує запірною системою металевої хвіртки, та через хвіртку незаконно проник на територію вищевказаного домоволодіння, яка є сховищем.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Перебуваючи незаконно на території подвір`я вищевказаного домоволодіння, ОСОБА_5 , переконавшись, що його злочинні дії нікому не помітні, діючи в умовах воєнного стану, попрямував до приміщення погребу, двері якого не оснащені запірною системою, звідки таємно викрав п`ять скляних банок з аґрусовим варенням, кожна об`ємом 0,5 літра, виготовленого у домашніх умовах, вартістю 60 гривень кожна, загальною вартістю 300 гривень 00 копійок.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Продовжуючи свої злочинні дії, ОСОБА_5 , підійшов до приміщення житлового будинку, розташованого на території вищевказаного домоволодіння, та вхідні двері через неоснащені запірною системою, проник до веранди, звідки таємно викрав продукти харчування, а саме:",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "-цукор буряковий, загальною вагою 6 кілограмів, вартістю за 1 кілограм 25 гривень 53 копійки, загальною вартістю 153 гривень 18 копійок;",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "-пляшку сонячної олії, виготовленої у домашніх умовах, об`ємом 1,5 літра, вартістю 77 гривень 51 копійок;",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У подальшому, ОСОБА_5 утримуючи викрадене майно при собі, з місця вчинення злочину зник, розпорядився ним на свій власний розсуд, чим спричинив ОСОБА_6 матеріальну шкоду на загальну суму 530 гривень 69 копійок.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Крім того, 27 вересня 2023 року, у денний час, точного часу в ході досудового розслідування не встановлено, ОСОБА_5 проходив повз територію домоволодіння АДРЕСА_2 .",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В цей час, у ОСОБА_5 , з корисливих мотивів, з метою незаконного збагачення виник злочинний умисел направлений на таємне повторне викрадення будь-якого майна, що знаходилося на огородженій парканом території домоволодіння АДРЕСА_2 , яке на праві приватної власності належить ОСОБА_6 .",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Реалізуючи свій злочинний умисел, ОСОБА_5 , усвідомлюючи протиправний характер своїх дій та бажаючи настання суспільно небезпечних наслідків, розуміючи, що його злочинні дії нікому не помітні, з корисливих мотивів, відчинив металевий засув, який слугує запірною системою металевої хвіртки, та через хвіртку незаконно проник на територію вищевказаного домоволодіння, яка є сховищем.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Перебуваючи незаконно на території подвір`я вищевказаного домоволодіння, ОСОБА_5 , переконавшись, що його злочинні дії нікому не помітні, діючи в умовах воєнного стану, попрямував до приміщення погребу, двері якого не оснащені запірною системою, звідки таємно повторно викрав таємно викрав п`ять скляних банок зі сливовим варенням, кожна об`ємом 0,5 літра, виготовленого у домашніх умовах, вартістю 60 гривень кожна, загальною вартістю 300 гривень 00 копійок.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Продовжуючи свої злочинні дії, ОСОБА_5 , підійшов до приміщення житлового будинку, розташованого на території вищевказаного домоволодіння, та вхідні двері через неоснащені запірною системою, проник до веранди, звідки повторно таємно викрав продукти харчування, а саме: цукор буряковий, загальною вагою 6,5 кілограмів, вартістю за 1 кілограм 25 гривень 53 копійки, загальною вартістю 165 гривень 95 копійок.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У подальшому, ОСОБА_5 утримуючи викрадене майно при собі, з місця вчинення злочину зник, розпорядився ним на свій власний розсуд, чим спричинив ОСОБА_6 матеріальну шкоду на загальну суму 465 гривень 95 копійок.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Крім того,        28 вересня 2023 року, у денний час, точного часу в ході досудового розслідування не встановлено, ОСОБА_5 проходив повз територію домоволодіння АДРЕСА_2 .",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В цей час, у ОСОБА_5 , з корисливих мотивів, з метою незаконного збагачення виник злочинний умисел направлений на таємне повторне викрадення будь-якого майна, що знаходилося на огородженій парканом території домоволодіння АДРЕСА_2 , яке на праві приватної власності належить ОСОБА_6 .",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Реалізуючи свій злочинний умисел, ОСОБА_5 , усвідомлюючи протиправний характер своїх дій та бажаючи настання суспільно небезпечних наслідків, розуміючи, що його злочинні дії нікому не помітні, з корисливих мотивів, відчинив металевий засув, який слугує запірною системою металевої хвіртки, та через хвіртку незаконно проник на територію вищевказаного домоволодіння, яка є сховищем.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P28",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "- дві скляних банки з аджикою, кожна об`ємом 0,5 літра, виготовленої у домашніх умовах, вартістю 84 гривні кожна, загальною вартістю 168 гривні 00 копійок;",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P29",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "- одну скляну банку з аджикою, об`ємом 0,7 літра, виготовленої у домашніх умовах, вартістю 84 гривні 00 копійок;",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P30",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "- одну скляну банку з баклажанами, об`ємом 0,5 літра, виготовленими у домашніх умовах, вартістю 70 гривень 00 копійок;",
+          "paragraph_id": 39,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P31",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "- картоплю сорту «Гореса», вагою 10 кілограм, вартістю 9 гривень за 1 кілограм, загальною вартістю 90 гривень 00 копійок;",
+          "paragraph_id": 40,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P32",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У подальшому, ОСОБА_5 утримуючи викрадене майно при собі, з місця вчинення злочину зник, розпорядився ним на свій власний розсуд, чим спричинив ОСОБА_6 матеріальну шкоду на загальну суму 412 гривень 00 копійок.",
+          "paragraph_id": 41,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P33",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Прокурор, в судовому засіданні, звернувся до суду з клопотанням про затвердження угоди про визнання винуватості, мотивуючи тим, що з обвинуваченим ОСОБА_5 22 грудня 2023 року укладено вказану угоду, узгоджено міру покарання та інші обставини, передбачені КПК України.",
+          "paragraph_id": 42,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P34",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений ОСОБА_5 в судовому засіданні підтримав клопотання прокурора, вказав, що дійсно уклав, вказану прокурором, угоду про визнання винуватості.",
+          "paragraph_id": 43,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P35",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Захисник обвинуваченого в судовому засіданні підтримав клопотання прокурора, вказав, що в його присутності обвинувачений уклав, вказану прокурором, угоду про визнання винуватості.",
+          "paragraph_id": 44,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P36",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В судовому засіданні оглянуто угоду про визнання винуватості, укладену 22 грудня 2023 року між обвинуваченим ОСОБА_5 та прокурором.",
+          "paragraph_id": 45,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні дії суду",
+        "support_status": null
+      },
+      {
+        "id": "P37",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Із тексту вказаної угоди вбачається, що ОСОБА_5 визнає свою вину в інкримінованому кримінальному правопорушенні,",
+          "paragraph_id": 45,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні дії суду",
+        "support_status": null
+      },
+      {
+        "id": "P38",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "сторонами узгоджено покарання підозрюваному ОСОБА_5 за вчинення кримінального правопорушення передбаченого ч.4 ст.185 КК України, а саме 5 років позбавлення волі із звільненням від відбування покарання з випробуванням, із застосуванням наслідків передбачених ст.76 КК України.",
+          "paragraph_id": 45,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні дії суду",
+        "support_status": null
+      },
+      {
+        "id": "P39",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Крім того сторони в тексті угоди вказали, що дана угода є добровільною і їм відомі наслідки укладення та затвердження угоди,",
+          "paragraph_id": 45,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні дії суду",
+        "support_status": null
+      },
+      {
+        "id": "P40",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вирішено питання про речові докази та судові витрати.",
+          "paragraph_id": 45,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні дії суду",
+        "support_status": null
+      },
+      {
+        "id": "P41",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В судовому засіданні обвинуваченому ОСОБА_5 було роз`яснено наслідки ст.474 КПК України.",
+          "paragraph_id": 46,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні дії суду",
+        "support_status": null
+      },
+      {
+        "id": "P42",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "...угода про визнання винуватості від 22 грудня 2023 року укладена між обвинуваченим ОСОБА_5 та прокурором відповідає вимогам чинного законодавства,",
+          "paragraph_id": 47,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду щодо затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P43",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "містить відомості про узгоджене покарання, що відповідає вимогам КК України,",
+          "paragraph_id": 47,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду щодо затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P44",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "містить відомості про винність обвинуваченого,",
+          "paragraph_id": 47,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду щодо затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P45",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "укладена з дотриманням вимог глави 35 КПК України,",
+          "paragraph_id": 47,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду щодо затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P46",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст.ст. 369, 374, 376, 394, 474, 475, 476 КПК України,-",
+          "paragraph_id": 50,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Обвинувачений ОСОБА_5 вчинив таємне викрадення чужого майна, вчинене в умовах воєнного стану, за наступних обставин:",
+          "paragraph_id": 9,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02a",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "діючи в умовах воєнного стану,",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02b",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "діючи в умовах воєнного стану,",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02c",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "діючи в умовах воєнного стану,",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Враховуючи, що угода про визнання винуватості від 22 грудня 2023 року укладена між обвинуваченим ОСОБА_5 та прокурором відповідає вимогам чинного законодавства, містить відомості про узгоджене покарання, що відповідає вимогам КК України, містить відомості про винність обвинуваченого, укладена з дотриманням вимог глави 35 КПК України, суд приходить до висновку про можливість затвердження даної угоди про визнання винуватості.",
+          "paragraph_id": 47,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви суду щодо затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Судових витрат не має.",
+          "paragraph_id": 48,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Долю речових доказів суд вирішує в порядку ст.100 КПК України.",
+          "paragraph_id": 49,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P27",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Перебуваючи незаконно на території подвір`я вищевказаного домоволодіння, ОСОБА_5 , переконавшись, що його злочинні дії нікому не помітні, діючи в умовах воєнного стану, попрямував до приміщення погребу, двері якого не оснащені запірною системою, звідки таємно повторно викрав, продукти харчування, а саме:",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "кримінального правопорушення передбаченого ч.4 ст.185 КК України",
+          "paragraph_id": 45,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні дії у судовому засіданні",
+        "support_status": "SUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C02a",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Указ запроваджує воєнний стан, що є підставою вважати, що подальші дії могли відбуватися в умовах воєнного стану."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C02a",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Продовження строку дії воєнного стану підтверджує його наявність у наступні періоди."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C02a",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Послідовне продовження воєнного стану утворює безперервність його дії."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C02a",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Чергове продовження воєнного стану підтверджує його дію в 2022 році."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C02a",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Указ від 12.08.2022 підтверджує подальшу дію воєнного стану."
+      },
+      {
+        "id": "E06",
+        "source": "P06",
+        "target": "C02a",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Указ від 07.11.2022 про продовження воєнного стану підтверджує безперервність його дії."
+      },
+      {
+        "id": "E07",
+        "source": "P07",
+        "target": "C02a",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Продовження воєнного стану у лютому 2023 року свідчить про його дію у 2023 році."
+      },
+      {
+        "id": "E08",
+        "source": "P08",
+        "target": "C02a",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Указ від 01.05.2023 продовжує воєнний стан до літа 2023 року."
+      },
+      {
+        "id": "E09",
+        "source": "P09",
+        "target": "C02a",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Указ від 26.07.2023 продовжує воєнний стан на період, що охоплює вересень 2023 року."
+      },
+      {
+        "id": "E10",
+        "source": "P01",
+        "target": "C02b",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Запровадження воєнного стану є базовою підставою для висновку про його дію під час події 27.09.2023."
+      },
+      {
+        "id": "E11",
+        "source": "P02",
+        "target": "C02b",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Продовження воєнного стану забезпечує його дію в наступні періоди."
+      },
+      {
+        "id": "E12",
+        "source": "P03",
+        "target": "C02b",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Чергове продовження воєнного стану підтверджує його безперервність."
+      },
+      {
+        "id": "E13",
+        "source": "P04",
+        "target": "C02b",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Указ травня 2022 року подовжив воєнний стан на 90 діб."
+      },
+      {
+        "id": "E14",
+        "source": "P05",
+        "target": "C02b",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Указ серпня 2022 року подовжив режим воєнного стану."
+      },
+      {
+        "id": "E15",
+        "source": "P06",
+        "target": "C02b",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Указ листопада 2022 року підтверджує подальшу дію воєнного стану."
+      },
+      {
+        "id": "E16",
+        "source": "P07",
+        "target": "C02b",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Продовження у лютому 2023 року забезпечує дію воєнного стану в 2023 році."
+      },
+      {
+        "id": "E17",
+        "source": "P08",
+        "target": "C02b",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Указ травня 2023 року продовжує воєнний стан."
+      },
+      {
+        "id": "E18",
+        "source": "P09",
+        "target": "C02b",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Указ липня 2023 року продовжує воєнний стан на період, що охоплює вересень 2023 року."
+      },
+      {
+        "id": "E19",
+        "source": "P01",
+        "target": "C02c",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Базовий указ про запровадження воєнного стану є передумовою його дії під час події 28.09.2023."
+      },
+      {
+        "id": "E20",
+        "source": "P02",
+        "target": "C02c",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Подальше продовження воєнного стану підтверджує його дію."
+      },
+      {
+        "id": "E21",
+        "source": "P03",
+        "target": "C02c",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Безперервність дії воєнного стану забезпечена послідовними указами."
+      },
+      {
+        "id": "E22",
+        "source": "P04",
+        "target": "C02c",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Указ травня 2022 року продовжив дію воєнного стану."
+      },
+      {
+        "id": "E23",
+        "source": "P05",
+        "target": "C02c",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Указ серпня 2022 року подовжив воєнний стан."
+      },
+      {
+        "id": "E24",
+        "source": "P06",
+        "target": "C02c",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Указ листопада 2022 року підтверджує подальшу дію воєнного стану."
+      },
+      {
+        "id": "E25",
+        "source": "P07",
+        "target": "C02c",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Продовження у лютому 2023 року засвідчує чинність воєнного стану."
+      },
+      {
+        "id": "E26",
+        "source": "P08",
+        "target": "C02c",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Указ травня 2023 року продовжує воєнний стан."
+      },
+      {
+        "id": "E27",
+        "source": "P09",
+        "target": "C02c",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Продовження від 26.07.2023 охоплює період вересня 2023 року."
+      },
+      {
+        "id": "E28",
+        "source": "P10",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Дата, час та місце перебування обвинуваченого конкретизують епізод 26.09.2023 і підтверджують наявність події злочину."
+      },
+      {
+        "id": "E29",
+        "source": "P11",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Наявність умислу на таємне викрадення майна у власника ОСОБА_6 за адресою АДРЕСА_2 підтверджує фабулу крадіжки."
+      },
+      {
+        "id": "E30",
+        "source": "P12",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Спосіб проникнення (відчинення засуву, незаконне проникнення до сховища) є ознакою крадіжки з проникненням."
+      },
+      {
+        "id": "E31",
+        "source": "C02a",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Пряме зазначення, що дії вчинені \"в умовах воєнного стану\", підсилює кваліфікуючу ознаку у висновку суду."
+      },
+      {
+        "id": "E32",
+        "source": "P13",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Опис викраденого майна (5 банок варення) підтверджує факт таємного заволодіння майном."
+      },
+      {
+        "id": "E33",
+        "source": "P14",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Проникнення до веранди деталізує спосіб вчинення крадіжки."
+      },
+      {
+        "id": "E34",
+        "source": "P15",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Перелік викраденого (цукор 6 кг) з ціною підтверджує розмір шкоди та факт викрадення."
+      },
+      {
+        "id": "E35",
+        "source": "P16",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Додатковий викрадений предмет (олія) з вартістю підтверджує склад викраденого."
+      },
+      {
+        "id": "E36",
+        "source": "P17",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Вказано загальну суму матеріальної шкоди за перший епізод, що підтверджує наслідки злочину."
+      },
+      {
+        "id": "E37",
+        "source": "P18",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Дата і місце другого епізоду конкретизують подію 27.09.2023."
+      },
+      {
+        "id": "E38",
+        "source": "P19",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Наявність умислу на повторне викрадення майна того ж власника підтверджує повторність дій."
+      },
+      {
+        "id": "E39",
+        "source": "P20",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Спосіб доступу (відчинення засуву, проникнення до сховища) знову свідчить про таємне викрадення."
+      },
+      {
+        "id": "E40",
+        "source": "C02b",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Зазначення, що дії вчинені в умовах воєнного стану, підкріплює кваліфікуючу ознаку у висновку суду."
+      },
+      {
+        "id": "E41",
+        "source": "P21",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Перелік викраденого (5 банок сливового варення) з ціною підтверджує факт заволодіння майном."
+      },
+      {
+        "id": "E42",
+        "source": "P22",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Додаткове викрадення (цукор 6,5 кг) та його вартість підтверджують обсяг шкоди."
+      },
+      {
+        "id": "E43",
+        "source": "P23",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Загальна сума матеріальної шкоди за другий епізод підтверджує наслідки діяння."
+      },
+      {
+        "id": "E44",
+        "source": "P24",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Дата і місце третього епізоду конкретизують подію 28.09.2023."
+      },
+      {
+        "id": "E45",
+        "source": "P25",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Наявність умислу на повторне викрадення у того ж потерпілого підтверджує продовження злочинної поведінки."
+      },
+      {
+        "id": "E46",
+        "source": "P26",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Спосіб проникнення (через хвіртку до сховища) знову підтверджує ознаки крадіжки."
+      },
+      {
+        "id": "E47",
+        "source": "C02c",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Вказівка про вчинення дій в умовах воєнного стану підсилює кваліфікуючу ознаку висновку."
+      },
+      {
+        "id": "E48",
+        "source": "P28",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Перелік викраденого (2 банки аджики) з вартістю підтверджує факт викрадення в третьому епізоді."
+      },
+      {
+        "id": "E49",
+        "source": "P29",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Додатковий предмет викрадення (1 банка аджики) підтверджує склад викраденого."
+      },
+      {
+        "id": "E50",
+        "source": "P30",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Викрадення банки з баклажанами з зазначенням вартості підтверджує заволодіння майном."
+      },
+      {
+        "id": "E51",
+        "source": "P31",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Викрадення картоплі з вартістю підтверджує розмір заподіяної шкоди."
+      },
+      {
+        "id": "E52",
+        "source": "P32",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Загальна сума матеріальної шкоди за третій епізод підсумовує наслідки діяння."
+      },
+      {
+        "id": "E53",
+        "source": "P37",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Визнання вини обвинуваченим у тексті угоди є додатковою підставою для прийняття висновку про вчинення ним інкримінованого діяння."
+      },
+      {
+        "id": "E54",
+        "source": "P36",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Огляд угоди судом є процесуальною передумовою її затвердження."
+      },
+      {
+        "id": "E55",
+        "source": "P37",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Наявність у змісті угоди визнання вини відповідає вимогам до угоди про визнання винуватості і обґрунтовує можливість її затвердження."
+      },
+      {
+        "id": "E56",
+        "source": "P38",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Узгоджене сторонами покарання, що відповідає вимогам КК, свідчить про належний зміст угоди та можливість її затвердження."
+      },
+      {
+        "id": "E57",
+        "source": "P39",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Добровільність угоди та поінформованість сторін про наслідки є умовами її затвердження."
+      },
+      {
+        "id": "E58",
+        "source": "P40",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Вирішення в угоді питань про речові докази та судові витрати свідчить про повноту угоди."
+      },
+      {
+        "id": "E59",
+        "source": "P41",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Роз`яснення обвинуваченому наслідків ст.474 КПК України підтверджує дотримання процесуальних гарантій при укладенні та затвердженні угоди."
+      },
+      {
+        "id": "E60",
+        "source": "P42",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Оцінка суду про відповідність угоди чинному законодавству прямо обґрунтовує її затвердження."
+      },
+      {
+        "id": "E61",
+        "source": "P43",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Наявність відомостей про узгоджене покарання, що відповідає КК, підтверджує належний зміст угоди."
+      },
+      {
+        "id": "E62",
+        "source": "P44",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Відомості про винність обвинуваченого в угоді є необхідною умовою її затвердження."
+      },
+      {
+        "id": "E63",
+        "source": "P45",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Дотримання вимог глави 35 КПК України є процесуальною передумовою для затвердження угоди судом."
+      },
+      {
+        "id": "E64",
+        "source": "P33",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Клопотання прокурора про затвердження угоди свідчить про наявність узгодженої позиції сторін та ініціює її розгляд судом."
+      },
+      {
+        "id": "E65",
+        "source": "P34",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Підтримка обвинуваченим клопотання підтверджує добровільність та прийняття умов угоди."
+      },
+      {
+        "id": "E66",
+        "source": "P35",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Підтримка захисником клопотання підтверджує погодження сторони захисту на затвердження угоди."
+      },
+      {
+        "id": "E67",
+        "source": "P46",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Посилання суду на норми КПК України (ст.ст. 369, 374, 376, 394, 474, 475, 476) слугує правовою підставою для прийняття рішення про затвердження угоди."
+      },
+      {
+        "id": "E68",
+        "source": "P40",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Зазначення, що в угоді вирішено питання про речові докази, обґрунтовує подальше вирішення судом їх долі за ст.100 КПК України."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P11",
+          "P12",
+          "P13",
+          "P14",
+          "P15",
+          "P16",
+          "P17",
+          "P18",
+          "P19",
+          "P20",
+          "P21",
+          "P22",
+          "P23",
+          "P24",
+          "P25",
+          "P26",
+          "P28",
+          "P29",
+          "P30",
+          "P31",
+          "P32",
+          "P37",
+          "C02a",
+          "C02b",
+          "C02c",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18",
+          "E19",
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26",
+          "E27",
+          "E28",
+          "E29",
+          "E30",
+          "E31",
+          "E32",
+          "E33",
+          "E34",
+          "E35",
+          "E36",
+          "E37",
+          "E38",
+          "E39",
+          "E40",
+          "E41",
+          "E42",
+          "E43",
+          "E44",
+          "E45",
+          "E46",
+          "E47",
+          "E48",
+          "E49",
+          "E50",
+          "E51",
+          "E52",
+          "E53"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C03",
+        "components": [
+          "P33",
+          "P34",
+          "P35",
+          "P36",
+          "P37",
+          "P38",
+          "P39",
+          "P40",
+          "P41",
+          "P42",
+          "P43",
+          "P44",
+          "P45",
+          "P46",
+          "C03"
+        ],
+        "edges": [
+          "E54",
+          "E55",
+          "E56",
+          "E57",
+          "E58",
+          "E59",
+          "E60",
+          "E61",
+          "E62",
+          "E63",
+          "E64",
+          "E65",
+          "E66",
+          "E67"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C04",
+        "components": [
+          "C04"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C05",
+        "components": [
+          "P40",
+          "C05"
+        ],
+        "edges": [
+          "E68"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C05",
+        "components": [
+          "P38",
+          "C05"
+        ],
+        "edges": [
+          "E42"
+        ]
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P05",
+          "P06"
+        ],
+        "text": "Відповідно до Указу Президента України від 07.11.2022 №573/2022 продовжено строк дії воєнного стану в Україні з 05 години 30 хвилин 21 листопада 2022 року на 90 діб.",
+        "conflicts_with": "В іншому фрагменті документа (абз. 14) також використано №573/2022, але для дати 12.08.2022.",
+        "description": "Для різних дат (12.08.2022 та 07.11.2022) вказано однаковий номер указу №573/2022, що виглядає як технічна помилка у нумерації указів.",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 46,
+      "number_of_claims": 8,
+      "number_of_support_edges": 68,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 5,
+      "root_claims": [
+        "C01",
+        "C02",
+        "C03",
+        "C04",
+        "C05"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 3
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.92; review 5 flagged missing or hallucinated field(s)."
+  }
+}

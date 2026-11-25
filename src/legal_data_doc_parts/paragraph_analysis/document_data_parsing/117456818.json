@@ -1,0 +1,887 @@
+{
+  "document_id": "117456818",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У квітні 2019 року, більш точний час не встановлено, при невстановлених обставинах, ОСОБА_3 , перебуваючи у неустановленому місці, невстановленим способом придбав телескопічну дубинку «USP», яку він розпочав носити з собою у портфелі.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Надалі, 06.12.2020 року, у період часу приблизно з 21 год. 00 хв. до 21 год. 46 хв., більш точний час не встановлено, ОСОБА_3 рухався по території парку ім. М. Горького в Малиновському районі м. Одеси,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "та діючи з прямим умислом, усвідомлюючи протиправний характер своїх дій, передбачаючи суспільно небезпечні наслідки і бажаючи їх настання, з метою та мотивом носіння та користування вилученим з обігу майном без законних підстав,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "а також без отримання дозволу, обов`язковість якого регламентовано п.п. 2,4,9, 10 Положення про дозвільну систему, затвердженою постановою Кабінету Міністрів України від 12.10.1992 №576, та главами 2,12 Інструкції про порядок виготовлення, зберігання перевезення та використання вогнепальної, пневматичної, холодної і охолодженої зброї, пристроїв вітчизняного виробництва для відстрілу патронів, споряджених гумовими чи аналогічними за своїми властивостями метальними снарядами несмертельної дії, та патронів до них, а також боєприпасів до зброї, основним частин зброї та вибухових матеріалів, затвердженої Наказом Міністерства внутрішніх справ України від 21.08.1998 №622,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "носив з собою у портфелі, який він носив на спині через плечі, телескопічну дубинку довільного зразка, виготовлену промисловим способом, яка відноситься до контактної холодної зброї ударно-дробильної дії.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В подальшому, 06.12.2020 року приблизно о 21 год. 46 хв., ОСОБА_3 проходив територією парку ім. М. Горького, та знаходячись напроти будинку №12 на вул. Героїв Крут в Малиновському районі м. Одеси, був зупинений працівниками Національної гвардії України ОСОБА_6 , ОСОБА_7 , ОСОБА_8 , які дізнались у ОСОБА_3 про наявність у нього заборонених в обігу предметів.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На місце події викликано СОГ Малиновського ВП в м. Одесі ГУНП в Одеській області,",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "після чого, в період часу з 06.12.2020 року о 23 год. 30 хв. до 07.12.2020 року о 00 год. 01 хв. проведено огляд місця події, а саме ділянки місцевості напроти будинку АДРЕСА_2 ,",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в ході якого у ОСОБА_3 в присутності двох понятих, слідчим вилучено вказану телескопічну дубинку «USP», що відноситься до контактної холодної зброї ударно-дробильної дії.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Допитаний в судовому засіданні обвинувачений ОСОБА_3 , вину в інкримінованому йому кримінальному правопорушенні, передбаченому ч.2 ст. 263 КК України, визнав повністю та підтвердив обставини вчинення кримінального правопорушення, викладені в обвинувальному акті",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "та пояснив, що він через інтернет замовив телескопічну дубинку, яку носив з собою.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У скоєному щиро покаявся.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "суд визнав недоцільним дослідження доказів щодо тих обставин, які ніким не оспорюються та розглянув справу відповідно з ч. 3 ст. 349 КПК України.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "фактичні обставини ніким з учасників судового провадження не оспорювались,",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "При цьому судом з`ясовано, що всі учасники кримінального провадження правильно розуміють обставини справи та упевнився у добровільності їх позиції.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Їм було роз`яснено про те, що якщо докази не будуть досліджені, у такому випадку, вони будуть позбавлені права оскаржувати фактичні обставини справи у апеляційному порядку.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": null
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "При таких обставинах, за згодою учасників кримінального провадження, які визнали недоцільним дослідження доказів щодо тих обставин, які ніким не оспорюються, докази у судовому засіданні не досліджувалися, згідно до вимог ч.3 ст. 349 КПК України.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "оцінивши показання обвинуваченого як належний, допустимий та в даному випадку достатній доказ,",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "суд приходить до висновку про кваліфікацію дій ОСОБА_3 за встановлених судом обставин за ч.2 ст. 263 КК України, як носіння холодної зброї без передбаченого законом дозволу,",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Кваліфікація дій",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "та його винуватість у вчиненні зазначеного кримінального правопорушення вважає доведеною.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновок щодо вини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "який відповідно до ст. 12 КК України є нетяжким злочином",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "суд у відповідності до ст. 65 КК України, враховує ступінь тяжкості скоєного кримінального правопорушення",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставинами, які відповідно до ст. 66 КК України пом`якшують покарання, суд враховує, повне визнання обвинуваченим вини та щире каяття.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставин, які відповідно до ст. 67 КК України обтяжують покарання, судом не встановлено.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_3 має місце реєстрації та проживання в м. Одесі, позитивно характеризується за місцем проживання та колишнім місцем роботи, на обліку нарколога, психіатра не перебуває, раніше не судимий.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд вважає, що покаранням, необхідним і достатнім для виправлення обвинуваченого та попередження вчинення ним нового кримінального правопорушення, буде покарання у виді штрафу в межах санкції ч.2 ст. 263 КК України.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до ч. 4 ст. 53 КК України з урахуванням майнового стану особи суд може призначити штраф із розстрочкою виплати певними частинами строком до одного року.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Беручи до уваги, відомості про матеріальний стан обвинуваченого ОСОБА_3 та враховуючи, що покарання не має на меті завдати страждань, а лише здійснює виховний вплив,",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд приходить до висновку, що сплату призначеного ОСОБА_3 штрафу слід розстрочити на 10 місяці, шляхом надання можливості сплачувати штраф щомісячно рівними частинами, що буде відповідати меті покарання в розумінні ст. 50 КК України.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "- 653 гривень 80 копійки за проведення судової експертизи зброї в Одеському НДЕКЦ МВС України, висновок експерта № СЕ-19/116-20/25652-БЛ від 14.12.2020 року.",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні витрати",
+        "support_status": null
+      },
+      {
+        "id": "C11",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "У відповідності до ст. 124 КПК України, процесуальні витрати за проведення вказаної експертизи, в сумі 653 (шістсот п`ятдесят три) гривні 80 копійок, підлягають стягненню із обвинуваченого ОСОБА_3 , на користь держави.",
+          "paragraph_id": 34,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C12",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов по справі заявлений не був.",
+          "paragraph_id": 35,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C13",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання речових доказів суд вирішує у порядку передбаченому ст.100 КПК України.",
+          "paragraph_id": 36,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Враховуючи наведене, керуючись ст.ст. 5, 53, 65 КК України, ст.ст. 368-371, 373-376 КПК України, суд -",
+          "paragraph_id": 37,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні посилання",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Факт придбання та носіння телескопічної дубинки є фактичною підставою для кваліфікації дій як носіння холодної зброї без дозволу."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Час та місце носіння зброї конкретизують подію правопорушення, що підтверджує кваліфікацію."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Опис прямого умислу, усвідомлення протиправності та мотиву підтверджують суб'єктивну сторону складу злочину."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Посилання на Положення №576 та Інструкцію №622 встановлюють нормативну обов'язковість дозволу, що робить носіння без дозволу протиправним."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Констатація, що дубинка належить до контактної холодної зброї, прямо підтверджує юридично значиму ознаку предмета."
+      },
+      {
+        "id": "E06",
+        "source": "P06",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Зупинка працівниками Нацгвардії та виявлення заборонених предметів підтверджує факт носіння забороненої зброї."
+      },
+      {
+        "id": "E07",
+        "source": "P07",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Виклик слідчо-оперативної групи відображає офіційне реагування на подію, що підтверджує реальність події правопорушення."
+      },
+      {
+        "id": "E08",
+        "source": "P08",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Проведення огляду місця події у конкретний проміжок часу підтверджує документальне фіксування обставин."
+      },
+      {
+        "id": "E09",
+        "source": "P09",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Вилучення телескопічної дубинки, що є холодною зброєю, безпосередньо підтверджує склад правопорушення за ч.2 ст.263 КК."
+      },
+      {
+        "id": "E10",
+        "source": "P10",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Повне визнання вини та підтвердження обставин обвинуваченим є прямою підставою для висновку про доведеність вини."
+      },
+      {
+        "id": "E11",
+        "source": "P11",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Пояснення про замовлення та носіння дубинки підтверджує фактичне володіння і носіння предмета правопорушення."
+      },
+      {
+        "id": "E12",
+        "source": "P12",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Щире каяття обвинуваченого підтверджує наявність пом'якшуючої обставини, врахованої судом."
+      },
+      {
+        "id": "E13",
+        "source": "P13",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Відсутність спору щодо фактичних обставин слугувала підставою для визнання недоцільним дослідження доказів."
+      },
+      {
+        "id": "E14",
+        "source": "P14",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Роз'яснення наслідків недослідження доказів сприяло переконанню суду у добровільності позиції учасників."
+      },
+      {
+        "id": "E15",
+        "source": "C02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Встановлення добровільності та розуміння сторонами є підставою для ухвалення рішення не досліджувати докази за їх згодою."
+      },
+      {
+        "id": "E16",
+        "source": "C01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Рішення суду про недоцільність дослідження доказів логічно підкріплює підсумковий процесуальний висновок про їх недослідження."
+      },
+      {
+        "id": "E17",
+        "source": "P15",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Суд визнав показання обвинуваченого достатнім доказом, що безпосередньо обґрунтовує висновок про доведеність вини."
+      },
+      {
+        "id": "E18",
+        "source": "C04",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Юридична кваліфікація дій як носіння холодної зброї без дозволу підкріплює висновок про винуватість."
+      },
+      {
+        "id": "E19",
+        "source": "P16",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Посилання на ст.65 КК та врахування ступеня тяжкості є загальною підставою для визначення виду та міри покарання."
+      },
+      {
+        "id": "E20",
+        "source": "C06",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Кваліфікація злочину як нетяжкого за ст.12 КК впливає на м'якший вид покарання (штраф)."
+      },
+      {
+        "id": "E21",
+        "source": "C07",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Наявність пом'якшуючих обставин обґрунтовує висновок про достатність штрафу."
+      },
+      {
+        "id": "E22",
+        "source": "C08",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Відсутність обтяжуючих обставин сприяє призначенню більш м'якого покарання у виді штрафу."
+      },
+      {
+        "id": "E23",
+        "source": "P17",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Позитивні характеристики особи та відсутність судимості свідчать на користь призначення штрафу."
+      },
+      {
+        "id": "E24",
+        "source": "P19",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Ч.4 ст.53 КК прямо дозволяє розстрочку сплати штрафу, що обґрунтовує рішення про розстрочку."
+      },
+      {
+        "id": "E25",
+        "source": "P23",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Урахування матеріального стану та мети покарання (виховний вплив) виправдовує розстрочку на 10 місяців."
+      },
+      {
+        "id": "E26",
+        "source": "P22",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Загальне керування нормами КК та КПК підкріплює законність призначеного виду покарання."
+      },
+      {
+        "id": "E27",
+        "source": "P22",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Посилання на норми закону слугує загальною правовою підставою для розстрочки штрафу."
+      },
+      {
+        "id": "E28",
+        "source": "P21",
+        "target": "C11",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Конкретний розмір і документ експертизи обґрунтовують суму процесуальних витрат, що підлягають стягненню."
+      },
+      {
+        "id": "E29",
+        "source": "P13",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Неоспорюваність фактичних обставин усіма учасниками підтримує рішення не досліджувати докази."
+      },
+      {
+        "id": "E30",
+        "source": "P09",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Факт вилучення холодної зброї у обвинуваченого підтверджує його вину у носінні такої зброї без дозволу."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C04",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P09",
+          "P11",
+          "C04"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E09",
+          "E11"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "GUILT",
+        "main_claim": "C05",
+        "components": [
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P15",
+          "C04",
+          "C05"
+        ],
+        "edges": [
+          "E07",
+          "E08",
+          "E30",
+          "E10",
+          "E17",
+          "E18"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C03",
+        "components": [
+          "P13",
+          "P14",
+          "C01",
+          "C02",
+          "C03"
+        ],
+        "edges": [
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E29"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "SENTENCING",
+        "main_claim": "C09",
+        "components": [
+          "P16",
+          "P17",
+          "C06",
+          "C07",
+          "C08",
+          "P22",
+          "C09"
+        ],
+        "edges": [
+          "E19",
+          "E23",
+          "E20",
+          "E21",
+          "E22",
+          "E26"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "SENTENCING",
+        "main_claim": "C10",
+        "components": [
+          "P19",
+          "P23",
+          "P22",
+          "C10"
+        ],
+        "edges": [
+          "E24",
+          "E25",
+          "E27"
+        ]
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C11",
+        "components": [
+          "P21",
+          "C11"
+        ],
+        "edges": [
+          "E28"
+        ]
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C12",
+        "components": [
+          "C12"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A08",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C13",
+        "components": [
+          "C13"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 21,
+      "number_of_claims": 13,
+      "number_of_support_edges": 30,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 8,
+      "root_claims": [
+        "C03",
+        "C05",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 0
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.93; review 4 flagged missing or hallucinated field(s)."
+  }
+}

@@ -1,0 +1,1013 @@
+{
+  "document_id": "116376162",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "маючи умисел на незаконне придбання, виготовлення та зберігання наркотичних засобів, без мети збуту,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в один із днів серпня 2023 року,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "перебуваючи на території огородньої ділянки розташованої за адресою: АДРЕСА_1 , нарвав, тобто незаконно придбав рослини коноплі,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "потім переніс їх до побутового приміщення будинку домоволодіння, розташованого за вищевказаною адресою,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "де незаконно, не маючи на те відповідного дозволу, висушив та подрібнив їх,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "тим самим виготовив відповідно до висновку експерта № СЕ-19/119-23/16388 від 16.11.2023 особливо небезпечний наркотичний засіб - канабіс,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Докази та експертні висновки",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "частину якого вжив особисто шляхом паління за допомогою саморобних пристроїв,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "а залишок канабісу почав зберігати в аптечці, розділивши на 6 частин,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "одну частину у згортку з аркуша паперу з друкованим написом «На обширных пространствах…», масою в перерахунку на суху речовину 0,982 грам,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "одну частину у згортку з двох аркушів газетного паперу з друкованим написом «КОПИЛКА…», масою у перерахунку на суху речовину 16,23 грам,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "одну частину у пакеті із прозорого полімерного матеріалу білого кольору, масою у перерахунку на суху речовину 75,88 грам,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "одну частину в ємності циліндричної форми довжиною 14,3 см., масою у перерахунку на суху речовину 8,87 грам,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "одну частину в пакеті з застібкою zip-lock з паперовою наліпкою з написом «ХОМУТ ЧЕРВ`ЯЧНИЙ…», масою у перерахунку на суху речовину 10,49 грам,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "одну частину у згортку з фрагменту з аркуша паперу з друкованим написом «ПУМБ…», масою у перерахунку на суху речовину 4,93 грам, яка знаходилась в спальній кімнаті будинку.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Загальна маса канабісу в перерахунку на суху речовину склала 117,382 грам,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Докази та експертні висновки",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "який ОСОБА_5  незаконно, не маючи на те відповідного дозволу, зберігав в аптечці в спальній кімнаті будинку свого домоволодіння за вищевказаною адресою, без мети збуту,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "до 09 листопада 2023 року, коли в період часу з 10 год. 40 хв. по 11 год. 48 хв. при проведенні обшуку вказаний особливо небезпечний наркотичний засіб - канабіс було виявлено та вилучено співробітниками поліції.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні дії та вилучення",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "незаконно, не маючи на те відповідного дозволу,",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "17 січня 2024 року між прокурором Богодухівської окружної прокуратури Харківської області ОСОБА_3 , якому на підставі ст.37 КПК України надані повноваження прокурора у даному кримінальному провадженні та ОСОБА_5 , в присутності захисника - адвоката ОСОБА_4 , в порядку, передбаченому ст.ст. 468, 469,470 та 472 КПК України, укладено угоду про визнання винуватості.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про визнання винуватості",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно з даною угодою прокурор та обвинувачений ОСОБА_5 дійшли згоди щодо формулювання підозри, всіх істотних для даного кримінального провадження обставин та правової кваліфікації дій обвинуваченого за ч.1 ст.309 КК України,",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про визнання винуватості",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обвинувачений ОСОБА_5 у повному обсязі сформульованої підозри беззастережно визнав свою винуватість у вчиненні даного кримінального правопорушення.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про визнання винуватості",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Також сторонами угоди визначено узгоджене ними покарання, яке ОСОБА_5 має понести за вчинення кримінального правопорушення передбаченого ч.1 ст.309 КК України у виді обмеження волі строком на 1 рік, із звільненням від відбування призначеного покарання з іспитовим строком на підставі ст.75 КК України, строк якого визначить суд та покладенням обов`язків, передбачених ст.76 КК України, які визначить суд.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Узгоджене покарання",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до правил ст.ст. 468, 469 КПК України у кримінальному провадженні щодо кримінальних проступків, нетяжких злочинів, тяжких злочинів, може бути укладена угода між прокурором та підозрюваним чи обвинуваченим про визнання винуватості.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові норми КПК",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Прокурор під час судового засідання вважаючи, що при укладенні даної угоди дотримані вимоги і правила КПК України та КК України, просив угоду затвердити і призначити обвинуваченому узгоджену в ній міру покарання.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений ОСОБА_5 та його захисник - адвокат ОСОБА_4 в судовому засіданні також просили затвердити угоду про визнання винуватості і призначити узгоджену в ній міру покарання,",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "при цьому обвинувачений ОСОБА_5 беззастережно визнав себе винуватим у вчиненні кримінального правопорушення, передбаченого ч. 1 ст. 309 КК України, за обставин, як вони викладені в обвинувальному акті.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P27",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Кримінальне правопорушення, передбачене ч.1 ст.309 КК України згідно зі ст. 12 КК України є кримінальним проступком, потерпілий у провадженні відсутній.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова характеристика правопорушення",
+        "support_status": null
+      },
+      {
+        "id": "P28",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Суд, заслухавши пояснення сторін кримінального провадження, переконався, що укладення угоди сторонами є добровільним, при цьому судом встановлено, що ОСОБА_5 повністю усвідомлює зміст угоди про визнання винуватості, характер обвинувачення, щодо якого визнає себе винним, цілком розуміє свої права, визначені п.1 ч.4 ст.474 КПК України, а також наслідки укладення, затвердження даної угоди, передбачені ч.2 ст.473 КПК України, та наслідки її не виконання, передбачені ст. 476 КПК України.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Перевірка добровільності та усвідомленості угоди",
+        "support_status": null
+      },
+      {
+        "id": "P29",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Покарання сторонами угоди визначено у відповідності до положень ст. ст. 50, 65-67 КК України, з урахуванням характеру та тяжкості висунутого ОСОБА_5 обвинувачення, даних про його особу, обставин, що пом`якшують покарання у виді щирого каяття та активного сприяння розкриттю кримінального правопорушення, відсутність обставин, що обтяжують покарання.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення узгодженого покарання",
+        "support_status": null
+      },
+      {
+        "id": "P30",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. ст. 373, 374, 468, 469,472, 475 КПК України суд, -",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Застосовані норми КПК",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Дії ОСОБА_5 кваліфіковані за ч.1 ст.309 КК України, тобто незаконне придбання, виготовлення та зберігання наркотичного засобу без мети збуту.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Таким чином, суд вважає, що обставини вчинення ОСОБА_5 кримінального правопорушення, передбаченого ч.1 ст.309 КК України знайшли своє підтвердження під час судового засідання.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Враховуючи викладене, оскільки умови угоди про визнання винуватості між прокурором та обвинуваченим ОСОБА_5 відповідають вимогам КПК України та КК України, суд дійшов висновку про наявність правових підстав для її затвердження.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки суду щодо затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Міра запобіжного заходу обвинуваченому ОСОБА_5 не обиралась.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання щодо речових доказів вирішити відповідно до ст.100 КПК України.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Документально підтверджені судові витрати, відповідно до ст.124 КПК України, необхідно стягнути з обвинуваченого.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P31",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. ст. 373, 374, 468, 469,472, 475 КПК України суд, -",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативне обґрунтування (КПК)",
+        "support_status": null
+      },
+      {
+        "id": "P32",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до ст.100 КПК України",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": null
+      },
+      {
+        "id": "P33",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до ст.124 КПК України",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": null
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Міра запобіжного заходу обвинуваченому ОСОБА_5 не обиралась.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Питання щодо речових доказів вирішити відповідно до ст.100 КПК України.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Документально підтверджені судові витрати, відповідно до ст.124 КПК України, необхідно стягнути з обвинуваченого.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Фраза відображає психічний елемент («умисел») та відсутність мети збуту, що є складовими правової кваліфікації за ч.1 ст.309 КК України."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Зазначення часу вчинення діяння є істотною обставиною для правової кваліфікації."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Опис місця та дії «нарвав, тобто незаконно придбав рослини коноплі» безпосередньо підтверджує факт незаконного придбання."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Переміщення сировини до приміщення є частиною ланцюга виготовлення/зберігання наркотичного засобу."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Наявність ознак «незаконно, не маючи дозволу» при сушінні та подрібненні підтверджує протиправність виготовлення."
+      },
+      {
+        "id": "E06",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.97,
+        "justification": "Посилання на висновок експерта підтверджує, що виготовлена речовина є канабісом, що є істотним для кваліфікації."
+      },
+      {
+        "id": "E07",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Факт особистого вживання шляхом паління підтверджує відсутність мети збуту."
+      },
+      {
+        "id": "E08",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Початок зберігання та поділ на частини вказує на триваюче зберігання наркотичного засобу."
+      },
+      {
+        "id": "E09",
+        "source": "P09",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Конкретизація упаковки та маси частини підтверджує факт та масштаб зберігання."
+      },
+      {
+        "id": "E10",
+        "source": "P10",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Конкретизація упаковки та маси частини підтверджує факт та масштаб зберігання."
+      },
+      {
+        "id": "E11",
+        "source": "P11",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Наведені дані про пакування і масу слугують доказом зберігання значної кількості речовини."
+      },
+      {
+        "id": "E12",
+        "source": "P12",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Опис тари та маси є частиною доказів зберігання канабісу."
+      },
+      {
+        "id": "E13",
+        "source": "P13",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Деталізація пакету, наліпки та маси підтверджує факт зберігання."
+      },
+      {
+        "id": "E14",
+        "source": "P14",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Опис останньої частини із зазначенням місця («в спальній кімнаті») підтверджує місце та факт зберігання."
+      },
+      {
+        "id": "E15",
+        "source": "P15",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Загальна маса речовини є істотною для кваліфікації та характеризує обсяг зберігання."
+      },
+      {
+        "id": "E16",
+        "source": "P16",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Пряма вказівка на незаконне зберігання без дозволу, місце зберігання та відсутність мети збуту підкріплює кваліфікацію."
+      },
+      {
+        "id": "E17",
+        "source": "P17",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Факт виявлення та вилучення під час обшуку підтверджує наявність та зберігання наркотичного засобу."
+      },
+      {
+        "id": "E18",
+        "source": "P18",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Фраза підкреслює протиправність дій, що необхідно для кваліфікації за ст.309 КК."
+      },
+      {
+        "id": "E19",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Надана правова кваліфікація спирається на встановлені факти, що дозволяє суду стверджувати підтвердженість обставин."
+      },
+      {
+        "id": "E20",
+        "source": "P21",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Беззастережне визнання винуватості обвинуваченим сприяє підтвердженню обставин правопорушення."
+      },
+      {
+        "id": "E21",
+        "source": "P26",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Підтвердження вини обвинуваченим у судовому засіданні за викладеними обставинами підсилює висновок про їх підтвердженість."
+      },
+      {
+        "id": "E22",
+        "source": "C02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Підтвердженість обставин вчинення правопорушення є підставою для затвердження угоди про визнання винуватості."
+      },
+      {
+        "id": "E23",
+        "source": "P19",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Факт укладення угоди з дотриманням вимог КПК та за участі сторін з належними повноваженнями прямо веде до можливості її затвердження."
+      },
+      {
+        "id": "E24",
+        "source": "P20",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Згода сторін щодо підозри, істотних обставин і правової кваліфікації узгоджується з вимогами до угоди і підтримує її затвердження."
+      },
+      {
+        "id": "E25",
+        "source": "P22",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Визначення сторонами узгодженого покарання відповідає змісту угоди і є підставою для її затвердження."
+      },
+      {
+        "id": "E26",
+        "source": "P23",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Норма КПК дозволяє укладення угоди у відповідних провадженнях, що створює правову можливість для її затвердження."
+      },
+      {
+        "id": "E27",
+        "source": "P24",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Позиція прокурора з проханням затвердити угоду свідчить про підтримку затвердження."
+      },
+      {
+        "id": "E28",
+        "source": "P25",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Прохання обвинуваченого та захисника про затвердження угоди відображає добровільну згоду на наслідки угоди."
+      },
+      {
+        "id": "E29",
+        "source": "P28",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Суд встановив добровільність та усвідомленість укладення угоди і дотримання процесуальних прав, що є умовами її затвердження."
+      },
+      {
+        "id": "E30",
+        "source": "P29",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Узгоджене покарання відповідає вимогам КК України та враховує пом’якшуючі обставини, що обґрунтовує його прийнятність у межах угоди."
+      },
+      {
+        "id": "E31",
+        "source": "P27",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Кримінальний проступок та відсутність потерпілого відповідає умовам, за яких можливо затвердження угоди."
+      },
+      {
+        "id": "E32",
+        "source": "P30",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Зазначений перелік статей КПК слугує загальною правовою підставою для ухвалення рішення щодо затвердження угоди."
+      },
+      {
+        "id": "E33",
+        "source": "P30",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Посилання на керівні норми КПК у фінальній частині рішення підкріплює вирішення питань щодо речових доказів."
+      },
+      {
+        "id": "E34",
+        "source": "P30",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Зазначені норми КПК у заключній частині рішення є загальною правовою підставою для вирішення питання про судові витрати."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P11",
+          "P12",
+          "P13",
+          "P14",
+          "P15",
+          "P16",
+          "P17",
+          "P18",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C03",
+        "components": [
+          "P19",
+          "P20",
+          "P21",
+          "P22",
+          "P23",
+          "P24",
+          "P25",
+          "P26",
+          "P27",
+          "P28",
+          "P29",
+          "P30",
+          "C01",
+          "C02",
+          "C03"
+        ],
+        "edges": [
+          "E19",
+          "E20",
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26",
+          "E27",
+          "E28",
+          "E29",
+          "E30",
+          "E31",
+          "E32"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C05",
+        "components": [
+          "P30",
+          "C05"
+        ],
+        "edges": [
+          "E33"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C06",
+        "components": [
+          "P30",
+          "C06"
+        ],
+        "edges": [
+          "E34"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C04",
+        "components": [
+          "C04"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 33,
+      "number_of_claims": 9,
+      "number_of_support_edges": 34,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 5,
+      "root_claims": [
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07",
+        "C08",
+        "C09"
+      ],
+      "unsupported_claims": [
+        "C07",
+        "C08",
+        "C09"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 6
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.96; review 0 flagged missing or hallucinated field(s)."
+  }
+}

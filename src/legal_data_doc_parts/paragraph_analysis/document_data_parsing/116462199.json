@@ -1,0 +1,73 @@
+{
+  "document_id": "116462199",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "SECTION_HEADER",
+        "source_span": {
+          "text": "ВСТАНОВИВ:",
+          "paragraph_id": 14,
+          "start_char": 0,
+          "end_char": 10
+        },
+        "section": "ВСТАНОВИВ:",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "procedural_basis",
+        "source_span": {
+          "text": "На підставі наведеного та керуючись ст.ст. 100, 124, 314, 371, 373, 374, 468, 469, 472-475 КПК України, суд,-",
+          "paragraph_id": 16,
+          "start_char": 0,
+          "end_char": 109
+        },
+        "section": "Правова підстава",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "ВСТАНОВИВ:",
+          "paragraph_id": 14,
+          "start_char": 0,
+          "end_char": 9
+        },
+        "section": "ВСТАНОВИВ:",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [],
+    "arguments": [],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 2,
+      "number_of_claims": 1,
+      "number_of_support_edges": 0,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 0,
+      "root_claims": [
+        "C01"
+      ],
+      "unsupported_claims": [
+        "C01"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 1
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.96; review 1 flagged missing or hallucinated field(s)."
+  }
+}

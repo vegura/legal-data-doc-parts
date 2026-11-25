@@ -1,0 +1,96 @@
+{
+  "document_id": "116167789",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно ч.15 ст.615 КПК України, в умовах дії воєнного стану після складання та підписання повного тексту вироку суд має право обмежитися проголошенням його резолютивної частини з обов`язковим врученням учасникам судового провадження повного тексту вироку в день його проголошення.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі викладеного, керуючись ст.ст.314, 369-371, 373-374, 474, 475 КПК України, суд, -",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "В С Т А Н О В И В:",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Крім того засудженому роз`яснюються вимоги ст.376 ч.3 КПК України.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Резолютивна частина",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "керуючись ст.ст.314, 369-371, 373-374, 474, 475 КПК України,",
+          "paragraph_id": 20,
+          "start_char": 25,
+          "end_char": 85
+        },
+        "section": "На підставі викладеного, керуючись ст.ст.314, 369-371, 373-374, 474, 475 КПК України, суд, -",
+        "support_status": "SUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C01",
+        "components": [
+          "C01"
+        ],
+        "edges": []
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 3,
+      "number_of_claims": 1,
+      "number_of_support_edges": 0,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 1,
+      "root_claims": [
+        "C01"
+      ],
+      "unsupported_claims": [
+        "C01"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 1,
+      "items_added": 1
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.86; review 5 flagged missing or hallucinated field(s)."
+  }
+}

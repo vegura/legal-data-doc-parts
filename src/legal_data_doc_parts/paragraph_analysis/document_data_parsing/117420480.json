@@ -1,0 +1,946 @@
+{
+  "document_id": "117420480",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_4 , у точно невстановлений день та час, набув один предмет найімовірніше схожий на пістолет з маркуванням CSP 46, калібру 7,65",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "який відповідно до висновку судово-балістичної експертизи № СЕ-19/107- 23/6787-БЛ від 19.07.2023 є короткоствольною нарізною вогнепальною зброєю, бойовим самозарадяним пістолетом «Чешска Збройовка мод. 27» калібру 7,65 мм, без серійних позначень (країна виробник Чехословаччина)",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "та предмети схожі на бойові патрони в кількості 8 (вісім) штук",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "які відповідно до висновку судово-балістичної експертизи № СЕ-19/107-23/6784-БЛ від 18.07.2023 є боєприпасами бойовими калібру 7,65мм «Browning», пістолетними патронами центрального бою.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_4 діючи з прямим умислом, знаючи, що набуті ним вибухові речовини та пристрої є бойовими, без передбаченого законом дозволу, зберігав їх за місцем свого проживання в будинку АДРЕСА_2 , без з мети збуту",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "до вилучення їх 08.07.2023 працівниками поліції під ліжком однієї з кімнат в зазначеному будинку.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_4 , у точно невстановлений день та час, придбав ножа",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "який відповідно до висновку судово-експертизи є мисливським ножем загального призначення - різновид клинкової холодної зброї колюче-ріжучої дії.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "придбаний мисливський ніж, діючи з прямим умислом, ОСОБА_4 транспортував в салоні автомобіля, яким він користується, а саме, автомобіля марки «УАЗ Hunter» н.з НОМЕР_1 .",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "12.09.2023 працівниками поліції під час проведення огляду місця події неподалік будинку № 166 на вулиці Ілони Зріні міста Мукачево Закарпатської області, з салону автомобіля було вилучено даний мисливський ніж, який знаходився біля коробки перемикання передач.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Вилучення речей",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "обвинувачений ОСОБА_4 свою вину в інкримінованих йому кримінальних правопорушеннях визнав повністю",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція обвинуваченого",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "точно не пам`ятає коли саме він знайшов пістолет з набоями, який підібрав та зберігав до моменту виявлення поліцейськими за місцем його проживання в будинку АДРЕСА_2 .",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "в належному йому автомобілі він зберігав мисливський ніж до виявлення співробітниками поліції 12 вересня 2023 року.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченого",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У вчиненому щиросердно розкаявся",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція обвинуваченого",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "просив суд суворо не карати.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція обвинуваченого",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до вимог ч.3 ст.349 КПК України",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "щодо тих обставин, які ніким не оспорюються",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "судом з`ясовано, що учасники судового провадження правильно розуміють зміст цих обставин",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "їх позиції є добровільними",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до вимог ст.ст. 118,124,126 КПК України",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "відповідно до статті 100 КПК України",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "який раніше в силу статті 89 КК України не судимий",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "одружений",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "має сталі соціальні зв`язки",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "З урахуванням тяжкості вчинених кримінальних правопорушень",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст.ст.366-371, 373-376, 395, 532,  КПК України, суд",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні засади",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Суд, вислухавши думку учасників судового провадження, вважає можливим визнати недоцільним дослідження доказів щодо тих обставин, які ніким не оспорюються, відповідно до вимог ч.3 ст.349 КПК України, обмежившись допитом обвинуваченого, а також дослідженням матеріалів, які характеризують особу обвинуваченого.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "у такому випадку вони будуть позбавлені права оскаржувати ці обставини в апеляційному порядку.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні рішення",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Суд кваліфікує дії обвинуваченого за ч.1 ст.263 КК України, як зберігання вогнепальної зброї, боєприпасів, без передбаченого законом дозволу",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "та за ч.2 ст. 263 КК України, як носіння іншої холодної зброї без передбаченого законом дозволу.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Обвинувачений вину визнав повністю, сприяв встановленню істини в ході судового розгляду, що суд відносить до обставин, які пом`якшують покарання.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що пом'якшують покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Обставини, які обтяжують покарання, відсутні.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обставини, що обтяжують покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "мета покарання, визначена в ч.2 ст. 50 КК України, буде досягнута лише при призначенні обвинуваченому покарання у виді позбавлення волі",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "вважає необхідним застосувати положення ст. 75 КК України, звільнивши ОСОБА_4 від відбування покарання з випробувальним строком.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Процесуальні витрати підлягають стягненню з обвинуваченого відповідно до вимог ст.ст. 118,124,126 КПК України.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Долю речових доказів суд вирішує відповідно до статті 100 КПК України.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Фрагмент описує факт набуття предмета, схожого на пістолет з конкретним маркуванням, що є фактичною підставою для кваліфікації за ч.1 ст.263 КК України."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.98,
+        "justification": "Висновок балістичної експертизи підтверджує, що предмет є короткоствольною вогнепальною зброєю."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Зазначається точна кількість набоїв (8 штук), що підтверджує наявність боєприпасів."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.98,
+        "justification": "Експертиза встановила, що вилучені предмети є бойовими патронами калібру 7,65 мм, що відповідає ознаці боєприпасів."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Описано умисне зберігання зброї та боєприпасів без дозволу за місцем проживання, що становить об’єктивну сторону злочину."
+      },
+      {
+        "id": "E06",
+        "source": "P06",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Факт вилучення 08.07.2023 з конкретного місця у будинку підтверджує зберігання зброї та боєприпасів."
+      },
+      {
+        "id": "E07",
+        "source": "P11",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Повне визнання вини обвинуваченим підтверджує встановлені обставини зберігання зброї та боєприпасів."
+      },
+      {
+        "id": "E08",
+        "source": "P12",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Пояснення обвинуваченого про знаходження та зберігання пістолета з набоями конкретизують фактичні обставини злочину."
+      },
+      {
+        "id": "E09",
+        "source": "P07",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Зазначено факт придбання ножа у невстановлений час, що відображає походження предмета правопорушення."
+      },
+      {
+        "id": "E10",
+        "source": "P08",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.98,
+        "justification": "Експертиза підтвердила, що ніж є різновидом клинкової холодної зброї."
+      },
+      {
+        "id": "E11",
+        "source": "P09",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Описано умисне транспортування мисливського ножа в салоні автомобіля, що свідчить про носіння/перевезення холодної зброї."
+      },
+      {
+        "id": "E12",
+        "source": "P10",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Факт вилучення 12.09.2023 ножа з салону авто біля будинку №166 підтверджує обставини носіння/перевезення холодної зброї."
+      },
+      {
+        "id": "E13",
+        "source": "P13",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Пояснення обвинуваченого про зберігання ножа в його автомобілі до виявлення поліцією підтверджують обставини правопорушення."
+      },
+      {
+        "id": "E14",
+        "source": "P11",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Визнання вини стосується всіх інкримінованих правопорушень, у т.ч. за ч.2 ст.263 КК України."
+      },
+      {
+        "id": "E15",
+        "source": "P16",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Посилання на ч.3 ст.349 КПК України є правовою підставою для обмеження дослідження доказів."
+      },
+      {
+        "id": "E16",
+        "source": "P17",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Неоспорюваність обставин є причиною недоцільності їх додаткового дослідження."
+      },
+      {
+        "id": "E17",
+        "source": "P18",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "З’ясування правильного розуміння обставин учасниками провадження є умовою відмови від оскарження цих обставин."
+      },
+      {
+        "id": "E18",
+        "source": "P19",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.91,
+        "justification": "Добровільність позицій учасників слугує підставою для обмеження їх права на апеляційне оскарження цих обставин."
+      },
+      {
+        "id": "E19",
+        "source": "C01",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Процесуальне рішення про обмеження дослідження доказів за ч.3 ст.349 КПК України передбачає наслідок у вигляді відмови від права оскарження встановлених неоспорюваних обставин."
+      },
+      {
+        "id": "E20",
+        "source": "P11",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Визнання вини суд врахував як пом’якшувальну обставину."
+      },
+      {
+        "id": "E21",
+        "source": "P14",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Щиросердне розкаяння характеризує позитивно особу і враховується як пом’якшувальна обставина."
+      },
+      {
+        "id": "E22",
+        "source": "P22",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Несудимість за ст.89 КК України врахована судом при визначенні виду покарання і мети його досягнення."
+      },
+      {
+        "id": "E23",
+        "source": "P23",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Сімейний стан (одружений) враховано як характеристика особи при визначенні досягнення мети покарання."
+      },
+      {
+        "id": "E24",
+        "source": "P24",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Наявність сталих соціальних зв’язків впливає на висновок про досягнення мети покарання."
+      },
+      {
+        "id": "E25",
+        "source": "P25",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Суд прямо враховує тяжкість злочинів при визначенні виду покарання."
+      },
+      {
+        "id": "E26",
+        "source": "C07",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Висновок про досягнення мети покарання позбавленням волі передує застосуванню звільнення від відбування з випробуванням за ст.75 КК України."
+      },
+      {
+        "id": "E27",
+        "source": "P22",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Несудимість є підставою для можливості застосування ст.75 КК України."
+      },
+      {
+        "id": "E28",
+        "source": "P23",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Позитивна характеристика (одружений) враховується при ухваленні рішення про випробувальний строк."
+      },
+      {
+        "id": "E29",
+        "source": "P24",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Стійкі соціальні зв’язки підтримують висновок про доцільність звільнення з випробуванням."
+      },
+      {
+        "id": "E30",
+        "source": "C05",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Наявність пом’якшувальних обставин (визнання вини, сприяння) обґрунтовує застосування ст.75 КК України."
+      },
+      {
+        "id": "E31",
+        "source": "P20",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Посилання на статті 118, 124, 126 КПК України є правовою підставою для стягнення процесуальних витрат."
+      },
+      {
+        "id": "E32",
+        "source": "P21",
+        "target": "C10",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Стаття 100 КПК України визначає порядок вирішення долі речових доказів, на який посилається суд."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C03",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P11",
+          "P12",
+          "C03"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C04",
+        "components": [
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P13",
+          "P11",
+          "C04"
+        ],
+        "edges": [
+          "E09",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C02",
+        "components": [
+          "P16",
+          "P17",
+          "P18",
+          "P19",
+          "C01",
+          "C02"
+        ],
+        "edges": [
+          "E15",
+          "E16",
+          "E17",
+          "E18",
+          "E19"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "MITIGATING_CIRCUMSTANCES",
+        "main_claim": "C05",
+        "components": [
+          "P11",
+          "P14",
+          "C05"
+        ],
+        "edges": [
+          "E20",
+          "E21"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "AGGRAVATING_CIRCUMSTANCES",
+        "main_claim": "C06",
+        "components": [
+          "C06"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "SENTENCING",
+        "main_claim": "C08",
+        "components": [
+          "P22",
+          "P23",
+          "P24",
+          "P25",
+          "C07",
+          "C08",
+          "C05"
+        ],
+        "edges": [
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26",
+          "E27",
+          "E28",
+          "E29",
+          "E30"
+        ]
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C09",
+        "components": [
+          "P20",
+          "C09"
+        ],
+        "edges": [
+          "E31"
+        ]
+      },
+      {
+        "argument_id": "A08",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C10",
+        "components": [
+          "P21",
+          "C10"
+        ],
+        "edges": [
+          "E32"
+        ]
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [],
+        "text": "знаючи, що набуті ним вибухові речовини та пристрої є бойовими,",
+        "conflicts_with": "В інших частинах документа йдеться про пістолет і бойові патрони (вогнепальна зброя та боєприпаси), а не про вибухові речовини чи пристрої.",
+        "description": "Фрагмент містить термінологію, що не узгоджується з рештою рішення (ймовірно технічна помилка в описі предмета).",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 26,
+      "number_of_claims": 10,
+      "number_of_support_edges": 32,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 8,
+      "root_claims": [
+        "C02",
+        "C03",
+        "C04",
+        "C06",
+        "C08",
+        "C09",
+        "C10"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 1
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.93; review 2 flagged missing or hallucinated field(s)."
+  }
+}

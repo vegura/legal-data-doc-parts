@@ -1,0 +1,902 @@
+{
+  "document_id": "116120654",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "05.01.2021 близько 14 години ОСОБА_4 прийшла до будинку ОСОБА_5 , який розташований по АДРЕСА_2 на запрошення останньої.",
+          "paragraph_id": 13,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "таємно викрала з гаманця грошові кошти в сумі 2300 гривень",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "06.01.2021 близько 01.00 год. ОСОБА_4 прийшла до будинку ОСОБА_5 , який розташований по АДРЕСА_2 , щоб в неї переночувати.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "таємно викрала грошові кошти в сумі 2200 гривень",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "В результаті вище вказаних дій ОСОБА_4 потерпілій ОСОБА_5 завдано матеріального збитку на суму 4500 гривень.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "свою вину у вчиненні кримінальних правопорушень визнала",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченої",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "будучи в стані алкогольного сп`яніння",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченої",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Дві тисячі двісті гривень вона повернула сусідці ОСОБА_5 , яка приїхала до неї за ними.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченої",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Щиро розкаюється в скоєному.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пояснення обвинуваченої",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Потерпіла ОСОБА_5   в судове засідання не з`явилася, але надала  заяву, в якій просила проводити судовий розгляд справи без її участі.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція потерпілої",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "будь-яких претензій до ОСОБА_6 вона не має.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція потерпілої",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Просить призначити їй покарання згідно закону.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція потерпілої",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі ч. 3 ст. 349 КПК України",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні дії суду",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "вони будуть позбавлені права оскаржити ці обставини в апеляційному порядку.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні дії суду",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "суд приходить до висновку про повну доведеність вини ОСОБА_4   у таємному викраденні чужого майна (крадіжці) та у таємному викраденні чужого майна (крадіжці), вчиненому повторно,",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки суду та правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "а її дії підлягають кваліфікації  відповідно за ч.1 ст. 185 та ч.2 ст. 185  КК України.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки суду та правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ст. 12 КК України кримінальне правопорушення, передбачене ч.1 ст. 185 КК України, відноситься до категорії кримінальних проступків, кримінальне правопорушення, передбачене ч.2 ст. 185 КК України, є нетяжким злочином.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "ОСОБА_4 за місцем проживання характеризується посередньо, на обліку у лікарів нарколога та психіатра не перебуває, раніше притягувалася до кримінальної відповідальності, але відповідно до положень ст. 89 КК України визнається такою, що не має судимості.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Відповідно до ст. 66 КК України обставиною, що пом`якшує покарання ОСОБА_4 , суд визнає щире каяття.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "з врахуванням положень ст. 337 КПК України та з огляду на відсутність їх в обвинувальному акті",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставини, які б обтяжували покарання обвинуваченої, відповідно до ст. 67 КК України, відсутні (з врахуванням положень ст. 337 КПК України та з огляду на відсутність їх в обвинувальному акті).",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "виправлення обвинуваченої можливе без ізоляції від суспільства.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "та до остаточного покарання у виді позбавлення волі, призначеного за сукупністю кримінальних правопорушень, застосувати ст. ст. 75, 76 КК України,",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до ч. 2 ст. 50 КК України покарання має на меті не тільки кару, а й виправлення засудженого, а також запобігання вчиненню нових кримінальних правопорушень, як засудженими, так і іншими особами,",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд приходить до висновку, що призначене ОСОБА_4   покарання буде відповідати її особі і вчиненим нею кримінальним правопорушенням.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов у кримінальному провадженні не заявлявся.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші питання провадження",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C11",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Запобіжні заходи ОСОБА_4   не обиралися.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші питання провадження",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C12",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Процесуальні витрати у даному кримінальному провадженні відсутні.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші питання провадження",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C13",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Долю речових доказів необхідно вирішити відповідно до ст.100 КПК України.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Інші питання провадження",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись ст. ст. 369-371, 373-374, ч.15 ст. 615 КПК України, суд, -",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні підстави",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі ч.1 ст.70 КК України",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Резолютивна частина",
+        "support_status": null
+      },
+      {
+        "id": "C14",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "визначити покарання за сукупністю кримінальних правопорушень у виді 3-х років позбавлення волі.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Резолютивна частина",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C15",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Процесуальні витрати у даному кримінальному провадженні відсутні.",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C16",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Долю речових доказів необхідно вирішити відповідно до ст.100 КПК України.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Речові докази",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C17",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "На підставі ч.1 ст.70 КК України шляхом поглинення менш суворого покарання більш суворим визначити покарання за сукупністю кримінальних правопорушень у виді 3-х років позбавлення волі.",
+          "paragraph_id": 38,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Резолютивна частина",
+        "support_status": "SUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Факт таємного викрадення 2300 грн є прямою підставою для висновку про доведеність вини у крадіжці."
+      },
+      {
+        "id": "E02",
+        "source": "P04",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Факт таємного викрадення 2200 грн підтверджує повторність крадіжки і доведеність вини."
+      },
+      {
+        "id": "E03",
+        "source": "P05",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Визнання вини обвинуваченою додатково підтверджує висновок суду про доведеність вини."
+      },
+      {
+        "id": "E04",
+        "source": "P01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Вказання часу і місця першого епізоду конкретизує обставини вчинення крадіжки, що підтримує висновок про вину."
+      },
+      {
+        "id": "E05",
+        "source": "P03",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Вказання часу і місця другого епізоду конкретизує повторність діяння, що підтримує висновок про вину."
+      },
+      {
+        "id": "E06",
+        "source": "C03",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Встановлена судом доведеність вини є підставою для правової кваліфікації дій за відповідними частинами ст. 185 КК України."
+      },
+      {
+        "id": "E07",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Сума 2300 грн з першого епізоду є складовою загальної шкоди 4500 грн."
+      },
+      {
+        "id": "E08",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Сума 2200 грн з другого епізоду є складовою загальної шкоди 4500 грн."
+      },
+      {
+        "id": "E09",
+        "source": "P12",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.85,
+        "justification": "Посилання на ч. 3 ст. 349 КПК України обґрунтовує роз`яснення про обмеження права на апеляційне оскарження неоспорюваних обставин."
+      },
+      {
+        "id": "E10",
+        "source": "P08",
+        "target": "C05",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Заява обвинуваченої про щире розкаяння є фактичною підставою для визнання цієї обставини пом`якшуючою."
+      },
+      {
+        "id": "E11",
+        "source": "P15",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.83,
+        "justification": "Відсутність обставин, що обтяжують, обґрунтовується посиланням на ст. 337 КПК та відсутність таких у обвинувальному акті."
+      },
+      {
+        "id": "E12",
+        "source": "C05",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Наявність пом`якшуючої обставини сприяє висновку, що виправлення можливе без ізоляції."
+      },
+      {
+        "id": "E13",
+        "source": "C06",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Відсутність обтяжуючих обставин підтримує висновок про можливість виправлення без ізоляції."
+      },
+      {
+        "id": "E14",
+        "source": "P14",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Характеристика особи (відсутність обліку у нарколога/психіатра, відсутність судимості) свідчить на користь виправлення без ізоляції."
+      },
+      {
+        "id": "E15",
+        "source": "P10",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Відсутність претензій з боку потерпілої зменшує потребу в ізоляції як меті покарання."
+      },
+      {
+        "id": "E16",
+        "source": "P11",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.68,
+        "justification": "Позиція потерпілої про призначення покарання згідно закону узгоджується з можливістю м`якішого підходу без ізоляції."
+      },
+      {
+        "id": "E17",
+        "source": "C07",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Якщо виправлення можливе без ізоляції, це є підставою застосувати випробування за ст. 75, 76 КК України."
+      },
+      {
+        "id": "E18",
+        "source": "P13",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Категорія вчинених правопорушень (проступок і нетяжкий злочин) допускає застосування випробування."
+      },
+      {
+        "id": "E19",
+        "source": "P10",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.68,
+        "justification": "Відсутність претензій потерпілої сприяє висновку про можливість застосування випробування."
+      },
+      {
+        "id": "E20",
+        "source": "P16",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Мета покарання за ч. 2 ст. 50 КК України є критерієм для оцінки відповідності призначеного покарання особі та вчиненому."
+      },
+      {
+        "id": "E21",
+        "source": "C05",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Визнане судом щире каяття свідчить на користь помірності призначеного покарання."
+      },
+      {
+        "id": "E22",
+        "source": "P11",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.66,
+        "justification": "Позиція потерпілої врахована судом при визначенні, що покарання відповідає особі та вчиненому."
+      },
+      {
+        "id": "E23",
+        "source": "P18",
+        "target": "C14",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Посилання на ч.1 ст.70 КК України є безпосередньою правовою підставою визначення остаточного покарання за сукупністю."
+      },
+      {
+        "id": "E24",
+        "source": "P17",
+        "target": "C14",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Загальні процесуальні норми КПК, якими керується суд, підтверджують належність ухвалення резолютивної частини."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C03",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "C03"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C04",
+        "components": [
+          "C03",
+          "C04"
+        ],
+        "edges": [
+          "E06"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "FACTUAL",
+        "main_claim": "C01",
+        "components": [
+          "P02",
+          "P04",
+          "C01"
+        ],
+        "edges": [
+          "E07",
+          "E08"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C02",
+        "components": [
+          "P12",
+          "C02"
+        ],
+        "edges": [
+          "E09"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "MITIGATING_CIRCUMSTANCES",
+        "main_claim": "C05",
+        "components": [
+          "P08",
+          "C05"
+        ],
+        "edges": [
+          "E10"
+        ]
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "AGGRAVATING_CIRCUMSTANCES",
+        "main_claim": "C06",
+        "components": [
+          "P15",
+          "C06"
+        ],
+        "edges": [
+          "E11"
+        ]
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "PROBATION",
+        "main_claim": "C08",
+        "components": [
+          "C05",
+          "C06",
+          "P14",
+          "P10",
+          "P11",
+          "C07",
+          "P13",
+          "C08"
+        ],
+        "edges": [
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18",
+          "E19"
+        ]
+      },
+      {
+        "argument_id": "A08",
+        "argument_type": "SENTENCING",
+        "main_claim": "C09",
+        "components": [
+          "P16",
+          "C05",
+          "P11",
+          "C09"
+        ],
+        "edges": [
+          "E20",
+          "E21",
+          "E22"
+        ]
+      },
+      {
+        "argument_id": "A09",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C10",
+        "components": [
+          "C10"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A10",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C11",
+        "components": [
+          "C11"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A11",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C12",
+        "components": [
+          "C12"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A12",
+        "argument_type": "PHYSICAL_EVIDENCE",
+        "main_claim": "C13",
+        "components": [
+          "C13"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A13",
+        "argument_type": "SENTENCING",
+        "main_claim": "C14",
+        "components": [
+          "P18",
+          "P17",
+          "C14"
+        ],
+        "edges": [
+          "E23",
+          "E24"
+        ]
+      }
+    ],
+    "inconsistencies": [
+      {
+        "id": "I01",
+        "type": "SOURCE_INCONSISTENCY",
+        "component_ids": [
+          "P10"
+        ],
+        "text": "будь-яких претензій до ОСОБА_6 вона не має.",
+        "conflicts_with": "В інших частинах документа зазначено ОСОБА_4 як обвинувачена.",
+        "description": "У фрагменті з позицією потерпілої допущено неузгодженість в позначенні особи (використано «ОСОБА_6» замість «ОСОБА_4»).",
+        "likely_error": true
+      }
+    ],
+    "graph_summary": {
+      "number_of_premises": 18,
+      "number_of_claims": 17,
+      "number_of_support_edges": 24,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 13,
+      "root_claims": [
+        "C01",
+        "C02",
+        "C04",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C17"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 2,
+      "items_added": 3
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.90; review 7 flagged missing or hallucinated field(s)."
+  }
+}

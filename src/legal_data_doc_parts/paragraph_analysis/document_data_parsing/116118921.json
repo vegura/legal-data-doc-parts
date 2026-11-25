@@ -1,0 +1,361 @@
+{
+  "document_id": "116118921",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На початку серпня 2023 року, приблизно о 13:00 год. ОСОБА_4 , перебуваючи між с. Залісся Шепетівського району Хмельницької області та смт. Понінка Шепетівського району Хмельницької області в районі глиняних кар`єрів (координати 50.2186239, 27.5290168) під час збору металобрухту знайшов на землі корпус гранати РГД-5 та уніфікований запал ручної гранати типу УЗРГМ-2 замотаний в сміттєвий пакет, які взявши із собою переніс до місця свого проживання в АДРЕСА_1 , де зберігав їх у шухляді столу в спальній кімнаті.",
+          "paragraph_id": 14,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановив",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В кінці вересня 2023 року, приблизно о 15:00 год, в АДРЕСА_1 , ОСОБА_4 , маючи при собі вищевказану гранату зустрів свого знайомого неповнолітнього ОСОБА_6 , ІНФОРМАЦІЯ_2 , де на прохання останнього безоплатно збув (подарував) йому вказані корпус гранати РГД-5 та уніфікований запал ручної гранати типу УЗРГМ-2, що у своєму конструктивному поєднані утворюють бойову ручну наступальну осколкову гранату РГД-5, придатну до вибуху.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановив",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Зазначеними діями обвинувачений вчинив кримінальне правопорушення, передбачене ч.1 ст. 263 КК України -придбання, носіння, зберігання, збут бойових припасів без передбаченого законом дозволу.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "14.12.2023між прокурором Полонського відділу Шепетівської окружної прокуратури ОСОБА_3 та ОСОБА_4 за участю його адвоката ОСОБА_7 під час досудового розслідування кримінального провадження укладено угоду про визнання винуватості, згідно якої обвинувачений беззастережно та повністю визнав свою вину у інкримінованому для нього злочині.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про визнання винуватості",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Сторони угоди, погодились, що для ОСОБА_4 за ч.1 ст. 263 КК України слід призначити покарання у виді позбавлення волі строком на 4 роки, та на підставі ст. 75 КК України звільнити обвинуваченого від відбування покарання з випробуванням із встановленням іспитового строку визначеного судом та з покладенням обов`язків, передбачених ст. 76 КК України.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Угода про визнання винуватості",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Під час судового провадження прокурор ОСОБА_3 , обвинувачений та його захисник підтримали умови укладеної між ними угоди і просили суд затвердити її.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Заслухавши сторін кримінального провадження, дослідивши його матеріали, суд вважає, що угода про визнання винуватості підлягає затвердженню із наступних мотивів.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "За кримінальне правопорушення, у вчиненні якого обвинувачується ОСОБА_4 відповідно до ч.4 ст.469 КПК України допускається укладення між прокурором та обвинуваченим угоди про визнання винуватості, зміст якої відповідає вимогам визначеним ст.472 КПК України.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Під час судового засідання з`ясовано, що обвинувачений цілком розуміє його права, які зазначені у частині 4 статті 474 КПК України, наслідки укладення та затвердження угоди,  характер обвинувачення,  вид покарання, яке буде застосовано до нього у разі затвердження угоди судом.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "При цьому суд переконався, що укладення угоди сторонами є добровільним, тобто не є наслідком застосування насильства, примусу, погроз або наслідком обіцянок чи дії будь-яких інших обставин, ніж ті, що передбачені в угоді.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "У судовому засіданні не встановлено умов, передбачених ч.7 ст.474 КПК України, за наявності яких угода не підлягає затвердженню.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Узгоджене сторонами угоди покарання відповідає загальним правилам призначення покарань, передбаченим Кримінальним Кодексом України.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Керуючись наведеним, ст.ст.100, 124, 374, 468, 469, 473-476, ч.15 ст. 615 КПК України суд, -",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави",
+        "support_status": null
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Узгоджене сторонами угоди покарання відповідає загальним правилам призначення покарань, передбаченим Кримінальним Кодексом України.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Опис зберігання корпусу гранати та запалу створює підстави для висновку про вчинення діянь, передбачених ст. 263 КК України."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Факт безоплатного збуту (передачі) комплектуючих гранати неповнолітньому підтверджує елемент «збут» складу злочину за ст. 263 КК України."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Наявність укладеної угоди про визнання винуватості є передумовою для її затвердження судом."
+      },
+      {
+        "id": "E04",
+        "source": "P05",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.88,
+        "justification": "Позиція сторін, які підтримали угоду та просили її затвердити, слугує підставою для її схвалення."
+      },
+      {
+        "id": "E05",
+        "source": "P06",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Посилання на ч.4 ст. 469 та відповідність змісту угоди ст. 472 КПК України прямо обґрунтовують можливість затвердження угоди."
+      },
+      {
+        "id": "E06",
+        "source": "P07",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "З`ясування судом обізнаності обвинуваченого щодо прав і наслідків укладення угоди підтверджує дотримання вимог КПК до такої угоди."
+      },
+      {
+        "id": "E07",
+        "source": "P08",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Добровільність укладення угоди є необхідною умовою для її затвердження судом."
+      },
+      {
+        "id": "E08",
+        "source": "P09",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Відсутність підстав, визначених ч.7 ст.474 КПК України, усуває процесуальні перешкоди для затвердження угоди."
+      },
+      {
+        "id": "E09",
+        "source": "P10",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Відповідність узгодженого покарання загальним правилам підсилює висновок про допустимість затвердження угоди."
+      },
+      {
+        "id": "E10",
+        "source": "P11",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.87,
+        "justification": "Суд посилається на норми КПК України як на правову основу ухвалення рішення про затвердження угоди."
+      },
+      {
+        "id": "E11",
+        "source": "P04",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Узгоджені сторонами умови покарання є складовою змісту угоди і враховуються судом при вирішенні питання про її затвердження."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "GUILT",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C02",
+        "components": [
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P09",
+          "P10",
+          "P11",
+          "C02"
+        ],
+        "edges": [
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09",
+          "E10",
+          "E11"
+        ]
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 11,
+      "number_of_claims": 3,
+      "number_of_support_edges": 11,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 2,
+      "root_claims": [
+        "C01",
+        "C02",
+        "C03"
+      ],
+      "unsupported_claims": [
+        "C03"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 1
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.98; review 0 flagged missing or hallucinated field(s)."
+  }
+}

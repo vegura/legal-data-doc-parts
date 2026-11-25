@@ -1,0 +1,615 @@
+{
+  "document_id": "117489745",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На початку літа 2023 року, у невстановлений слідством точний день і час, перебуваючи між селами Сербо-Слобідка та Яблунівка Звягельського району Житомирської області, в канаві на землі виявив поліетиленовий пакет, в якому знаходились вогнепальна зброя та боєприпаси, які останній вирішив незаконно присвоїти собі для їх подальшого носіння та зберігання.",
+          "paragraph_id": 15,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Реалізуючи свій злочинний умисел, у невстановлений слідством точний час, ОСОБА_5 , усвідомлюючи протиправний характер своїх дій, розуміючи, що знайдена ним зброя є вогнепальною зброєю - гладкоствольним самозарядним пістолетом з діаметром каналу ствола 6,1 мм, а 9 (дев`ять) патронів - боєприпасами стрілецької вогнепальної зброї, переслідуючи мету подальшого їх незаконного носіння та зберігання без передбаченого законом дозволу, шляхом знахідки незаконно їх придбав.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Після цього, продовжуючи свої протиправні умисні дії, усвідомлюючи їх суспільну небезпечність, ОСОБА_5 переніс з вищевказаного місця до місця свого проживання за адресою: АДРЕСА_1 , вищевказану вогнепальну зброю та боєприпаси, де зберігав без передбаченого законом дозволу до 09.11.2023.",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "09.11.2023, за місцем проживання ОСОБА_5 , а саме: АДРЕСА_1 , у ході проведення обшуку, працівниками Звягельського РВП ГУНП в Житомирській області виявлено та вилучено:",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "вогнепальна зброя - гладкоствольний самозарядний пістолет з діаметром каналу ствола 6,1 мм, виготовлений шляхом перероблення саморобним способом стартового пістолета KRAL моделі «2008 MAGNUM», калібру 9 мм Р.А.К., номер екземпляру якого « НОМЕР_1 », виробництва Туреччини",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "1 (один) шт. - боеприпасом стрілецької вогнепальної зброї - бойовим 5,45 мм проміжним патроном, з трасуючою кулею «Т» зразка 1974 р.;",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "8 (вісім) шт. - боєприпасами стрілецької вогнепальної зброї - бойовими 9 мм пістолетними патронами зразка 1951 р. з кулею «Пст» зі сталевим осердям,",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "які ОСОБА_5 зберігав без передбаченого законом дозволу.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В судовому засіданні обвинувачений ОСОБА_5 та його захисник ОСОБА_4 звернулись до суду з клопотанням про затвердження угоди укладеної між підозрюваним та прокурором Звягельської окружної прокуратури.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "В судовому засіданні обвинувачений вину визнав повністю, та пояснив, що все вказане в обвинувальному акті відповідає дійсності, не заперечує проти часу місця, способу вчинення кримінальних правопорушень. Із за пропонованим видом та мірою покарання згоден. В скоєному щиро кається.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до п. 2 ст. 468 КПК України у кримінальному провадженні може бути укладена угода між прокурором та підозрюваним чи обвинуваченим про визнання винуватості.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми права (КПК України)",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно з ч. 4 ст. 469 КПК України угода про визнання винуватості між прокурором та підозрюваним чи обвинуваченим може бути укладена у провадженні щодо кримінальних проступків, злочинів невеликої тяжкості, тяжких злочинів, внаслідок яких шкода завдана лише державним чи суспільним інтересам.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Норми права (КПК України)",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Кримінальне правопорушення, у вчиненні якого обвинувачений визнав себе винуватим, є тяжким, злочин вчинений проти громадської безпеки,",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Крім того, суд переконався, що обвинувачений цілком розуміє права, передбачені ч. 4 ст. 474 КПК України та погоджується на призначення узгодженого покарання із застосуванням ст. 75 КК України.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Судом встановлено, що укладення угоди сторонами є добровільним, тобто не є наслідком застосування насильства, примусу, погроз або наслідком обіцянок чи дії будь-яких інших обставин, ніж ті, що передбачені в угоді.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Також судом встановлено, що сторони розуміють наслідки укладення та затвердження даної угоди, визначені ст. 473 КПК України.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Беручи до уваги, що обвинувачений вину визнав, щиро розкаявся у скоєному, до кримінальної відповідальності притягується вперше, у скоєному щиро розкаявся, сприяв розкриттю кримінального правопорушення",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "З урахуванням наведеного та керуючись ст.ст. 373, 374, 475 КПК України суд",
+          "paragraph_id": 31,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правові підстави",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Своїми умисними діями, які виразились у зберіганні вогнепальної зброї та боєприпасів, без передбаченого законом дозволу ОСОБА_5 , скоїв кримінальне правопорушення, передбачене ч. 1 ст. 263 КК України.",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація та вина",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "а тому угода відповідає вимогам КПК України.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви затвердження угоди",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд звільняє його від відбування покарання з випробуванням з іспитовим строком.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "По даному кримінальному провадженню є судові витрати які підлягають стягненню з обвинуваченого в повному обсязі.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Опис виявлення зброї та боєприпасів у конкретному місці і часі є фактичною основою для висновку про незаконне зберігання."
+      },
+      {
+        "id": "E02",
+        "source": "P02",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Фрагмент прямо вказує на незаконне придбання зброї та боєприпасів шляхом знахідки без дозволу, що підкріплює кваліфікацію за ч. 1 ст. 263 КК України."
+      },
+      {
+        "id": "E03",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.94,
+        "justification": "Перенесення за адресою проживання та подальше зберігання до конкретної дати підтверджує тривале незаконне зберігання."
+      },
+      {
+        "id": "E04",
+        "source": "P04",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Факт проведення обшуку та вилучення речей за місцем проживання підтверджує наявність зброї та боєприпасів у обвинуваченого."
+      },
+      {
+        "id": "E05",
+        "source": "P05",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Технічний опис зброї конкретизує предмет злочину, підтверджуючи, що це є вогнепальна зброя."
+      },
+      {
+        "id": "E06",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Опис одного вилученого патрона 5,45 мм доводить факт наявності боєприпасів."
+      },
+      {
+        "id": "E07",
+        "source": "P07",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Опис восьми пістолетних патронів 9 мм додатково підтверджує наявність боєприпасів."
+      },
+      {
+        "id": "E08",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.96,
+        "justification": "Пряме твердження про зберігання без дозволу узгоджується з ознаками складу злочину."
+      },
+      {
+        "id": "E09",
+        "source": "P10",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Повне визнання вини та узгодженість з обвинувальним актом підкріплюють висновок про вчинення кримінального правопорушення."
+      },
+      {
+        "id": "E10",
+        "source": "P11",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Норма п. 2 ст. 468 КПК прямо передбачає можливість укладення угоди про визнання винуватості."
+      },
+      {
+        "id": "E11",
+        "source": "P12",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Ч. 4 ст. 469 КПК дозволяє укладення угоди у провадженні щодо тяжких злочинів, що відповідає характеру інкримінованого діяння."
+      },
+      {
+        "id": "E12",
+        "source": "P13",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Кваліфікація злочину як тяжкого та проти громадської безпеки обґрунтовує відповідність угоди вимогам КПК України."
+      },
+      {
+        "id": "E13",
+        "source": "P14",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Суд переконався у розумінні прав обвинуваченим та його згоді на узгоджене покарання, що є умовою дійсності угоди."
+      },
+      {
+        "id": "E14",
+        "source": "P15",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.93,
+        "justification": "Встановлена добровільність укладення угоди підтверджує можливість її затвердження."
+      },
+      {
+        "id": "E15",
+        "source": "P16",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Сторони розуміють наслідки угоди згідно зі ст. 473 КПК, що підтверджує відповідність угоди вимогам закону."
+      },
+      {
+        "id": "E16",
+        "source": "P09",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Клопотання про затвердження угоди ініціює перевірку судом умов для її затвердження та свідчить про волю сторін."
+      },
+      {
+        "id": "E17",
+        "source": "P10",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Визнання вини, згода з видом і мірою покарання та каяття узгоджуються з природою угоди про визнання винуватості."
+      },
+      {
+        "id": "E18",
+        "source": "P18",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Зазначення норм КПК, якими суд керується, відображає правову основу ухвалення рішення щодо угоди."
+      },
+      {
+        "id": "E19",
+        "source": "P17",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.92,
+        "justification": "Перераховані пом’якшуючі обставини є підставою для застосування випробування."
+      },
+      {
+        "id": "E20",
+        "source": "P10",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Визнання вини та каяття сприяють призначенню м’якшого покарання із випробуванням."
+      },
+      {
+        "id": "E21",
+        "source": "C01",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.9,
+        "justification": "Встановлення вини та правової кваліфікації є передумовою призначення покарання та можливості звільнення від його відбування з випробуванням."
+      },
+      {
+        "id": "E22",
+        "source": "P18",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.68,
+        "justification": "Посилання на ст.ст. 373, 374, 475 КПК України відображає процесуальну основу ухвалення вироку та призначення покарання."
+      },
+      {
+        "id": "E23",
+        "source": "P18",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.55,
+        "justification": "Фраза про керування нормами КПК України слугує загальною правовою підставою для прийняття рішень у вироку, в тому числі щодо судових витрат."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P02",
+          "P03",
+          "P04",
+          "P05",
+          "P06",
+          "P07",
+          "P08",
+          "P10",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C02",
+        "components": [
+          "P11",
+          "P12",
+          "P13",
+          "P14",
+          "P15",
+          "P16",
+          "P09",
+          "P10",
+          "P18",
+          "C02"
+        ],
+        "edges": [
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "PROBATION",
+        "main_claim": "C03",
+        "components": [
+          "P17",
+          "P10",
+          "P18",
+          "C01",
+          "C03"
+        ],
+        "edges": [
+          "E19",
+          "E20",
+          "E21",
+          "E22"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C04",
+        "components": [
+          "P18",
+          "C04"
+        ],
+        "edges": [
+          "E23"
+        ]
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 18,
+      "number_of_claims": 4,
+      "number_of_support_edges": 23,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 4,
+      "root_claims": [
+        "C02",
+        "C03",
+        "C04"
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "metadata": {
+    "run_count": 2,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 2,
+      "selected_run_id": 2,
+      "items_added": 0
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 0 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.92; review 3 flagged missing or hallucinated field(s)."
+  }
+}

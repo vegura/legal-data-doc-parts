@@ -1,0 +1,1306 @@
+{
+  "document_id": "116232414",
+  "result": {
+    "components": [
+      {
+        "id": "P01",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "09.11.2022 близько 23 години 10 хвилин ОСОБА_4 , діючи в умовах воєнного стану, введеного Указом Президента України від 24.02.2022 № 64/2022 «Про введення воєнного стану в Україні» (із змінами), який затверджено Законом України від 24.02.2022 № 2102-IX «Про затвердження Указу Президента України «Про введення воєнного стану в Україні», який неодноразово подовжувався та діє на теперішній час, перебуваючи за адресою : АДРЕСА_2 , реалізуючи свій умисел, направлений на таємне викрадення чужого майна, переслідуючи корисливий мотив, маючи на меті незаконне збагачення за рахунок чужого майна, усвідомлюючи протиправний характер своїх дій та передбачаючи їх негативні наслідки, впевнившись, що за його діями ніхто не спостерігає, шляхом вільного доступу зайшов на територію домоволодіння АДРЕСА_2 , підійшов до гаражного приміщення та шляхом підбору ключа відчинив двері та потрапив всередину гаража, звідки таємно викрав наступні електроінструменти : болгарку марки «Grand МШУ-125-1300Е» вартістю 820,50 грн., шуруповерт марки «Зенит 3Ш-550» вартістю 674,25 грн., мийку високого тиску марки «Karcher K4 Compakt» вартістю 5625,90 грн., будівельний фен марки «Nowa O 2000j» вартістю 446,25 грн., перфоратор марки «Makita HR 2450» вартістю 1700,00 грн., зарядний пристрій «Estel» вартістю 200,00 грн., акумулятор марки «Volmaster 5619 62Ah 540 (en) 12V» вартістю 800,00 грн., кейс сірого кольору із набором ключів вартістю 2500,00 грн., кейс синього кольору із набором різного роду інструментів вартістю 700,00 грн., подовжувач чорного кольору довжиною 10 м на три розетки (сад/город) вартістю 1000,00 грн., два подовжувачі чорного кольору довжиною по 20 м кожен на одну розетку (сад/город) вартістю 750,00 грн. за один на загальну суму 1500,00 грн., які належать ОСОБА_5 після чого разом із викраденим майном покинув місце вчинення кримінального правопорушення, розпорядившись викраденим на власний розсуд, завдавши своїми умисними протиправними діями майнової шкоди потерпілому ОСОБА_5 на загальну суму 15966,90 грн.",
+          "paragraph_id": 16,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Встановлені судом обставини",
+        "support_status": null
+      },
+      {
+        "id": "P02",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "винуватим себе визнав повністю",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін / Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P03",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "деякі викрадені інструменти він продав, а інші зберігав у себе вдома",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін / Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P04",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "всю завдану потерпілому шкоду відшкодовано в повному обсязі",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін / Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P05",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "дуже шкодує та щиро кається у вчиненому",
+          "paragraph_id": 17,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиції сторін / Пояснення обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P06",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "побачив, що з гаража було викрадено електроінструменти, після чого він негайно викликав працівників поліції.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Показання потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "P07",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "фактичні обставини справи, які ніхто не оспорює",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного розгляду",
+        "support_status": null
+      },
+      {
+        "id": "P08",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "погоджуються з кваліфікацією вчиненого діяння",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні підстави спрощеного розгляду",
+        "support_status": null
+      },
+      {
+        "id": "P09",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "роз`яснивши цим особам, що у такому випадку вони будуть позбавлені права оскаржити ці обставини в апеляційному порядку",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні гарантії та роз`яснення прав",
+        "support_status": null
+      },
+      {
+        "id": "P10",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "п. 1 ст. 6 Конвенції про захист прав людини та основоположних свобод",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні підстави (Конвенція, Рекомендації, практика ЄСПЛ)",
+        "support_status": null
+      },
+      {
+        "id": "P11",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "розділу ІІІ Рекомендації № 6 R (87) 18 Комітету міністрів Ради Європи щодо спрощеного кримінального правосуддя",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні підстави (Конвенція, Рекомендації, практика ЄСПЛ)",
+        "support_status": null
+      },
+      {
+        "id": "P12",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "практики Європейського Суду з прав людини щодо їх застосування",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні підстави (Конвенція, Рекомендації, практика ЄСПЛ)",
+        "support_status": null
+      },
+      {
+        "id": "P13",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Згідно до ст. 337 КПК України суд діє лише в межах висунутого обвинувачення.",
+          "paragraph_id": 20,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні межі розгляду",
+        "support_status": null
+      },
+      {
+        "id": "C01",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Суд кваліфікує дії обвинуваченого ОСОБА_4 за викладеним фактом за ч. 4 ст. 185 КК України, як таємне викрадення чужого майна (крадіжка), поєднане з проникненням до іншого приміщення, вчинене в умовах воєнного стану.",
+          "paragraph_id": 21,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Правова кваліфікація",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C12",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "що на підставі п. 1 ч. 1 ст. 66 КК України визнається пом`якшуючими покарання обставинами.",
+          "paragraph_id": 22,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Пом`якшуючі обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C05",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "Обставин, що обтяжують покарання ОСОБА_4 судом не встановлено.",
+          "paragraph_id": 23,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Обтяжуючі обставини",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P34",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Відповідно до положень ст. 12 КК України",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Нормативні підстави (КК України)",
+        "support_status": null
+      },
+      {
+        "id": "C07",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "вчинене ОСОБА_4 кримінальне правопорушення, передбачене ч. 4 ст. 185 КК України, відноситься до тяжкого злочину.",
+          "paragraph_id": 24,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Класифікація злочину за ст. 12 КК України",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P15",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "до кримінальної відповідальності раніше не притягувався;",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P16",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "будучи працездатним офіційно не працевлаштований;",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P17",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "інвалідності не має;",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P18",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "не одружений, однак (зі слів) проживає без реєстрації шлюбу з жінкою, мають двох малолітніх дітей 2018 та 2023 року народження;",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P19",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "за місцем реєстрації на диспансерному обліку у лікарів психіатра та нарколога не перебуває;",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P20",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "за місцем проживання характеризується як особа, що виріс в неблагополучній сім`ї, скарг та нарікань до старостинського округу на нього не надходило.",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      },
+      {
+        "id": "P21",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "встановленої ст. 50 КК України його мети не тільки кари, а й виправлення і запобігання вчиненню винними та іншими особами нових злочинів",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Загальні засади призначення покарання (КК України)",
+        "support_status": null
+      },
+      {
+        "id": "P22",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "покарання як втручання держави в приватне життя особи повинно спрямовуватись на досягнення справедливого балансу між загальними інтересами суспільства та потребою захисту основоположних прав особи, - воно має бути законним, (несвавільним), пропорційним (не становити надмірного тягаря для особи)",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Підходи ЄСПЛ до пропорційності покарання",
+        "support_status": null
+      },
+      {
+        "id": "P23",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "«Бакланов проти Росії» від 09.06.2005 р.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Посилання на практику ЄСПЛ",
+        "support_status": null
+      },
+      {
+        "id": "P24",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "«Фрізен проти Росії» від 24.03.2005 р.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Посилання на практику ЄСПЛ",
+        "support_status": null
+      },
+      {
+        "id": "P25",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "«Ісмайлова проти Росії» від 29.11.2007 р.",
+          "paragraph_id": 26,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Посилання на практику ЄСПЛ",
+        "support_status": null
+      },
+      {
+        "id": "P26",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "покарання має бути адекватним (відповідним) характеру  вчинених дій, їх небезпечності та даним про особу.",
+          "paragraph_id": 27,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Принципи призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P27",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "потерпілому завдану майнову шкоду відшкодував в повному обсязі",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P28",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "беручи до уваги позицію прокурора та потерпілого",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P29",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "усвідомлює неправомірність своїх дій та дуже шкодує про вчинене",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "P30",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "підстав очікувати продовження ОСОБА_4 вчинення правопорушень суд не встановив",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Мотиви призначення покарання",
+        "support_status": null
+      },
+      {
+        "id": "C02",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд дійшов висновку про доцільність застосування до ОСОБА_4 покарання у виді позбавлення волі у мінімальному розмірі, визначеному санкцією ч. 4 ст. 185 КК України",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки щодо виду та розміру покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C03",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "вбачає можливим його виправлення без відбування покарання із застосуванням ст.ст. 75, 76 КК України з покладанням обов`язків",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки щодо звільнення від відбування покарання з випробуванням",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C04",
+        "type": "CLAIM",
+        "argumentative_role": "INTERMEDIATE_CONCLUSION",
+        "source_span": {
+          "text": "застосування більшого розміру покарання або ізоляції від суспільства, за конкретних обставин справи і поведінки обвинуваченого в даному випадку є явно не справедливим",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Оцінка справедливості суворішого покарання",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C08",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "достатніх підстав для цього суд не вбачає, так само як і для застосування правил ст. 69 КК України.",
+          "paragraph_id": 28,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Висновки щодо незастосування ст. 69 КК України",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C10",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Цивільний позов не заявлено.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Цивільний позов",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C11",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Арешт на майно не накладався.",
+          "paragraph_id": 29,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальні заходи щодо майна",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "C09",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Документально підтверджені витрати на залучення експерта слід стягнути на користь держави з обвинуваченого.",
+          "paragraph_id": 30,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Судові витрати",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P31",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "На підставі викладеного, керуючись ст.ст. 100, 124, 369-378 КПК України, суд -",
+          "paragraph_id": 33,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Законодавчі підстави завершальної частини вироку",
+        "support_status": null
+      },
+      {
+        "id": "C06",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "суд визнав недоцільним дослідження доказів винуватості обвинуваченого у вчиненні даного кримінального правопорушення, обмежившись допитом обвинуваченого, потерпілого та дослідженням матеріалів, які характеризують особу обвинуваченого",
+          "paragraph_id": 19,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Процесуальне рішення щодо порядку дослідження доказів",
+        "support_status": "SUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P33",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "Обвинувачений відшкодував повністю завдану потерпілому матеріальну шкоду, претензій до нього останній не має, просить обвинуваченого суворо не карати.",
+          "paragraph_id": 18,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Позиція потерпілого",
+        "support_status": null
+      },
+      {
+        "id": "C13",
+        "type": "CLAIM",
+        "argumentative_role": "FINAL_CONCLUSION",
+        "source_span": {
+          "text": "Запобіжний захід до обвинуваченого не обирався і підстави для його застосування до набрання вироком законної сили суд не вбачає.",
+          "paragraph_id": 32,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Запобіжний захід",
+        "support_status": "UNSUPPORTED_IN_TEXT"
+      },
+      {
+        "id": "P14",
+        "type": "PREMISE",
+        "argumentative_role": "BASE_PREMISE",
+        "source_span": {
+          "text": "офіційно не працевлаштований",
+          "paragraph_id": 25,
+          "start_char": null,
+          "end_char": null
+        },
+        "section": "Дані про особу обвинуваченого",
+        "support_status": null
+      }
+    ],
+    "relations": [
+      {
+        "id": "E01",
+        "source": "P01",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.95,
+        "justification": "Детальний опис способу проникнення, викраденого майна, власника та розміру шкоди підтверджує склад крадіжки з проникненням у період воєнного стану."
+      },
+      {
+        "id": "E02",
+        "source": "P08",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Згода учасників провадження з кваліфікацією діяння підтверджує відсутність спору щодо правової оцінки."
+      },
+      {
+        "id": "E03",
+        "source": "P06",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Повідомлення потерпілого про викрадення та виклик поліції узгоджуються з фактом вчинення крадіжки."
+      },
+      {
+        "id": "E55",
+        "source": "P03",
+        "target": "C01",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Зізнання обвинуваченого щодо подальшого розпорядження викраденим свідчить про таємне викрадення майна."
+      },
+      {
+        "id": "E04",
+        "source": "P07",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.86,
+        "justification": "Неоспорюваність фактичних обставин є підставою для спрощеного дослідження доказів."
+      },
+      {
+        "id": "E05",
+        "source": "P09",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.84,
+        "justification": "Суд роз`яснив обмеження апеляційного оскарження обставин, що є процесуальною умовою для скороченого розгляду."
+      },
+      {
+        "id": "E06",
+        "source": "P10",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.8,
+        "justification": "Посилання на п. 1 ст. 6 Конвенції обґрунтовує допустимість спрощеного розгляду з дотриманням права на справедливий суд."
+      },
+      {
+        "id": "E07",
+        "source": "P11",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.82,
+        "justification": "Рекомендація R(87)18 Ради Європи прямо стосується спрощеного кримінального правосуддя, що підтверджує обрану судом процедуру."
+      },
+      {
+        "id": "E08",
+        "source": "P12",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.75,
+        "justification": "Практика ЄСПЛ визнає можливість спрощених процедур за дотримання гарантій, що підкріплює рішення суду."
+      },
+      {
+        "id": "E09",
+        "source": "P13",
+        "target": "C06",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.68,
+        "justification": "Нагадування про межі обвинувачення за ст. 337 КПК України узгоджується з обмеженим дослідженням доказів."
+      },
+      {
+        "id": "E42",
+        "source": "P34",
+        "target": "C07",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.77,
+        "justification": "Посилання на ст. 12 КК України є правовою підставою для віднесення злочину до категорії тяжких."
+      },
+      {
+        "id": "E10",
+        "source": "P21",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Мета покарання за ст. 50 КК України слугує орієнтиром для вибору мінімального строку позбавлення волі."
+      },
+      {
+        "id": "E11",
+        "source": "P26",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.74,
+        "justification": "Принципи адекватності та індивідуалізації виправдовують визначення мінімального розміру покарання."
+      },
+      {
+        "id": "E12",
+        "source": "C07",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Кваліфікація злочину як тяжкого враховується при виборі виду та розміру покарання."
+      },
+      {
+        "id": "E13",
+        "source": "C05",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.73,
+        "justification": "Відсутність обтяжуючих обставин схиляє до м`якшого покарання у межах санкції."
+      },
+      {
+        "id": "E14",
+        "source": "P27",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.76,
+        "justification": "Повне відшкодування шкоди зменшує необхідність суворішого покарання."
+      },
+      {
+        "id": "E15",
+        "source": "P02",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.71,
+        "justification": "Визнання вини враховується як позитивна поведінка при призначенні покарання."
+      },
+      {
+        "id": "E16",
+        "source": "P28",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.69,
+        "justification": "Позиція прокурора і потерпілого врахована судом при виборі мінімального строку."
+      },
+      {
+        "id": "E17",
+        "source": "P22",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Вимога пропорційності покарання за практикою ЄСПЛ підтримує помірність санкції."
+      },
+      {
+        "id": "E18",
+        "source": "P23",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.63,
+        "justification": "Правова позиція у справі «Бакланов проти Росії» стосується пропорційності втручання, що релевантно до вибору покарання."
+      },
+      {
+        "id": "E19",
+        "source": "P24",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.63,
+        "justification": "Посилання на «Фрізен проти Росії» також підкріплює критерій пропорційності покарання."
+      },
+      {
+        "id": "E20",
+        "source": "P25",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.63,
+        "justification": "Справи ЄСПЛ щодо пропорційності втручання узгоджуються з обраним підходом суду."
+      },
+      {
+        "id": "E21",
+        "source": "P21",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.76,
+        "justification": "Цілі покарання включають виправлення без ізоляції, що обґрунтовує застосування ст. 75, 76 КК."
+      },
+      {
+        "id": "E22",
+        "source": "P02",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Повне визнання вини свідчить про можливість виправлення без відбування покарання."
+      },
+      {
+        "id": "E23",
+        "source": "P04",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.78,
+        "justification": "Відшкодування шкоди вказує на виправлення поведінки і зменшує потребу в ізоляції."
+      },
+      {
+        "id": "E24",
+        "source": "P05",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.73,
+        "justification": "Щире каяття підтверджує позитивну динаміку особи для звільнення з випробуванням."
+      },
+      {
+        "id": "E25",
+        "source": "P28",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.69,
+        "justification": "Узгоджені позиції сторін підтримують застосування випробування."
+      },
+      {
+        "id": "E26",
+        "source": "P22",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.71,
+        "justification": "Пропорційність і баланс інтересів допускають виправлення без ізоляції."
+      },
+      {
+        "id": "E27",
+        "source": "P23",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.62,
+        "justification": "Практика ЄСПЛ («Бакланов») використовується для підкріплення пропорційності обраного рішення."
+      },
+      {
+        "id": "E28",
+        "source": "P24",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.62,
+        "justification": "Посилання на справу «Фрізен» також слугує аргументом пропорційності."
+      },
+      {
+        "id": "E29",
+        "source": "P25",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.62,
+        "justification": "Справи ЄСПЛ щодо пропорційності підтримують рішення про звільнення з випробуванням."
+      },
+      {
+        "id": "E30",
+        "source": "C04",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.77,
+        "justification": "Висновок про явну несправедливість ізоляції безпосередньо підводить до застосування випробування."
+      },
+      {
+        "id": "E31",
+        "source": "P30",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Відсутність ризику рецидиву зменшує потребу у відбуванні покарання."
+      },
+      {
+        "id": "E44",
+        "source": "P15",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.66,
+        "justification": "Несудимість позитивно характеризує особу для звільнення з випробуванням."
+      },
+      {
+        "id": "E45",
+        "source": "P16",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.58,
+        "justification": "Соціально-побутові дані враховуються при вирішенні питання про випробування."
+      },
+      {
+        "id": "E46",
+        "source": "P17",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.56,
+        "justification": "Відсутність інвалідності як характеристика нейтральна, але відображає індивідуалізацію покарання."
+      },
+      {
+        "id": "E47",
+        "source": "P18",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.64,
+        "justification": "Наявність двох малолітніх дітей враховується при визначенні можливості випробування."
+      },
+      {
+        "id": "E48",
+        "source": "P19",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.62,
+        "justification": "Відсутність перебування на обліку у нарколога/психіатра свідчить на користь менш суворого підходу."
+      },
+      {
+        "id": "E49",
+        "source": "P20",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.6,
+        "justification": "Позитивна характеристика за місцем проживання враховується як умова для випробування."
+      },
+      {
+        "id": "E52",
+        "source": "C12",
+        "target": "C02",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.74,
+        "justification": "Наявність пом`якшуючих обставин дозволяє обрати мінімальний строк покарання."
+      },
+      {
+        "id": "E53",
+        "source": "C12",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.74,
+        "justification": "Пом`якшуючі обставини виправдовують звільнення з випробуванням."
+      },
+      {
+        "id": "E54",
+        "source": "C05",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.72,
+        "justification": "Відсутність обтяжуючих обставин сприяє застосуванню випробування."
+      },
+      {
+        "id": "E33",
+        "source": "P27",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.73,
+        "justification": "Повне відшкодування шкоди зменшує потребу у більш суворому покаранні."
+      },
+      {
+        "id": "E34",
+        "source": "P29",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.71,
+        "justification": "Каяття та усвідомлення неправомірності дій свідчать проти ізоляції від суспільства."
+      },
+      {
+        "id": "E35",
+        "source": "P30",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Відсутність підстав очікувати продовження правопорушень робить ізоляцію явно несправедливою."
+      },
+      {
+        "id": "E36",
+        "source": "P28",
+        "target": "C04",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.65,
+        "justification": "Позиції прокурора та потерпілого враховані судом і свідчать проти більш суворого покарання."
+      },
+      {
+        "id": "E37",
+        "source": "P27",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.67,
+        "justification": "Відшкодування шкоди зменшує підстави для посилення покарання чи застосування ст. 69 КК."
+      },
+      {
+        "id": "E38",
+        "source": "P29",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.63,
+        "justification": "Каяття також свідчить проти необхідності спеціальних правил ст. 69 КК."
+      },
+      {
+        "id": "E39",
+        "source": "P30",
+        "target": "C08",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.63,
+        "justification": "Відсутність ризику рецидиву не створює підстав для особливого коригування покарання за ст. 69 КК."
+      },
+      {
+        "id": "E43",
+        "source": "P31",
+        "target": "C09",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.7,
+        "justification": "Згадування ст. 124 КПК України у фінальних приписах є правовою підставою для стягнення процесуальних витрат."
+      },
+      {
+        "id": "E32",
+        "source": "P33",
+        "target": "C03",
+        "relation": "SUPPORT",
+        "support_structure": "CONVERGENT",
+        "confidence": 0.69,
+        "justification": "Позиція потерпілого, який не має претензій і просить не карати суворо, підтримує звільнення з випробуванням."
+      }
+    ],
+    "arguments": [
+      {
+        "argument_id": "A01",
+        "argument_type": "LEGAL_QUALIFICATION",
+        "main_claim": "C01",
+        "components": [
+          "P01",
+          "P03",
+          "P06",
+          "P08",
+          "C01"
+        ],
+        "edges": [
+          "E01",
+          "E02",
+          "E03",
+          "E55"
+        ]
+      },
+      {
+        "argument_id": "A02",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C06",
+        "components": [
+          "P07",
+          "P09",
+          "P10",
+          "P11",
+          "P12",
+          "P13",
+          "C06"
+        ],
+        "edges": [
+          "E04",
+          "E05",
+          "E06",
+          "E07",
+          "E08",
+          "E09"
+        ]
+      },
+      {
+        "argument_id": "A03",
+        "argument_type": "SENTENCING",
+        "main_claim": "C02",
+        "components": [
+          "P21",
+          "P26",
+          "C07",
+          "C05",
+          "P27",
+          "P02",
+          "P28",
+          "P22",
+          "P23",
+          "P24",
+          "P25",
+          "C02",
+          "C12"
+        ],
+        "edges": [
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18",
+          "E19",
+          "E20",
+          "E52"
+        ]
+      },
+      {
+        "argument_id": "A04",
+        "argument_type": "PROBATION",
+        "main_claim": "C03",
+        "components": [
+          "P21",
+          "P22",
+          "P23",
+          "P24",
+          "P25",
+          "P02",
+          "P04",
+          "P05",
+          "P28",
+          "P30",
+          "P33",
+          "C04",
+          "C12",
+          "P15",
+          "P16",
+          "P17",
+          "P18",
+          "P19",
+          "P20",
+          "C03"
+        ],
+        "edges": [
+          "E21",
+          "E22",
+          "E23",
+          "E24",
+          "E25",
+          "E26",
+          "E27",
+          "E28",
+          "E29",
+          "E30",
+          "E31",
+          "E32",
+          "E44",
+          "E45",
+          "E46",
+          "E47",
+          "E48",
+          "E49",
+          "E53"
+        ]
+      },
+      {
+        "argument_id": "A05",
+        "argument_type": "MITIGATING_CIRCUMSTANCES",
+        "main_claim": "C12",
+        "components": [
+          "P14",
+          "P05",
+          "C12"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A06",
+        "argument_type": "COURT_COSTS",
+        "main_claim": "C09",
+        "components": [
+          "P31",
+          "C09"
+        ],
+        "edges": [
+          "E43"
+        ]
+      },
+      {
+        "argument_id": "A07",
+        "argument_type": "CIVIL_CLAIM",
+        "main_claim": "C10",
+        "components": [
+          "C10"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A08",
+        "argument_type": "OTHER",
+        "main_claim": "C11",
+        "components": [
+          "C11"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A09",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C13",
+        "components": [
+          "C13"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A10",
+        "argument_type": "OTHER",
+        "main_claim": "C11",
+        "components": [
+          "C11"
+        ],
+        "edges": []
+      },
+      {
+        "argument_id": "A11",
+        "argument_type": "PROCEDURAL",
+        "main_claim": "C12",
+        "components": [
+          "P18",
+          "C12"
+        ],
+        "edges": [
+          "E30"
+        ]
+      },
+      {
+        "argument_id": "A12",
+        "argument_type": "PREVENTIVE_MEASURE",
+        "main_claim": "C13",
+        "components": [
+          "P19",
+          "C13"
+        ],
+        "edges": [
+          "E31"
+        ]
+      }
+    ],
+    "inconsistencies": [],
+    "graph_summary": {
+      "number_of_premises": 33,
+      "number_of_claims": 13,
+      "number_of_support_edges": 51,
+      "number_of_attack_edges": 0,
+      "number_of_arguments": 12,
+      "root_claims": [
+        "C01",
+        "C02",
+        "C03",
+        "C06",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C13"
+      ],
+      "unsupported_claims": [
+        "C13"
+      ]
+    }
+  },
+  "metadata": {
+    "run_count": 3,
+    "aggregation_notes": {
+      "strategy": "highest_confidence_then_unique_union",
+      "runs_considered": 3,
+      "selected_run_id": 3,
+      "items_added": 4
+    },
+    "aggregation_rationale": "Selected and merged evaluated runs, then enforced graph referential integrity; removed 2 dangling reference(s).",
+    "human_review_guide": "Best evaluation confidence: 0.84; review 6 flagged missing or hallucinated field(s)."
+  }
+}
